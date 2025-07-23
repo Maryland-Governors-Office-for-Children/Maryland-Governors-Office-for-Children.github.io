@@ -1,0 +1,930 @@
+name,type,tag,lat,lng,isMainOffice,isMdi,bilingual_Services,credit_Builder,financial_Counseling,first_Time_Homebuyer_Program,inSchoolBranch,low_cost_wire_transfers,no_Cost_Tax_Preparation,no_Cost_Share_Drafts,payday_alternative_loans,quality,type_label,tag_label,GEOID20,grantee
+7-Eleven,grocery,convenience,39.308232,-76.4450024,,,,,,,,,,,,,Grocery,Convenience,24005450504,True
+Exxon,grocery,convenience,39.3124443,-76.449067,,,,,,,,,,,,,Grocery,Convenience,24005450504,True
+Safeway,grocery,supermarket,38.9700252,-76.5228827,,,,,,,,,,,,,Grocery,Supermarket,24003702500,True
+Spicklers Market,grocery,convenience,39.6429047,-77.7187358,,,,,,,,,,,,,Grocery,Convenience,24043000500,True
+Angkor Supermarket,grocery,supermarket,38.9928633,-76.9922145,,,,,,,,,,,,,Grocery,Supermarket,24031702000,True
+7-Eleven,grocery,convenience,38.992679,-76.9926197,,,,,,,,,,,,,Grocery,Convenience,24031702000,True
+La Casa del Pueblo,grocery,convenience,39.314967,-76.4527555,,,,,,,,,,,,,Grocery,Convenience,24005450501,True
+Soda Pop Shop,grocery,convenience,39.2255094,-76.5886245,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+Tierda Mexicana Velasquez,grocery,convenience,38.566751,-76.0781078,,,,,,,,,,,,,Grocery,Convenience,24019970500,True
+Black Water,grocery,bakery,38.5689678,-76.0775733,,,,,,,,,,,,,Grocery,Bakery,24019970500,True
+E. G. Webster and Sons,grocery,supermarket,38.5626597,-76.0808667,,,,,,,,,,,,,Grocery,Supermarket,24019970600,True
+Baltimore Farmers Market & Bazaar,grocery,farm,39.2934389,-76.6102415,,,,,,,,,,,,,Grocery,Farm,24510280500,True
+Cinco de Mayo Dos,grocery,convenience,39.2854776,-76.5986561,,,,,,,,,,,,,Grocery,Convenience,24510030100,True
+Piedigrotta Italian Bakery,grocery,bakery,39.2865013,-76.5986571,,,,,,,,,,,,,Grocery,Bakery,24510030100,True
+Giant,grocery,supermarket,38.948528,-76.4866919,,,,,,,,,,,,,Grocery,Supermarket,24003706303,True
+Ocean City Seafood,grocery,seafood,38.9992392,-77.0035675,,,,,,,,,,,,,Grocery,Seafood,24031702301,True
+A Plus Grocery,grocery,convenience,39.3175321,-76.6114802,,,,,,,,,,,,,Grocery,Convenience,24510120300,True
+Giant,grocery,supermarket,39.3577163,-76.706514,,,,,,,,,,,,,Grocery,Supermarket,24510280101,True
+Hilltop Shopping Center,grocery,convenience,39.347542,-76.689012,,,,,,,,,,,,,Grocery,Convenience,24510271801,True
+Perez International Foods,grocery,grocery,39.4349479,-76.3190481,,,,,,,,,,,,,Grocery,Grocery,24025301301,True
+Grocery Outlet,grocery,supermarket,39.4342767,-76.3157726,,,,,,,,,,,,,Grocery,Supermarket,24025301302,True
+Tienda Naturista Playa Ventura,grocery,convenience,39.3114461,-76.4675935,,,,,,,,,,,,,Grocery,Convenience,24005450501,True
+You & I International Market,grocery,convenience,39.435676,-76.3071281,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
+Drew's Crab Shack,grocery,seafood,39.4426383,-76.3157685,,,,,,,,,,,,,Grocery,Seafood,24025301301,True
+Save-A-Lot,grocery,supermarket,38.8344218,-76.9587753,,,,,,,,,,,,,Grocery,Supermarket,24033801808,True
+Clifton Food Market,grocery,convenience,39.3205201,-76.5916403,,,,,,,,,,,,,Grocery,Convenience,24510090700,True
+Druid Hill Farmers Market,grocery,marketplace,39.3178788,-76.6459117,,,,,,,,,,,,,Grocery,Marketplace,24510130400,True
+Johns Hopkins Hospital Farmers Market,grocery,marketplace,39.2961875,-76.5974267,,,,,,,,,,,,,Grocery,Marketplace,24510280500,True
+Motzi Bread,grocery,bakery,39.3221674,-76.6128346,,,,,,,,,,,,,Grocery,Bakery,24510120300,True
+ALDI,grocery,supermarket,38.6211566,-76.9139707,,,,,,,,,,,,,Grocery,Supermarket,24017850901,True
+ALDI,grocery,supermarket,39.41489,-77.4445461,,,,,,,,,,,,,Grocery,Supermarket,24021750505,True
+Southern Steel Shelving Company,grocery,wholesale,39.3207557,-76.6076422,,,,,,,,,,,,,Grocery,Wholesale,24510090400,True
+Shoppers Food & Pharmacy,grocery,supermarket,39.3169249,-76.6523214,,,,,,,,,,,,,Grocery,Supermarket,24510150500,True
+Granny's,grocery,convenience,39.3175826,-76.6553493,,,,,,,,,,,,,Grocery,Convenience,24510150500,True
+7-Eleven,grocery,convenience,39.2539072,-76.6176501,,,,,,,,,,,,,Grocery,Convenience,24510250203,True
+Package Deals Plus,grocery,butcher,39.2539708,-76.6174669,,,,,,,,,,,,,Grocery,Butcher,24510250203,True
+Quizno's,grocery,deli,39.6338007,-77.6998783,,,,,,,,,,,,,Grocery,Deli,24043000601,True
+Weis,grocery,supermarket,39.6338099,-77.7005247,,,,,,,,,,,,,Grocery,Supermarket,24043000601,True
+Atlantic Supermarket,grocery,supermarket,38.9887792,-76.9859511,,,,,,,,,,,,,Grocery,Supermarket,24033805601,True
+Casa Blanca,grocery,bakery,38.9909654,-76.9878289,,,,,,,,,,,,,Grocery,Bakery,24033805601,True
+Mercadito Ramos II,grocery,convenience,38.9912487,-76.9881063,,,,,,,,,,,,,Grocery,Convenience,24033805601,True
+Unnamed seafood,grocery,seafood,38.3235406,-76.2297925,,,,,,,,,,,,,Grocery,Seafood,24019970804,True
+Big E's Convenience Store,grocery,convenience,39.3301051,-76.6093013,,,,,,,,,,,,,Grocery,Convenience,24510090300,True
+Unnamed convenience,grocery,convenience,38.6951399,-75.7674403,,,,,,,,,,,,,Grocery,Convenience,24011955600,True
+Sweet Hearts Patisserie,grocery,pastry,38.9613563,-76.509606,,,,,,,,,,,,,Grocery,Pastry,24003706403,True
+Unnamed convenience,grocery,convenience,39.3434183,-76.6839847,,,,,,,,,,,,,Grocery,Convenience,24510271801,True
+Gera Variety,grocery,convenience,39.316713,-76.65023,,,,,,,,,,,,,Grocery,Convenience,24510130400,True
+E&E Corner Market,grocery,convenience,39.2990206,-76.5750789,,,,,,,,,,,,,Grocery,Convenience,24510070100,True
+MD Convenience Store,grocery,convenience,39.2990765,-76.5736739,,,,,,,,,,,,,Grocery,Convenience,24510070100,True
+Giant,grocery,supermarket,38.8324985,-76.9444336,,,,,,,,,,,,,Grocery,Supermarket,24033801802,True
+Shoppers Food & Pharmacy,grocery,supermarket,38.8561604,-76.9072677,,,,,,,,,,,,,Grocery,Supermarket,24033802407,True
+Giant,grocery,supermarket,38.8539108,-76.9126277,,,,,,,,,,,,,Grocery,Supermarket,24033802406,True
+7-Eleven,grocery,convenience,38.8559751,-76.9012309,,,,,,,,,,,,,Grocery,Convenience,24033802407,True
+Supermarket,grocery,supermarket,39.3384807,-76.6074957,,,,,,,,,,,,,Grocery,Supermarket,24510090100,True
+Unnamed convenience,grocery,convenience,39.3358828,-76.6073791,,,,,,,,,,,,,Grocery,Convenience,24510090100,True
+Patel Brothers,grocery,grocery,39.1545395,-77.1986898,,,,,,,,,,,,,Grocery,Grocery,24031700713,True
+European Desserts and More,grocery,bakery,39.6481764,-78.7626117,,,,,,,,,,,,,Grocery,Bakery,24001000800,True
+New Grand Mart,grocery,supermarket,38.9839611,-76.9817323,,,,,,,,,,,,,Grocery,Supermarket,24033805500,True
+Copacabana Bakery,grocery,bakery,39.1538884,-77.1982182,,,,,,,,,,,,,Grocery,Bakery,24031700713,True
+Village Bazaar - Halal Meat & Ethnic Grocery,grocery,supermarket,39.1527469,-77.1966218,,,,,,,,,,,,,Grocery,Supermarket,24031700713,True
+Save-A-Lot,grocery,supermarket,39.2249771,-76.6126112,,,,,,,,,,,,,Grocery,Supermarket,24003750101,True
+American Mart,grocery,convenience,39.2200816,-76.6144622,,,,,,,,,,,,,Grocery,Convenience,24003750204,True
+Unnamed seafood,grocery,seafood,39.3537901,-76.6993508,,,,,,,,,,,,,Grocery,Seafood,24510280101,True
+Unnamed convenience,grocery,convenience,39.3100515,-76.6480368,,,,,,,,,,,,,Grocery,Convenience,24510150400,True
+St Mary's Food Market,grocery,convenience,39.2344166,-76.5967802,,,,,,,,,,,,,Grocery,Convenience,24510250402,True
+7 Star Food Market,grocery,convenience,39.2270061,-76.5888614,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+Luckies Deli Mart,grocery,convenience,39.2282116,-76.5888549,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+BP Shop,grocery,convenience,39.2281252,-76.5883869,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+M & C Food Market,grocery,convenience,39.22864,-76.5901983,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+99 Ranch Market,grocery,supermarket,39.1500812,-77.206167,,,,,,,,,,,,,Grocery,Supermarket,24031700713,True
+Shoppers Food & Pharmacy,grocery,supermarket,39.0166444,-76.9287385,,,,,,,,,,,,,Grocery,Supermarket,24033807301,True
+Sam's Club,grocery,wholesale,39.6319857,-77.7655224,,,,,,,,,,,,,Grocery,Wholesale,24043000900,True
+Joppa Grand Market,grocery,marketplace,39.421131,-76.3718862,,,,,,,,,,,,,Grocery,Marketplace,24025301401,True
+Redner's,grocery,supermarket,39.4203622,-76.3703184,,,,,,,,,,,,,Grocery,Supermarket,24025301401,True
+Harvest Fare,grocery,supermarket,39.345855,-76.7011635,,,,,,,,,,,,,Grocery,Supermarket,24510280102,True
+Carroll Mart,grocery,convenience,39.3482603,-76.6917113,,,,,,,,,,,,,Grocery,Convenience,24510280101,True
+Tiger Mart,grocery,convenience,39.3488157,-76.6925402,,,,,,,,,,,,,Grocery,Convenience,24510280101,True
+Save-A-Lot,grocery,supermarket,39.359759,-76.7092183,,,,,,,,,,,,,Grocery,Supermarket,24510280101,True
+Sheetz,grocery,convenience,39.6343756,-78.7641138,,,,,,,,,,,,,Grocery,Convenience,24001000800,True
+Unnamed convenience,grocery,convenience,39.3554451,-76.7027837,,,,,,,,,,,,,Grocery,Convenience,24510280101,True
+Tiger Mart,grocery,convenience,39.3594825,-76.7074181,,,,,,,,,,,,,Grocery,Convenience,24510280101,True
+Wabash Food Mart,grocery,convenience,39.3366917,-76.6747272,,,,,,,,,,,,,Grocery,Convenience,24510151100,True
+Tiger Mart,grocery,convenience,38.9990549,-76.9958304,,,,,,,,,,,,,Grocery,Convenience,24031702000,True
+Giant,grocery,supermarket,38.9995467,-77.0024168,,,,,,,,,,,,,Grocery,Supermarket,24031702301,True
+Patel Brothers,grocery,supermarket,38.9840478,-76.9772498,,,,,,,,,,,,,Grocery,Supermarket,24033805700,True
+7-Eleven,grocery,convenience,38.9842486,-76.9786579,,,,,,,,,,,,,Grocery,Convenience,24033805700,True
+Weis,grocery,supermarket,39.4213266,-77.4685511,,,,,,,,,,,,,Grocery,Supermarket,24021750506,True
+Food Lion,grocery,supermarket,38.623047,-76.9084323,,,,,,,,,,,,,Grocery,Supermarket,24017850901,True
+BP Shop,grocery,convenience,38.8675106,-76.8915494,,,,,,,,,,,,,Grocery,Convenience,24033802404,True
+Unnamed convenience,grocery,convenience,39.3081031,-76.670559,,,,,,,,,,,,,Grocery,Convenience,24510150600,True
+Falcon Mart,grocery,convenience,38.9929827,-76.9923704,,,,,,,,,,,,,Grocery,Convenience,24031702000,True
+7-Eleven,grocery,convenience,39.2185074,-76.6136121,,,,,,,,,,,,,Grocery,Convenience,24003750101,True
+7-Eleven,grocery,convenience,39.2337285,-76.6122912,,,,,,,,,,,,,Grocery,Convenience,24003750102,True
+Citgo Quik Mart,grocery,convenience,39.2028299,-76.5599341,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+Carroll Mart,grocery,convenience,39.4383277,-76.3454562,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+7-Eleven,grocery,convenience,39.2902062,-76.5942816,,,,,,,,,,,,,Grocery,Convenience,24510030100,True
+Royal Farms,grocery,convenience,39.3132739,-76.4630063,,,,,,,,,,,,,Grocery,Convenience,24005450501,True
+Fresh Fresco Market,grocery,convenience,39.3110034,-76.4473601,,,,,,,,,,,,,Grocery,Convenience,24005450504,True
+7-Eleven,grocery,convenience,39.4296818,-76.3556492,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+Wawa,grocery,convenience,39.4400502,-76.345534,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+ALDI,grocery,supermarket,39.4348216,-76.3270052,,,,,,,,,,,,,Grocery,Supermarket,24025301301,True
+Labodega Deli & Grocery,grocery,supermarket,39.2992292,-76.5765151,,,,,,,,,,,,,Grocery,Supermarket,24510070100,True
+Hye's Grocery,grocery,supermarket,39.2999064,-76.5775047,,,,,,,,,,,,,Grocery,Supermarket,24510070100,True
+Cooley's Grocery,grocery,supermarket,39.3009381,-76.5783322,,,,,,,,,,,,,Grocery,Supermarket,24510070200,True
+Harford Convenience Store,grocery,convenience,39.3303452,-76.5815614,,,,,,,,,,,,,Grocery,Convenience,24510090200,True
+Save-A-Lot,grocery,supermarket,39.2984686,-76.5817622,,,,,,,,,,,,,Grocery,Supermarket,24510070200,True
+Sunshine Market,grocery,convenience,39.2974294,-76.5851928,,,,,,,,,,,,,Grocery,Convenience,24510070300,True
+Super Save,grocery,convenience,39.2987929,-76.5876385,,,,,,,,,,,,,Grocery,Convenience,24510070300,True
+Northeast Market,grocery,grocery,39.2980807,-76.5875181,,,,,,,,,,,,,Grocery,Grocery,24510070300,True
+Rightway Food Express,grocery,convenience,39.3234999,-76.5879718,,,,,,,,,,,,,Grocery,Convenience,24510090600,True
+BP Shop,grocery,convenience,39.3170245,-76.5955352,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Unnamed convenience,grocery,convenience,39.3164729,-76.5962951,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Harford Foot Mart & Carryout,grocery,convenience,39.3131301,-76.5992529,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Mama Ellas Groceries & Carry Out,grocery,convenience,39.3120746,-76.6009307,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Carroll Mart,grocery,convenience,39.3121352,-76.6021876,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+7-Eleven,grocery,convenience,39.3179413,-76.6028499,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Royal Star Grocery,grocery,convenience,39.3120114,-76.6030707,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Roman's Food Market,grocery,convenience,39.3140018,-76.605525,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+F&Y Market,grocery,convenience,39.3159402,-76.6069674,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+York Food Market,grocery,convenience,39.3388635,-76.6077164,,,,,,,,,,,,,Grocery,Convenience,24510090100,True
+Light Carry Out,grocery,convenience,39.3051067,-76.6084791,,,,,,,,,,,,,Grocery,Convenience,24510120500,True
+US Fuel,grocery,convenience,39.3287741,-76.6089396,,,,,,,,,,,,,Grocery,Convenience,24510090300,True
+Greenmount Mini Mart,grocery,convenience,39.3119745,-76.6091765,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+Greenmount Market,grocery,convenience,39.3120517,-76.6092609,,,,,,,,,,,,,Grocery,Convenience,24510090800,True
+J&R Market,grocery,convenience,39.3198373,-76.6092647,,,,,,,,,,,,,Grocery,Convenience,24510090400,True
+2627 Mini Mart,grocery,convenience,39.3203235,-76.609267,,,,,,,,,,,,,Grocery,Convenience,24510090400,True
+Everest Greenish Grocery,grocery,convenience,39.317885,-76.6096085,,,,,,,,,,,,,Grocery,Convenience,24510120300,True
+S&W Market,grocery,convenience,39.3136225,-76.6097532,,,,,,,,,,,,,Grocery,Convenience,24510120400,True
+Sun Grocery,grocery,convenience,39.3085777,-76.6106099,,,,,,,,,,,,,Grocery,Convenience,24510120500,True
+Barclay Market,grocery,convenience,39.3210348,-76.6108615,,,,,,,,,,,,,Grocery,Convenience,24510120300,True
+Save-A-Lot,grocery,supermarket,39.2991563,-76.6285466,,,,,,,,,,,,,Grocery,Supermarket,24510170200,True
+Harlem Mini Mart,grocery,convenience,39.2994829,-76.6293122,,,,,,,,,,,,,Grocery,Convenience,24510170200,True
+Harlem Grocery,grocery,supermarket,39.2966705,-76.6332913,,,,,,,,,,,,,Grocery,Supermarket,24510160100,True
+O K Groceries,grocery,supermarket,39.3004244,-76.635029,,,,,,,,,,,,,Grocery,Supermarket,24510140200,True
+The Avenue Bakery,grocery,bakery,39.3082127,-76.6398316,,,,,,,,,,,,,Grocery,Bakery,24510140300,True
+Topline Outlet & Variety,grocery,convenience,39.3099107,-76.6511653,,,,,,,,,,,,,Grocery,Convenience,24510150400,True
+Unnamed convenience,grocery,convenience,39.3247233,-76.6578209,,,,,,,,,,,,,Grocery,Convenience,24510150500,True
+University Grocery,grocery,convenience,39.3089722,-76.6611704,,,,,,,,,,,,,Grocery,Convenience,24510150600,True
+Unnamed convenience,grocery,convenience,39.3221081,-76.6632628,,,,,,,,,,,,,Grocery,Convenience,24510150500,True
+Save-A-Lot,grocery,supermarket,39.3387723,-76.6667803,,,,,,,,,,,,,Grocery,Supermarket,24510151300,True
+Unnamed convenience,grocery,convenience,39.3085637,-76.6712445,,,,,,,,,,,,,Grocery,Convenience,24510150600,True
+ALDI,grocery,supermarket,39.3353516,-76.6760341,,,,,,,,,,,,,Grocery,Supermarket,24510151100,True
+Save-A-Lot,grocery,supermarket,39.3101384,-76.6755833,,,,,,,,,,,,,Grocery,Supermarket,24510150600,True
+Obama 7 Mart,grocery,convenience,39.3429807,-76.6829876,,,,,,,,,,,,,Grocery,Convenience,24510271802,True
+Royal Farms,grocery,convenience,39.2006363,-76.5551086,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+Shell,grocery,convenience,39.0438302,-76.951352,,,,,,,,,,,,,Grocery,Convenience,24033807410,True
+Unnamed convenience,grocery,convenience,38.9761999,-76.5399527,,,,,,,,,,,,,Grocery,Convenience,24003702500,True
+Giant Eagle,grocery,supermarket,39.4194983,-77.4478184,,,,,,,,,,,,,Grocery,Supermarket,24021750504,True
+Sheetz,grocery,convenience,39.4263189,-77.4311146,,,,,,,,,,,,,Grocery,Convenience,24021750504,True
+Unnamed convenience,grocery,convenience,39.3098916,-76.6364238,,,,,,,,,,,,,Grocery,Convenience,24510140300,True
+Bestway,grocery,supermarket,38.9991216,-77.0022502,,,,,,,,,,,,,Grocery,Supermarket,24031702301,True
+Picozzi Pizza & Subs,grocery,convenience,39.4251781,-76.3128552,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
+Hanson Market Place,grocery,convenience,39.424505,-76.3122091,,,,,,,,,,,,,Grocery,Convenience,24025301601,True
+7-Eleven,grocery,convenience,39.4224837,-76.2956617,,,,,,,,,,,,,Grocery,Convenience,24025301601,True
+Wawa,grocery,convenience,39.4169701,-77.4387688,,,,,,,,,,,,,Grocery,Convenience,24021750504,True
+Royal Farms,grocery,convenience,39.4078126,-76.3492188,,,,,,,,,,,,,Grocery,Convenience,24025301401,True
+Edgewood Deli & Convenience,grocery,convenience,39.4265749,-76.2996783,,,,,,,,,,,,,Grocery,Convenience,24025301601,True
+Royal Farms,grocery,convenience,39.4258765,-76.2990696,,,,,,,,,,,,,Grocery,Convenience,24025301601,True
+Jones Family Farm Market,grocery,farm,39.4444761,-76.3101348,,,,,,,,,,,,,Grocery,Farm,24025301301,True
+Sheetz,grocery,convenience,39.4285482,-76.3546563,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+Locust Point Market,grocery,deli,39.635003,-77.7226613,,,,,,,,,,,,,Grocery,Deli,24043000700,True
+7-Eleven,grocery,convenience,39.4339102,-76.3203628,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
+Unnamed convenience,grocery,convenience,39.4349503,-76.3203972,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+Martin's Food,grocery,supermarket,39.6325208,-77.7643319,,,,,,,,,,,,,Grocery,Supermarket,24043000900,True
+Food Lion,grocery,supermarket,38.6985969,-75.7875893,,,,,,,,,,,,,Grocery,Supermarket,24011955600,True
+Unnamed convenience,grocery,convenience,38.6983306,-75.7835054,,,,,,,,,,,,,Grocery,Convenience,24011955600,True
+Unnamed convenience,grocery,convenience,38.6939297,-75.7739118,,,,,,,,,,,,,Grocery,Convenience,24011955600,True
+Zip Mart,grocery,convenience,38.5708927,-76.0787065,,,,,,,,,,,,,Grocery,Convenience,24019970500,True
+Royal Farms,grocery,convenience,39.4330342,-76.3374138,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+Sunoco,grocery,convenience,38.9994382,-76.9911985,,,,,,,,,,,,,Grocery,Convenience,24031702000,True
+Four Seasons Mini Mart & Carry Out,grocery,convenience,39.310497,-76.638112,,,,,,,,,,,,,Grocery,Convenience,24510130300,True
+Unnamed convenience,grocery,convenience,39.310499,-76.638064,,,,,,,,,,,,,Grocery,Convenience,24510130300,True
+Blue Star Food Mart,grocery,convenience,39.3105045,-76.6376375,,,,,,,,,,,,,Grocery,Convenience,24510130300,True
+Unnamed convenience,grocery,convenience,39.3107001,-76.6411328,,,,,,,,,,,,,Grocery,Convenience,24510130300,True
+Royal Farms,grocery,convenience,38.6970656,-75.7883223,,,,,,,,,,,,,Grocery,Convenience,24011955600,True
+Sheetz,grocery,convenience,39.6373165,-77.6971,,,,,,,,,,,,,Grocery,Convenience,24043000601,True
+Wawa,grocery,convenience,39.4371353,-76.3067898,,,,,,,,,,,,,Grocery,Convenience,24025301301,True
+Unnamed convenience,grocery,convenience,38.6117708,-76.9243731,,,,,,,,,,,,,Grocery,Convenience,24017850901,True
+Unnamed convenience,grocery,convenience,38.6155543,-76.9206472,,,,,,,,,,,,,Grocery,Convenience,24017850901,True
+Rio Mart,grocery,convenience,39.4349377,-76.3147263,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
+7-Eleven,grocery,convenience,39.4227255,-77.4662972,,,,,,,,,,,,,Grocery,Convenience,24021750507,True
+Unnamed convenience,grocery,convenience,39.4185061,-77.4584218,,,,,,,,,,,,,Grocery,Convenience,24021750506,True
+H Mart,grocery,supermarket,39.1543757,-77.1973837,,,,,,,,,,,,,Grocery,Supermarket,24031700713,True
+Tiger Mart,grocery,convenience,39.4315882,-76.3363149,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
+Krumpe's Do-Nuts,grocery,bakery,39.6263713,-77.7295876,,,,,,,,,,,,,Grocery,Bakery,24043000800,True
+Sudsville,laundry,laundry,39.3246801,-76.6091213,,,,,,,,,,,,,Laundry,Laundry,24510090400,True
+Reliable Cleaners,laundry,dry_cleaning,38.9991271,-77.0040947,,,,,,,,,,,,,Laundry,Dry Cleaning,24031702301,True
+Sun Cleaners,laundry,dry_cleaning,39.4347463,-76.3068292,,,,,,,,,,,,,Laundry,Dry Cleaning,24025301302,True
+Unnamed laundry,laundry,laundry,39.3108505,-76.6328446,,,,,,,,,,,,,Laundry,Laundry,24510130200,True
+Fresh Laundromat,laundry,laundry,39.3468856,-76.7011583,,,,,,,,,,,,,Laundry,Laundry,24510280102,True
+Cleaners,laundry,laundry,39.3224938,-76.6085392,,,,,,,,,,,,,Laundry,Laundry,24510090400,True
+Ultra Clean Laundromat,laundry,laundry,39.6342595,-77.6987384,,,,,,,,,,,,,Laundry,Laundry,24043000601,True
+Unnamed laundry,laundry,laundry,38.9912943,-76.9886024,,,,,,,,,,,,,Laundry,Laundry,24033805601,True
+Family Wash Day,laundry,laundry,39.4339725,-76.3178322,,,,,,,,,,,,,Laundry,Laundry,24025301302,True
+Laundromat,laundry,laundry,39.3343859,-76.6093533,,,,,,,,,,,,,Laundry,Laundry,24510090300,True
+Unnamed dry_cleaning,laundry,dry_cleaning,39.3477926,-76.690819,,,,,,,,,,,,,Laundry,Dry Cleaning,24510280101,True
+Zips Dry Cleaning,laundry,dry_cleaning,38.8544441,-76.9098356,,,,,,,,,,,,,Laundry,Dry Cleaning,24033802407,True
+Unnamed laundry,laundry,laundry,39.2977591,-76.6453789,,,,,,,,,,,,,Laundry,Laundry,24510160300,True
+Unnamed dry_cleaning,laundry,dry_cleaning,39.3550758,-76.7032049,,,,,,,,,,,,,Laundry,Dry Cleaning,24510280101,True
+Lakeside Laundromat,laundry,laundry,39.1536715,-77.1985874,,,,,,,,,,,,,Laundry,Laundry,24031700713,True
+Curtis Bay Laundromat,laundry,laundry,39.2255886,-76.5886386,,,,,,,,,,,,,Laundry,Laundry,24510250500,True
+Family Wash Day,laundry,laundry,39.3166836,-76.4589264,,,,,,,,,,,,,Laundry,Laundry,24005450501,True
+Unnamed laundry,laundry,laundry,39.2983205,-76.5820099,,,,,,,,,,,,,Laundry,Laundry,24510070200,True
+Unnamed laundry,laundry,laundry,38.6981286,-75.7886451,,,,,,,,,,,,,Laundry,Laundry,24011955600,True
+Unnamed laundry,laundry,laundry,39.3105015,-76.6379615,,,,,,,,,,,,,Laundry,Laundry,24510130300,True
+K&B True Value,home_repair,hardware,38.9509175,-76.4935687,,,,,,,,,,,,,Home Repair,Hardware,24003706404,True
+Wise Oil and Fuel,home_repair,hardware,38.5643081,-76.0785415,,,,,,,,,,,,,Home Repair,Hardware,24019970500,True
+Gardiner Wolf Furniture,home_repair,hardware,39.3566677,-76.7092735,,,,,,,,,,,,,Home Repair,Hardware,24510280101,True
+Harbor Freight Tools,home_repair,hardware,39.4343332,-76.3153917,,,,,,,,,,,,,Home Repair,Hardware,24025301302,True
+CapitalTristate,home_repair,hardware,39.6473535,-78.7599401,,,,,,,,,,,,,Home Repair,Hardware,24001000800,True
+The Home Depot,home_repair,doityourself,39.4207303,-77.4553615,,,,,,,,,,,,,Home Repair,Doityourself,24021750508,True
+Washer Dryer Parts,home_repair,hardware,39.324047,-76.6091736,,,,,,,,,,,,,Home Repair,Hardware,24510090400,True
+Harbor Freight Tools,home_repair,hardware,39.1539974,-77.1979588,,,,,,,,,,,,,Home Repair,Hardware,24031700713,True
+Harbor Freight Tools,home_repair,hardware,38.6209346,-76.9140897,,,,,,,,,,,,,Home Repair,Hardware,24017850901,True
+The Home Depot,home_repair,doityourself,39.0175476,-76.9301677,,,,,,,,,,,,,Home Repair,Doityourself,24033807301,True
+Lowe's,home_repair,doityourself,39.6340968,-77.7597937,,,,,,,,,,,,,Home Repair,Doityourself,24043000900,True
+The Home Depot,home_repair,doityourself,39.3555298,-76.7074051,,,,,,,,,,,,,Home Repair,Doityourself,24510280101,True
+Carey Hardware,home_repair,doityourself,39.3098674,-76.6514567,,,,,,,,,,,,,Home Repair,Doityourself,24510150400,True
+Salvo Auto Parts,auto_repair,car_parts,39.3141502,-76.4498984,,,,,,,,,,,,,Auto Repair,Car Parts,24005450501,True
+Unnamed car_repair,auto_repair,car_repair,38.8485894,-76.955592,,,,,,,,,,,,,Auto Repair,Car Repair,24033801809,True
+Unnamed car_repair,auto_repair,car_repair,38.847311,-76.9532692,,,,,,,,,,,,,Auto Repair,Car Repair,24033801809,True
+Branch Ave Tire and Auto Repair,auto_repair,car_repair,38.8459186,-76.9522303,,,,,,,,,,,,,Auto Repair,Car Repair,24033801809,True
+Executive Automotive Service,auto_repair,car_repair,39.141729,-77.1874476,,,,,,,,,,,,,Auto Repair,Car Repair,24031700725,True
+Unnamed car_repair,auto_repair,car_repair,38.9929862,-76.9923081,,,,,,,,,,,,,Auto Repair,Car Repair,24031702000,True
+J&M Auto Specialist,auto_repair,car_repair,39.3102308,-76.6173996,,,,,,,,,,,,,Auto Repair,Car Repair,24510120500,True
+Fells Point Collision Specialist,auto_repair,car_repair,39.2872546,-76.5990958,,,,,,,,,,,,,Auto Repair,Car Repair,24510030100,True
+Reliable Body & Fender,auto_repair,car_repair,39.3101056,-76.6173886,,,,,,,,,,,,,Auto Repair,Car Repair,24510120500,True
+Cambridge Collision Center,auto_repair,car_repair,38.5641676,-76.0781048,,,,,,,,,,,,,Auto Repair,Car Repair,24019970600,True
+Haddaway's Service,auto_repair,car_repair,38.5636691,-76.0788474,,,,,,,,,,,,,Auto Repair,Car Repair,24019970500,True
+Clark's Automotive,auto_repair,car_repair,39.2855,-76.5984505,,,,,,,,,,,,,Auto Repair,Car Repair,24510030100,True
+Gerry’s Tire Auto Service,auto_repair,tyres,39.2903926,-76.59923,,,,,,,,,,,,,Auto Repair,Tyres,24510030100,True
+Ben’s Tire Sales Inc.,auto_repair,tyres,39.4290814,-76.3523652,,,,,,,,,,,,,Auto Repair,Tyres,24025301301,True
+Dan’s Automotive Inc.,auto_repair,car_parts,39.4289936,-76.3529435,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
+National Budget Mufflers,auto_repair,car_repair,39.4299036,-76.3528408,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Advance Auto Parts,auto_repair,car_parts,39.4182577,-77.4405595,,,,,,,,,,,,,Auto Repair,Car Parts,24021750504,True
+ATM Automotive,auto_repair,car_repair,38.6150516,-76.9116143,,,,,,,,,,,,,Auto Repair,Car Repair,24017850901,True
+J&S Enterprise,auto_repair,car_repair,39.3089481,-76.6172501,,,,,,,,,,,,,Auto Repair,Car Repair,24510120500,True
+Waters Auto Service,auto_repair,car_repair,39.4351221,-76.3060666,,,,,,,,,,,,,Auto Repair,Car Repair,24025301302,True
+Advance Auto Parts,auto_repair,car_parts,39.4327176,-76.323776,,,,,,,,,,,,,Auto Repair,Car Parts,24025301302,True
+Diesel & Auto Solutions,auto_repair,car_repair,39.430273,-76.3510793,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+First Choice Automotive,auto_repair,car_repair,39.4305942,-76.3494085,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Genco's Collision and Paint Works,auto_repair,car_repair,39.4311368,-76.3495364,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Bel Air Auto Body,auto_repair,car_repair,39.4517701,-76.3122092,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Firestone,auto_repair,car_repair,39.6212173,-77.7698162,,,,,,,,,,,,,Auto Repair,Car Repair,24043000900,True
+Supreme Auto Works,auto_repair,tyres,39.4350052,-76.3060155,,,,,,,,,,,,,Auto Repair,Tyres,24025301302,True
+Mr. Tire Auto Service Center,auto_repair,tyres,39.4194719,-77.4543631,,,,,,,,,,,,,Auto Repair,Tyres,24021750508,True
+Joel's Auto Repair,auto_repair,car_repair,39.4275894,-76.3659031,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Joppa Transmissions & Auto Service,auto_repair,car_repair,39.4296923,-76.3547346,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Advance Auto Parts,auto_repair,car_parts,39.3459709,-76.6987756,,,,,,,,,,,,,Auto Repair,Car Parts,24510280102,True
+Advance Auto Parts,auto_repair,car_parts,39.3225007,-76.6092334,,,,,,,,,,,,,Auto Repair,Car Parts,24510090400,True
+Green Auto Body,auto_repair,car_repair,39.3218733,-76.6091492,,,,,,,,,,,,,Auto Repair,Car Repair,24510090400,True
+Advance Auto Parts,auto_repair,car_parts,38.9912165,-76.9877558,,,,,,,,,,,,,Auto Repair,Car Parts,24033805601,True
+Advance Auto Parts,auto_repair,car_parts,38.8353156,-76.9452283,,,,,,,,,,,,,Auto Repair,Car Parts,24033801802,True
+AutoZone,auto_repair,car_parts,38.8285245,-76.9438511,,,,,,,,,,,,,Auto Repair,Car Parts,24033801801,True
+Advance Auto Parts,auto_repair,car_parts,38.8564624,-76.9069691,,,,,,,,,,,,,Auto Repair,Car Parts,24033802407,True
+Full Circle,auto_repair,car_repair,39.3305839,-76.6092781,,,,,,,,,,,,,Auto Repair,Car Repair,24510090300,True
+Frederick Sunoco Auto Repair Shop,auto_repair,car_repair,39.4180906,-77.451149,,,,,,,,,,,,,Auto Repair,Car Repair,24021750505,True
+Day’s Auto Body Repair Center,auto_repair,car_repair,39.2911505,-76.5991432,,,,,,,,,,,,,Auto Repair,Car Repair,24510030100,True
+Advance Auto Parts,auto_repair,car_parts,39.2229333,-76.6130975,,,,,,,,,,,,,Auto Repair,Car Parts,24003750101,True
+Advance Auto Parts,auto_repair,car_parts,38.6206405,-76.9145724,,,,,,,,,,,,,Auto Repair,Car Parts,24017850901,True
+Hub City,auto_repair,tyres,39.6405738,-77.7130671,,,,,,,,,,,,,Auto Repair,Tyres,24043000601,True
+Jiffy Lube,auto_repair,car_repair,39.6312765,-77.7625721,,,,,,,,,,,,,Auto Repair,Car Repair,24043000900,True
+Unnamed car_repair,auto_repair,car_repair,39.3365111,-76.6752419,,,,,,,,,,,,,Auto Repair,Car Repair,24510151100,True
+Oakcrest Auto Body,auto_repair,car_repair,38.8640211,-76.9140369,,,,,,,,,,,,,Auto Repair,Car Repair,24033802407,True
+Unnamed tyres,auto_repair,tyres,38.9555918,-76.505015,,,,,,,,,,,,,Auto Repair,Tyres,24003706404,True
+Valvoline,auto_repair,car_repair,39.2197854,-76.6135828,,,,,,,,,,,,,Auto Repair,Car Repair,24003750101,True
+Mr. Tire,auto_repair,car_parts,39.31131,-76.447734,,,,,,,,,,,,,Auto Repair,Car Parts,24005450504,True
+Fred’s Auto Service,auto_repair,car_repair,39.3142476,-76.4570542,,,,,,,,,,,,,Auto Repair,Car Repair,24005450501,True
+GT Performance,auto_repair,car_repair,39.3163652,-76.4590021,,,,,,,,,,,,,Auto Repair,Car Repair,24005450501,True
+C&H Tire & Car Care Center,auto_repair,car_repair,39.4303195,-76.3520835,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+AutoZone,auto_repair,car_parts,39.4344354,-76.3246041,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
+410TintPro,auto_repair,car_repair,39.4358747,-76.3083874,,,,,,,,,,,,,Auto Repair,Car Repair,24025301302,True
+Jiffy Lube,auto_repair,car_repair,39.4351884,-76.3180495,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Precision Tune Auto Care,auto_repair,car_repair,39.4355184,-76.3180817,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Rim Exchange,auto_repair,car_parts,39.4342862,-76.3144832,,,,,,,,,,,,,Auto Repair,Car Parts,24025301302,True
+The Masters Auto Shop,auto_repair,car_repair,39.4363661,-76.3115545,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Pick Your Part,auto_repair,car_parts,39.4356449,-76.3239196,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
+Ourisman Collision Center,auto_repair,car_repair,39.4346198,-76.3303038,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Unnamed car_repair,auto_repair,car_repair,39.2213454,-76.5878192,,,,,,,,,,,,,Auto Repair,Car Repair,24510250500,True
+ABC Radiator & Air Conditioning,auto_repair,car_repair,39.2862026,-76.5989398,,,,,,,,,,,,,Auto Repair,Car Repair,24510030100,True
+Unnamed car_repair,auto_repair,car_repair,39.314127,-76.6066695,,,,,,,,,,,,,Auto Repair,Car Repair,24510090800,True
+Tires Unlimited & Automotive,auto_repair,car_repair,39.3232387,-76.607838,,,,,,,,,,,,,Auto Repair,Car Repair,24510090400,True
+Unnamed tyres,auto_repair,tyres,39.31843,-76.6082972,,,,,,,,,,,,,Auto Repair,Tyres,24510090800,True
+US Auto Collision,auto_repair,car_repair,39.3179206,-76.6088316,,,,,,,,,,,,,Auto Repair,Car Repair,24510090800,True
+Jerry's Automotive,auto_repair,car_parts,39.3178662,-76.609145,,,,,,,,,,,,,Auto Repair,Car Parts,24510090800,True
+Midas,auto_repair,car_repair,39.3182666,-76.6518263,,,,,,,,,,,,,Auto Repair,Car Repair,24510130400,True
+B N Auto Service and Body Shop,auto_repair,car_repair,39.3143659,-76.6604062,,,,,,,,,,,,,Auto Repair,Car Repair,24510150600,True
+No Limit Kustoms Auto,auto_repair,car_repair,39.3141196,-76.660885,,,,,,,,,,,,,Auto Repair,Car Repair,24510150600,True
+Wabash Auto,auto_repair,car_repair,39.3361285,-76.674148,,,,,,,,,,,,,Auto Repair,Car Repair,24510151100,True
+Pep Boys,auto_repair,car_repair,39.4173119,-77.4479104,,,,,,,,,,,,,Auto Repair,Car Repair,24021750505,True
+AutoZone,auto_repair,car_parts,39.4173694,-77.4473076,,,,,,,,,,,,,Auto Repair,Car Parts,24021750505,True
+Unnamed tyres,auto_repair,tyres,39.2142144,-76.6150257,,,,,,,,,,,,,Auto Repair,Tyres,24003750204,True
+J.C. Discount Tires,auto_repair,car_repair,39.4364269,-76.3096481,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Day's Joppa Auto Care,auto_repair,car_repair,39.4154086,-76.296388,,,,,,,,,,,,,Auto Repair,Car Repair,24025301601,True
+Valvoline,auto_repair,car_repair,38.8642732,-76.9154803,,,,,,,,,,,,,Auto Repair,Car Repair,24033802407,True
+American Auto Repair,auto_repair,car_repair,39.4280341,-76.3579568,,,,,,,,,,,,,Auto Repair,Car Repair,24025301401,True
+Lovell Auto Repair,auto_repair,car_repair,39.6319107,-77.723828,,,,,,,,,,,,,Auto Repair,Car Repair,24043000800,True
+Bonebrake Tire & Alignment,auto_repair,car_repair,39.6298832,-77.7272886,,,,,,,,,,,,,Auto Repair,Car Repair,24043000800,True
+Midas,auto_repair,car_repair,39.4158872,-77.4393894,,,,,,,,,,,,,Auto Repair,Car Repair,24021750505,True
+Royal Wraps & Tint,auto_repair,car_repair,39.4334742,-76.3211273,,,,,,,,,,,,,Auto Repair,Car Repair,24025301302,True
+Ray's Body Works,auto_repair,car_repair,39.4339591,-76.3378986,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Maryland Used Auto Parts,auto_repair,car_parts,39.4311194,-76.3396192,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
+Wheel Deals,auto_repair,tyres,39.4313503,-76.344205,,,,,,,,,,,,,Auto Repair,Tyres,24025301301,True
+5K Window Tinting,auto_repair,car_repair,39.436531,-76.3507915,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+NAPA,auto_repair,car_parts,38.6125363,-76.9164439,,,,,,,,,,,,,Auto Repair,Car Parts,24017850901,True
+Unnamed car_repair,auto_repair,car_repair,39.3108015,-76.6410332,,,,,,,,,,,,,Auto Repair,Car Repair,24510130300,True
+Unnamed car_repair,auto_repair,car_repair,39.310951,-76.6409235,,,,,,,,,,,,,Auto Repair,Car Repair,24510130300,True
+Unnamed car_repair,auto_repair,car_repair,39.3109035,-76.6409965,,,,,,,,,,,,,Auto Repair,Car Repair,24510130300,True
+National Auto Repair,auto_repair,car_repair,39.310907,-76.6443205,,,,,,,,,,,,,Auto Repair,Car Repair,24510150400,True
+Unnamed car_repair,auto_repair,car_repair,39.3094651,-76.6428526,,,,,,,,,,,,,Auto Repair,Car Repair,24510150100,True
+Unnamed car_repair,auto_repair,car_repair,38.6975273,-75.7818746,,,,,,,,,,,,,Auto Repair,Car Repair,24011955600,True
+AutoZone,auto_repair,car_parts,39.2254985,-76.6129958,,,,,,,,,,,,,Auto Repair,Car Parts,24003750101,True
+Caliber Collision,auto_repair,car_repair,39.428667,-76.3628291,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Rite Aid,pharmacy,pharmacy,39.3092937,-76.4460204,,,,,,,,,,,,,Pharmacy,Pharmacy,24005450504,True
+Rite Aid,pharmacy,pharmacy,39.3463665,-76.6984538,,,,,,,,,,,,,Pharmacy,Pharmacy,24510280102,True
+CVS Pharmacy,pharmacy,pharmacy,38.6146478,-76.8832515,,,,,,,,,,,,,Pharmacy,Pharmacy,24017850901,True
+Woodbridge Pharmacy,pharmacy,pharmacy,39.4357331,-76.3189104,,,,,,,,,,,,,Pharmacy,Pharmacy,24025301301,True
+Rite Aid,pharmacy,pharmacy,39.4196122,-77.4381294,,,,,,,,,,,,,Pharmacy,Pharmacy,24021750504,True
+CVS Pharmacy,pharmacy,pharmacy,39.4325457,-76.3280808,,,,,,,,,,,,,Pharmacy,Pharmacy,24025301302,True
+Lifebridge Pharmacy,pharmacy,pharmacy,39.3528926,-76.6619917,,,,,,,,,,,,,Pharmacy,Pharmacy,24510271700,True
+Hill Crest Pharmacy Compounding,pharmacy,pharmacy,39.4153389,-77.4454381,,,,,,,,,,,,,Pharmacy,Pharmacy,24021750505,True
+Walgreens,pharmacy,pharmacy,39.216355,-76.6152582,,,,,,,,,,,,,Pharmacy,Pharmacy,24003750204,True
+Rite Aid,pharmacy,pharmacy,39.2150644,-76.6151088,,,,,,,,,,,,,Pharmacy,Pharmacy,24003750204,True
+CVS Pharmacy,pharmacy,pharmacy,38.9895841,-76.986061,,,,,,,,,,,,,Pharmacy,Pharmacy,24033805601,True
+Langley Park Pharmacy and Medical Supplies,pharmacy,pharmacy,38.9912541,-76.9881648,,,,,,,,,,,,,Pharmacy,Pharmacy,24033805601,True
+Rite Aid,pharmacy,pharmacy,39.339182,-76.6665147,,,,,,,,,,,,,Pharmacy,Pharmacy,24510151300,True
+Waverly Professional Pharmacy,pharmacy,pharmacy,39.32205,-76.6095872,,,,,,,,,,,,,Pharmacy,Pharmacy,24510120300,True
+CVS Pharmacy,pharmacy,pharmacy,39.4209629,-77.465951,,,,,,,,,,,,,Pharmacy,Pharmacy,24021750506,True
+Safeway,pharmacy,pharmacy,38.9700027,-76.5230197,,,,,,,,,,,,,Pharmacy,Pharmacy,24003702500,True
+Park Health Pharmacy,pharmacy,pharmacy,39.3480608,-76.6767667,,,,,,,,,,,,,Pharmacy,Pharmacy,24510271802,True
+Walgreens,pharmacy,pharmacy,39.4240309,-76.3711502,,,,,,,,,,,,,Pharmacy,Pharmacy,24025301301,True
+Walgreens,pharmacy,pharmacy,39.3115544,-76.4657495,,,,,,,,,,,,,Pharmacy,Pharmacy,24005450501,True
+Walgreens,pharmacy,chemist,39.4357706,-76.3153785,,,,,,,,,,,,,Pharmacy,Chemist,24025301301,True
+Rite Aid,pharmacy,pharmacy,39.6331239,-78.7638613,,,,,,,,,,,,,Pharmacy,Pharmacy,24001000700,True
+Craig's Drugs,pharmacy,pharmacy,38.5696116,-76.0776,,,,,,,,,,,,,Pharmacy,Pharmacy,24019970500,True
+Rite Aid,pharmacy,chemist,39.4268694,-76.3002967,,,,,,,,,,,,,Pharmacy,Chemist,24025301601,True
+Keystone Pharmacy,pharmacy,pharmacy,39.3103855,-76.6399785,,,,,,,,,,,,,Pharmacy,Pharmacy,24510130300,True
+CVS Pharmacy,pharmacy,pharmacy,39.3105195,-76.642585,,,,,,,,,,,,,Pharmacy,Pharmacy,24510130300,True
+Healthy Hair Center Hair Salon,barber_beauty,hairdresser,38.8541132,-76.8979749,,,,,,,,,,,,,Barber Beauty,Hairdresser,24033802301,True
+Unnamed hairdresser,barber_beauty,hairdresser,38.8491956,-76.9544192,,,,,,,,,,,,,Barber Beauty,Hairdresser,24033801809,True
+Ritz Unisex Hair Salon,barber_beauty,hairdresser,38.9928071,-76.9926007,,,,,,,,,,,,,Barber Beauty,Hairdresser,24031702000,True
+Etta’s Beauty Salon & Braiding,barber_beauty,hairdresser,39.3127063,-76.4637491,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
+Bossy Styles Hair & Beauty Boutique,barber_beauty,hairdresser,39.3149366,-76.4529767,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
+Destiny Beauty Salon,barber_beauty,hairdresser,39.3149472,-76.4528245,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
+Shirley's Tan and Tone,barber_beauty,beauty,39.3052653,-76.4636836,,,,,,,,,,,,,Barber Beauty,Beauty,24005450501,True
+Gerri's Hair Salon,barber_beauty,hairdresser,39.3006697,-76.462343,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
+Mirror Mirror Salon,barber_beauty,hairdresser,38.5685728,-76.0776688,,,,,,,,,,,,,Barber Beauty,Hairdresser,24019970500,True
+Super Beauty,barber_beauty,beauty,39.3559123,-76.7042536,,,,,,,,,,,,,Barber Beauty,Beauty,24510280101,True
+Sleek Nails and Spa,barber_beauty,beauty,38.9491139,-76.4869017,,,,,,,,,,,,,Barber Beauty,Beauty,24003706303,True
+VY Nails,barber_beauty,beauty,38.970354,-76.5232556,,,,,,,,,,,,,Barber Beauty,Beauty,24003702500,True
+Conscious Heads,barber_beauty,hairdresser,39.3177974,-76.613457,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120300,True
+Baltimore Legends Barber Shop,barber_beauty,hairdresser,39.3108361,-76.6156451,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120500,True
+Reflection Eternal Barbershop,barber_beauty,hairdresser,39.3171972,-76.61521,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120300,True
+JAS Beauty,barber_beauty,beauty,39.3102127,-76.6429351,,,,,,,,,,,,,Barber Beauty,Beauty,24510150400,True
+Avenue Salon & Spa,barber_beauty,beauty,39.3120379,-76.6005139,,,,,,,,,,,,,Barber Beauty,Beauty,24510090800,True
+Wilson's NuLook Barbershop,barber_beauty,hairdresser,39.4524078,-76.3086107,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
+Grand Beauty & Outlet,barber_beauty,hairdresser,39.3466144,-76.688255,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510271801,True
+African Hair Braiding Group Salon,barber_beauty,hairdresser,39.3561254,-76.705596,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510280101,True
+Premier Image,barber_beauty,hairdresser,39.4357486,-76.3188313,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
+Salon Suites,barber_beauty,beauty,39.4357621,-76.3187441,,,,,,,,,,,,,Barber Beauty,Beauty,24025301301,True
+East Side Hair Connection,barber_beauty,hairdresser,39.4352852,-76.3116367,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
+Mona's Nails & Spa,barber_beauty,beauty,39.4352739,-76.3117111,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
+Gentlemen's Edge Barber Shop,barber_beauty,hairdresser,39.4339569,-76.3179501,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
+Eight Sisters Dominican Hair Salon,barber_beauty,hairdresser,39.4362141,-76.3106569,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
+Nasa Barber Shop,barber_beauty,hairdresser,39.3114764,-76.4675192,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
+Braids By Fatou,barber_beauty,beauty,39.3166984,-76.6096136,,,,,,,,,,,,,Barber Beauty,Beauty,24510120300,True
+Hi-Tek Nails,barber_beauty,beauty,39.4352107,-76.3060954,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
+Major Cuts Barber Shop,barber_beauty,hairdresser,39.4346801,-76.3067992,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
+Familiar Faces Barber Shop,barber_beauty,hairdresser,39.4323557,-76.3279931,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
+N-Nails,barber_beauty,beauty,39.4323034,-76.327979,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
+Edgewood Barbershop,barber_beauty,hairdresser,39.4326382,-76.324295,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
+LT Nails,barber_beauty,beauty,39.4326482,-76.3242296,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
+Diamond Hair Studio,barber_beauty,hairdresser,39.4357755,-76.3071603,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
+April Cook Salon Suites,barber_beauty,hairdresser,39.435557,-76.3161814,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
+Hair Cuttery,barber_beauty,hairdresser,39.6198547,-77.7703741,,,,,,,,,,,,,Barber Beauty,Hairdresser,24043000900,True
+Pro Nails,barber_beauty,beauty,39.6204084,-77.769953,,,,,,,,,,,,,Barber Beauty,Beauty,24043000900,True
+Unnamed beauty,barber_beauty,beauty,38.6991365,-75.788638,,,,,,,,,,,,,Barber Beauty,Beauty,24011955600,True
+Best Nails,barber_beauty,beauty,39.4211149,-76.370451,,,,,,,,,,,,,Barber Beauty,Beauty,24025301401,True
+Roots Beauty Supply & African Braiding,barber_beauty,beauty,39.3149265,-76.5974892,,,,,,,,,,,,,Barber Beauty,Beauty,24510090800,True
+Shear Pleasure,barber_beauty,hairdresser,39.0161526,-76.9283542,,,,,,,,,,,,,Barber Beauty,Hairdresser,24033807301,True
+Cali Nails,barber_beauty,beauty,39.4152176,-77.4453012,,,,,,,,,,,,,Barber Beauty,Beauty,24021750505,True
+SoBella Hair Studio,barber_beauty,hairdresser,39.4271432,-76.3640369,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301401,True
+O. G. Stilettos Nail Salon,barber_beauty,beauty,39.3175932,-76.6152356,,,,,,,,,,,,,Barber Beauty,Beauty,24510120300,True
+Beauty Outlet,barber_beauty,beauty,39.3175684,-76.6552802,,,,,,,,,,,,,Barber Beauty,Beauty,24510150500,True
+Mini Lux Nail Salon,barber_beauty,beauty,39.3224946,-76.6085933,,,,,,,,,,,,,Barber Beauty,Beauty,24510090400,True
+An Angel's Touch,barber_beauty,beauty,39.3549833,-76.7049298,,,,,,,,,,,,,Barber Beauty,Beauty,24510280101,True
+Holiday Hair,barber_beauty,hairdresser,39.6337095,-77.6998931,,,,,,,,,,,,,Barber Beauty,Hairdresser,24043000601,True
+Nails Today,barber_beauty,beauty,39.6339786,-77.6998461,,,,,,,,,,,,,Barber Beauty,Beauty,24043000601,True
+Artistic Nails,barber_beauty,beauty,38.9906737,-76.9864949,,,,,,,,,,,,,Barber Beauty,Beauty,24033805601,True
+La Vina Nail & Spa,barber_beauty,beauty,38.9912426,-76.9880391,,,,,,,,,,,,,Barber Beauty,Beauty,24033805601,True
+Haircut 2000,barber_beauty,hairdresser,38.9901636,-76.9861428,,,,,,,,,,,,,Barber Beauty,Hairdresser,24033805601,True
+360 Beauty Supply,barber_beauty,beauty,39.4339327,-76.3181468,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
+Nail and Spa Central,barber_beauty,beauty,39.3169484,-76.6543653,,,,,,,,,,,,,Barber Beauty,Beauty,24510150500,True
+Brow Art 23,barber_beauty,beauty,39.3172695,-76.6541058,,,,,,,,,,,,,Barber Beauty,Beauty,24510150500,True
+Darou-Salem African Hair Braiding,barber_beauty,hairdresser,39.3242249,-76.6092855,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510090400,True
+Red Carpet Hair Salon & Boutique,barber_beauty,hairdresser,39.3241517,-76.6092816,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510090400,True
+Universal Style Hair Spa,barber_beauty,hairdresser,39.3189189,-76.6093337,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510090800,True
+Polished Nail Spa,barber_beauty,beauty,39.3287843,-76.5999276,,,,,,,,,,,,,Barber Beauty,Beauty,24510090300,True
+NapTown Nails,barber_beauty,beauty,38.9492783,-76.4898205,,,,,,,,,,,,,Barber Beauty,Beauty,24003706303,True
+Holly's Nails,barber_beauty,beauty,38.9683281,-76.5203214,,,,,,,,,,,,,Barber Beauty,Beauty,24003702500,True
+Capital Barber Shop,barber_beauty,hairdresser,38.949204,-76.4897615,,,,,,,,,,,,,Barber Beauty,Hairdresser,24003706303,True
+Luxe Hair + Skin,barber_beauty,hairdresser,38.9682872,-76.5203649,,,,,,,,,,,,,Barber Beauty,Hairdresser,24003702500,True
+Saint Salon,barber_beauty,beauty,39.4281842,-76.3575726,,,,,,,,,,,,,Barber Beauty,Beauty,24025301401,True
+Unnamed beauty,barber_beauty,beauty,39.3555314,-76.7019435,,,,,,,,,,,,,Barber Beauty,Beauty,24510280101,True
+Tiffany’s Beauty Supply and Salon,barber_beauty,beauty,39.3553895,-76.7016817,,,,,,,,,,,,,Barber Beauty,Beauty,24510280101,True
+Divahglam Nail Spa,barber_beauty,beauty,39.2987192,-76.5825473,,,,,,,,,,,,,Barber Beauty,Beauty,24510070200,True
+Wilson Park Barber Shop,barber_beauty,hairdresser,39.3381633,-76.6074886,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510090100,True
+Hair By A.J. + Lola,barber_beauty,hairdresser,39.329462,-76.6092943,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510090300,True
+Fayezee's Beauty Salon,barber_beauty,beauty,39.3359173,-76.6072004,,,,,,,,,,,,,Barber Beauty,Beauty,24510090100,True
+Ray's Fresh Cuts,barber_beauty,hairdresser,39.3209652,-76.6080665,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510090400,True
+Mastercuts,barber_beauty,hairdresser,38.6195341,-76.9157635,,,,,,,,,,,,,Barber Beauty,Hairdresser,24017850901,True
+Unnamed beauty,barber_beauty,beauty,39.3546542,-76.7036798,,,,,,,,,,,,,Barber Beauty,Beauty,24510280101,True
+MVP Barber,barber_beauty,hairdresser,39.155336,-77.1995897,,,,,,,,,,,,,Barber Beauty,Hairdresser,24031700713,True
+Phoenix Nails,barber_beauty,beauty,39.1529605,-77.1967258,,,,,,,,,,,,,Barber Beauty,Beauty,24031700713,True
+Sally Beauty,barber_beauty,hairdresser_supply,39.1544025,-77.1989163,,,,,,,,,,,,,Barber Beauty,Hairdresser Supply,24031700713,True
+KC Beauty,barber_beauty,beauty,39.1549919,-77.1983841,,,,,,,,,,,,,Barber Beauty,Beauty,24031700713,True
+Beautiful Nails,barber_beauty,beauty,39.1555083,-77.1989182,,,,,,,,,,,,,Barber Beauty,Beauty,24031700713,True
+Aurora's Hair Design,barber_beauty,hairdresser,39.1555495,-77.1989589,,,,,,,,,,,,,Barber Beauty,Hairdresser,24031700713,True
+All Dolled Up Salon,barber_beauty,hairdresser,38.9490054,-76.4868809,,,,,,,,,,,,,Barber Beauty,Hairdresser,24003706303,True
+Mr. Dan's Barber Shop,barber_beauty,hairdresser,39.1398828,-77.1970706,,,,,,,,,,,,,Barber Beauty,Hairdresser,24031700731,True
+Rubens Dominican Barbershop,barber_beauty,hairdresser,39.4282475,-76.3580178,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301401,True
+Design Beauty Supply,barber_beauty,beauty,39.2186081,-76.6151606,,,,,,,,,,,,,Barber Beauty,Beauty,24003750204,True
+Unnamed beauty,barber_beauty,beauty,39.4177417,-77.453394,,,,,,,,,,,,,Barber Beauty,Beauty,24021750505,True
+Jerry’s Barber Shop,barber_beauty,hairdresser,39.3135893,-76.4605917,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
+A's Salon & Suites,barber_beauty,beauty,39.4340858,-76.3055295,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
+Studio 701,barber_beauty,hairdresser,39.2990731,-76.5792336,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510070200,True
+Unnamed hairdresser,barber_beauty,hairdresser,39.2973522,-76.5871068,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510070300,True
+Add Beauty,barber_beauty,beauty,39.2931586,-76.6085249,,,,,,,,,,,,,Barber Beauty,Beauty,24510280500,True
+Tychelle’s Unique Beauty Salon,barber_beauty,hairdresser,39.3156003,-76.6114214,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120400,True
+NAPtural Hair Artistry,barber_beauty,hairdresser,39.3219479,-76.6136683,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120300,True
+Avon’s Studio,barber_beauty,hairdresser,39.3098477,-76.6180702,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120500,True
+Salon Ruth,barber_beauty,hairdresser,39.3100479,-76.6476793,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510150400,True
+Transformations Kutz and Salon,barber_beauty,hairdresser,39.4456116,-76.3092454,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
+The Male Room,barber_beauty,hairdresser,39.4455015,-76.309111,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
+Professional Nails,barber_beauty,beauty,39.4203366,-77.4508212,,,,,,,,,,,,,Barber Beauty,Beauty,24021750508,True
+Beauty Max,barber_beauty,beauty,39.4194921,-77.4489242,,,,,,,,,,,,,Barber Beauty,Beauty,24021750504,True
+Hair Design,barber_beauty,hairdresser,38.9909173,-76.9878929,,,,,,,,,,,,,Barber Beauty,Hairdresser,24033805601,True
+Pott's Barber Shop,barber_beauty,hairdresser,39.3104269,-76.6394412,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510130300,True
+Elite Beauty Boutique,barber_beauty,beauty,39.3128175,-76.6454445,,,,,,,,,,,,,Barber Beauty,Beauty,24510130300,True
+Paramount Barber Shop,barber_beauty,hairdresser,39.312626,-76.645822,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510150400,True
+Phaze Two,barber_beauty,hairdresser,39.3103505,-76.6410134,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510130300,True
+Secret Society Beauty & Barber,barber_beauty,hairdresser,39.3102463,-76.6437365,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510150400,True
+Eastern Shore Hospital Center,medical,hospital,38.5409617,-76.0646796,,,,,,,,,,,,,Medical,Hospital,24019970600,True
+Reynolds Dentistry,medical,dentist,39.4196045,-76.2968324,,,,,,,,,,,,,Medical,Dentist,24025301601,True
+Mallard Bay Health Care Center at Cambridge,medical,doctors,38.574375,-76.090447,,,,,,,,,,,,,Medical,Doctors,24019970500,True
+VA Clinic,medical,clinic,39.3365312,-76.5949394,,,,,,,,,,,,,Medical,Clinic,24510090200,True
+Harwood Health Center,medical,clinic,39.3186152,-76.6096322,,,,,,,,,,,,,Medical,Clinic,24510120300,True
+My Life Behavioral Health Systems LLC,medical,doctors,39.3107835,-76.6156431,,,,,,,,,,,,,Medical,Doctors,24510120500,True
+Joppa Health Services,medical,doctors,39.4289708,-76.3530935,,,,,,,,,,,,,Medical,Doctors,24025301301,True
+DaVita Dialysis,medical,clinic,39.4398167,-76.3445472,,,,,,,,,,,,,Medical,Clinic,24025301301,True
+St. Paul & Biddle Medical Associates / Pacific Rehab of Maryland,medical,rehabilitation,39.4352636,-76.3117789,,,,,,,,,,,,,Medical,Rehabilitation,24025301302,True
+Empowering Minds Resource Center,medical,clinic,39.4340627,-76.3172566,,,,,,,,,,,,,Medical,Clinic,24025301302,True
+Harford County Ambulatory Surgery Center,medical,doctor,39.435892,-76.3134464,,,,,,,,,,,,,Medical,Doctor,24025301301,True
+Nova Pain Center,medical,clinic,39.4358692,-76.31361,,,,,,,,,,,,,Medical,Clinic,24025301301,True
+"Faisal Sayeed, MD",medical,doctors,39.4361841,-76.3136918,,,,,,,,,,,,,Medical,Doctors,24025301301,True
+Adullum Community Healthcare Center,medical,clinic,39.3288181,-76.6065076,,,,,,,,,,,,,Medical,Clinic,24510090300,True
+"Magdalena P. Vallar DMS MPH, Rodrigo P. Valler DDS",medical,dentist,39.3182076,-76.6152776,,,,,,,,,,,,,Medical,Dentist,24510120300,True
+Endoscopy Center of Essex,medical,clinic,39.3122803,-76.4647604,,,,,,,,,,,,,Medical,Clinic,24005450501,True
+Pediatrics & Adolescent Care,medical,clinic,39.3118769,-76.4664624,,,,,,,,,,,,,Medical,Clinic,24005450501,True
+"Robert Wilson, D.D.S.",medical,dentist,39.1382527,-77.1953669,,,,,,,,,,,,,Medical,Dentist,24031700731,True
+Chesapeake Contemporary Dentistry,medical,dentist,39.435087,-76.3279553,,,,,,,,,,,,,Medical,Dentist,24025301301,True
+Lifebridge Health Medical Group,medical,doctors,39.432411,-76.3257806,,,,,,,,,,,,,Medical,Doctors,24025301302,True
+str8rsmiles,medical,dentist,39.4326742,-76.3240599,,,,,,,,,,,,,Medical,Dentist,24025301302,True
+Infinite Medical Express,medical,clinic,39.4326865,-76.3239792,,,,,,,,,,,,,Medical,Clinic,24025301302,True
+Drayer Physical Therapy Institute,medical,physiotherapist,39.4323108,-76.3263053,,,,,,,,,,,,,Medical,Physiotherapist,24025301302,True
+Frederick Foot Care,medical,podiatrist,39.4248305,-77.4706812,,,,,,,,,,,,,Medical,Podiatrist,24021750507,True
+Aspen Dental,medical,dentist,39.6278187,-77.766906,,,,,,,,,,,,,Medical,Dentist,24043000900,True
+Agape Physical Therapy,medical,physiotherapist,39.4391685,-76.3449891,,,,,,,,,,,,,Medical,Physiotherapist,24025301301,True
+COVID-19 Testing Site,medical,laboratory,39.3187491,-76.654849,,,,,,,,,,,,,Medical,Laboratory,24510150500,True
+Project Chesapeake,medical,psychotherapist,39.4350109,-76.3277183,,,,,,,,,,,,,Medical,Psychotherapist,24025301301,True
+The Johns Hopkins Outpatient Center,medical,clinic,39.2970031,-76.5956876,,,,,,,,,,,,,Medical,Clinic,24510280500,True
+Global Healthcare Systems,medical,clinic,39.4450144,-76.3086079,,,,,,,,,,,,,Medical,Clinic,24025301301,True
+ATI Physical Therapy,medical,physiotherapist,39.0156487,-76.9280806,,,,,,,,,,,,,Medical,Physiotherapist,24033807301,True
+Restoration Family Chiropractice,medical,clinic,39.4156366,-77.4455605,,,,,,,,,,,,,Medical,Clinic,24021750505,True
+FCI Dental Care,medical,dentist,39.4270411,-76.3642627,,,,,,,,,,,,,Medical,Dentist,24025301401,True
+Stotler Chiropractic,medical,alternative,39.4270092,-76.3641154,,,,,,,,,,,,,Medical,Alternative,24025301401,True
+Balbir S. Chauhan,medical,doctors,39.4270317,-76.3640473,,,,,,,,,,,,,Medical,Doctors,24025301401,True
+GreenLeaf Medical Cannabis Evaluation & Resource Center,medical,clinic,39.3134168,-76.6149508,,,,,,,,,,,,,Medical,Clinic,24510120400,True
+Park West Health System,medical,clinic,39.3480927,-76.6767704,,,,,,,,,,,,,Medical,Clinic,24510271802,True
+Park West Health System COVID-19 Testing Site,medical,sample_collection,39.3480212,-76.676679,,,,,,,,,,,,,Medical,Sample Collection,24510271802,True
+Mondawmin Mall COVID-19 Vaccination Site,medical,vaccination_centre,39.3169861,-76.6541461,,,,,,,,,,,,,Medical,Vaccination Centre,24510150500,True
+Fresenius Medical Care Baltimore Dialysis,medical,clinic,39.3225836,-76.608112,,,,,,,,,,,,,Medical,Clinic,24510090400,True
+St. Paul & Biddle Pacific Rehab - South Baltimore / Cherry Hill,medical,rehabilitation,39.2539289,-76.617586,,,,,,,,,,,,,Medical,Rehabilitation,24510250203,True
+ExpressCare at Sinai Hospital,medical,clinic,39.3511376,-76.6599679,,,,,,,,,,,,,Medical,Clinic,24510271700,True
+Dental Dreams,medical,dentist,39.356757,-76.7052521,,,,,,,,,,,,,Medical,Dentist,24510280101,True
+Penn North Recovery,medical,social_facility,39.3094686,-76.6420593,,,,,,,,,,,,,Medical,Social Facility,24510150100,True
+Eastern Sexual Health Clinic,medical,clinic,39.2925438,-76.6008135,,,,,,,,,,,,,Medical,Clinic,24510280500,True
+Maryland Healthcare Clinic,medical,clinic,39.4340526,-76.3173291,,,,,,,,,,,,,Medical,Clinic,24025301302,True
+Total Healthcare,medical,clinic,39.3174438,-76.6540206,,,,,,,,,,,,,Medical,Clinic,24510150500,True
+Caring Hands,medical,clinic,39.3205297,-76.6093336,,,,,,,,,,,,,Medical,Clinic,24510090400,True
+Truecare BHS,medical,clinic,39.3182367,-76.6118698,,,,,,,,,,,,,Medical,Clinic,24510120300,True
+MedStar Health Physical Therapy,medical,physiotherapist,39.3287829,-76.5998204,,,,,,,,,,,,,Medical,Physiotherapist,24510090300,True
+DaVita Harbor Park Dialysis,medical,clinic,39.2511693,-76.6171685,,,,,,,,,,,,,Medical,Clinic,24510250203,True
+Annapolis Family Dentistry,medical,dentist,38.9495315,-76.4900284,,,,,,,,,,,,,Medical,Dentist,24003706303,True
+One Physical Therapy,medical,physiotherapist,38.9494142,-76.4900224,,,,,,,,,,,,,Medical,Physiotherapist,24003706303,True
+Evolve Direct Primary Care & Urgent Care,medical,clinic,38.9679514,-76.5200887,,,,,,,,,,,,,Medical,Clinic,24003702500,True
+About Smiles Dentistry,medical,dentist,38.9682225,-76.5204226,,,,,,,,,,,,,Medical,Dentist,24003702500,True
+Plastic Surgery Services: Dr. Henry F. Garazo,medical,clinic,39.6335784,-77.695622,,,,,,,,,,,,,Medical,Clinic,24043000601,True
+Redesigning Minds,medical,social_facility,39.3217474,-76.6087531,,,,,,,,,,,,,Medical,Social Facility,24510090400,True
+Transformations Center for Weight Loss,medical,clinic,39.4358972,-76.3072695,,,,,,,,,,,,,Medical,Clinic,24025301302,True
+Harmony Health Services,medical,clinic,39.4359158,-76.3071735,,,,,,,,,,,,,Medical,Clinic,24025301302,True
+Avawell Mental Health,medical,doctors,39.4350299,-76.3280893,,,,,,,,,,,,,Medical,Doctors,24025301301,True
+Unnamed rehabilitation,medical,rehabilitation,39.3545406,-76.7037976,,,,,,,,,,,,,Medical,Rehabilitation,24510280101,True
+Unnamed dentist,medical,dentist,39.3539692,-76.7043751,,,,,,,,,,,,,Medical,Dentist,24510280101,True
+For Eyes,medical,optometrist,39.1535991,-77.1987019,,,,,,,,,,,,,Medical,Optometrist,24031700713,True
+Affordable Dentures & Implants,medical,dentist,39.1541063,-77.1993906,,,,,,,,,,,,,Medical,Dentist,24031700713,True
+America's Best Contacts & Eyeglasses,medical,optometrist,39.1541845,-77.199265,,,,,,,,,,,,,Medical,Optometrist,24031700713,True
+ATI Physical Therapy,medical,physiotherapist,39.1542394,-77.1991782,,,,,,,,,,,,,Medical,Physiotherapist,24031700713,True
+Unnamed dentist,medical,dentist,39.1555975,-77.1990279,,,,,,,,,,,,,Medical,Dentist,24031700713,True
+Centro Dental Las Americas,medical,dentist,38.9833582,-76.9802085,,,,,,,,,,,,,Medical,Dentist,24033805500,True
+Park West,medical,clinic,39.3367506,-76.663919,,,,,,,,,,,,,Medical,Clinic,24510151300,True
+Acosta & Associates Dental Practice,medical,dentist,39.2877357,-76.593874,,,,,,,,,,,,,Medical,Dentist,24510030100,True
+"Dr. Richard E. Fisher, MD",medical,doctors,39.2231879,-76.5884294,,,,,,,,,,,,,Medical,Doctors,24510250500,True
+Hudyma Eugene DPM,medical,doctors,39.2231524,-76.5884294,,,,,,,,,,,,,Medical,Doctors,24510250500,True
+Park Health Dentistry,medical,dentist,39.3480637,-76.6767266,,,,,,,,,,,,,Medical,Dentist,24510271802,True
+Jai Medical Center,medical,clinic,39.3384258,-76.6659302,,,,,,,,,,,,,Medical,Clinic,24510151300,True
+Unnamed clinic,medical,clinic,39.2210959,-76.6142919,,,,,,,,,,,,,Medical,Clinic,24003750204,True
+FutureCare - Sandtown,medical,rehabilitation,39.3002701,-76.6434938,,,,,,,,,,,,,Medical,Rehabilitation,24510160300,True
+Unnamed dentist,medical,dentist,38.9631213,-76.5115143,,,,,,,,,,,,,Medical,Dentist,24003706403,True
+Baltimore Medical System at Middlesex,medical,doctors,39.3152186,-76.4599107,,,,,,,,,,,,,Medical,Doctors,24005450501,True
+Unnamed doctors,medical,doctors,39.3121893,-76.4648158,,,,,,,,,,,,,Medical,Doctors,24005450501,True
+Jai Medical Center,medical,clinic,39.2978817,-76.6003827,,,,,,,,,,,,,Medical,Clinic,24510280500,True
+Total Health Care Johnson Medical Center,medical,clinic,39.3179677,-76.6030737,,,,,,,,,,,,,Medical,Clinic,24510090800,True
+Concerted Care Group,medical,clinic,39.3184146,-76.6101941,,,,,,,,,,,,,Medical,Clinic,24510120300,True
+Empowering Minds Resource Center,medical,clinic,39.3176771,-76.6149982,,,,,,,,,,,,,Medical,Clinic,24510120300,True
+Druid Family Health Center - H. Maceo Williams Building,medical,clinic,39.3097874,-76.6413642,,,,,,,,,,,,,Medical,Clinic,24510140300,True
+Adventist HealthCare Takoma Park,medical,hospital,38.9851867,-77.0014717,,,,,,,,,,,,,Medical,Hospital,24031701702,True
+Levindale Hebrew Geriatric Center and Hospital,medical,hospital,39.3541909,-76.6650519,,,,,,,,,,,,,Medical,Hospital,24510271700,True
+Sigafoose Chropractic Center,medical,alternative,39.4355038,-76.3109243,,,,,,,,,,,,,Medical,Alternative,24025301302,True
+Riverside Treatment Services,medical,clinic,39.4362459,-76.3055222,,,,,,,,,,,,,Medical,Clinic,24025301302,True
+Partners In Pediatrics and Family Health,medical,doctors,39.6339758,-77.7264761,,,,,,,,,,,,,Medical,Doctors,24043000800,True
+Alternative Drug and Alcohol Counseling,medical,rehabilitation,39.6367446,-77.7289351,,,,,,,,,,,,,Medical,Rehabilitation,24043000800,True
+LabCorp,medical,laboratory,39.6486751,-78.760481,,,,,,,,,,,,,Medical,Laboratory,24001000800,True
+Loch Raven VA Medical Center,medical,hospital,39.3357501,-76.5965207,,,,,,,,,,,,,Medical,Hospital,24510090200,True
+Sinai Hospital of Baltimore,medical,hospital,39.3529964,-76.6610822,,,,,,,,,,,,,Medical,Hospital,24510271700,True
+Baltimore City Health Department Eastern Health District Clinic,medical,clinic,39.292501,-76.6009043,,,,,,,,,,,,,Medical,Clinic,24510280500,True
+MedStar Harbor Hospital,medical,hospital,39.2517979,-76.6146192,,,,,,,,,,,,,Medical,Hospital,24510250203,True
+FIVE STAR OF MARYLAND,financial,credit_union,39.214445,-76.570677,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24510250500,True
+ABERDEEN PROVING GROUND,financial,credit_union,39.432056,-76.334846,True,False,True,True,True,True,True,True,False,True,False,,Financial,Credit Union,24025301302,True
+DEMOCRACY,financial,credit_union,38.854256,-76.909012,False,True,False,False,True,True,False,True,False,True,True,,Financial,Credit Union,24033802407,True
+"STATE EMPLOYEES CU OF MARYLAND, INC",financial,credit_union,39.301355,-76.622011,False,False,False,False,True,True,False,False,False,True,False,,Financial,Credit Union,24510170200,True
+MUNICIPAL EMPL.CREDIT UNION OF BALT,financial,credit_union,39.343198,-76.707015,False,True,True,False,True,True,False,True,False,True,False,,Financial,Credit Union,24510280102,True
+SECURITYPLUS,financial,credit_union,39.345591,-76.700408,False,True,False,True,True,True,False,True,False,True,True,,Financial,Credit Union,24510280102,True
+SECURITYPLUS,financial,credit_union,39.3490263,-76.7002633,False,True,False,True,True,True,False,True,False,True,True,,Financial,Credit Union,24510280102,True
+NYMEO,financial,credit_union,39.417744,-77.445358,False,False,True,True,True,True,False,True,False,True,False,,Financial,Credit Union,24021750504,True
+CHESSIE,financial,credit_union,39.632011,-78.765404,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24001000800,True
+CHESSIE,financial,credit_union,39.628567,-78.766538,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24001000800,True
+"STATE EMPLOYEES CU OF MARYLAND, INC",financial,credit_union,39.619989,-77.771149,False,False,False,False,True,True,False,False,False,True,False,,Financial,Credit Union,24043000900,True
+Jade Niemiec,childcare,family_child_care,39.63559039,-78.75187692,,,,,,,,,,,,1.0,Childcare,Family Child Care,24001000700,True
+HRDC Cumberland St. Head Start,childcare,child_care_center,39.629407,-78.76594,,,,,,,,,,,,3.0,Childcare,Child Care Center,24001000800,True
+Taryn Gordon,childcare,large_family_child_care,39.63613581,-78.75881122,,,,,,,,,,,,3.0,Childcare,Large Family Child Care,24001000700,True
+Nikki Wigger,childcare,family_child_care,39.6385294,-78.75476696,,,,,,,,,,,,3.0,Childcare,Family Child Care,24001000700,True
+HRDC Seymour Street Head Start & Early Head Start,childcare,child_care_center,39.63460168,-78.75996752,,,,,,,,,,,,3.0,Childcare,Child Care Center,24001000700,True
+Pamela Shaw,childcare,large_family_child_care,39.63484754,-78.75563743,,,,,,,,,,,,4.0,Childcare,Large Family Child Care,24001000700,True
+Pamela Gragg,childcare,family_child_care,39.63502428,-78.75557494,,,,,,,,,,,,1.0,Childcare,Family Child Care,24001000700,True
+HRDC Bel Air Head Start,childcare,child_care_center,39.629407,-78.76594,,,,,,,,,,,,3.0,Childcare,Child Care Center,24001000800,True
+South Penn Elementary,childcare,public_prekindergarten,39.635544,-78.75784,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24001000700,True
+Carla Norris,childcare,family_child_care,39.62992462,-78.76956482,,,,,,,,,,,,1.0,Childcare,Family Child Care,24001000800,True
+Caitlin Rodenhauser,childcare,family_child_care,39.63824633,-78.76401476,,,,,,,,,,,,1.0,Childcare,Family Child Care,24001000800,True
+Shannon Jackson,childcare,family_child_care,39.63423234,-78.74816058,,,,,,,,,,,,3.0,Childcare,Family Child Care,24001000700,True
+Tammy Merrill,childcare,large_family_child_care,39.63209103,-78.76649144,,,,,,,,,,,,4.0,Childcare,Large Family Child Care,24001000800,True
+Regina Smith,childcare,family_child_care,39.21486177,-76.63779259,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003750201,True
+Little Smiles with Big Dreams Learning Center,childcare,child_care_center,39.21979155,-76.61389239,,,,,,,,,,,,4.0,Childcare,Child Care Center,24003750101,True
+Y Head Start Anne Arundel @ Lloyd Keaser,childcare,child_care_center,39.21980286,-76.6350531,,,,,,,,,,,,3.0,Childcare,Child Care Center,24003750201,True
+Belle Grove Elementary Child Enrichment Center,childcare,school-age_only,39.22962267,-76.61968893,,,,,,,,,,,,1.0,Childcare,School-Age Only,24003750102,True
+Park Elementary Child Enrichment Center,childcare,school-age_only,39.22379503,-76.61154365,,,,,,,,,,,,1.0,Childcare,School-Age Only,24003750101,True
+Brooklyn Park Elementary SACC,childcare,school-age_only,39.22161026,-76.61707953,,,,,,,,,,,,3.0,Childcare,School-Age Only,24003750204,True
+Mindy Johnson,childcare,family_child_care,39.20831271,-76.63925921,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003750201,True
+Kimberly Carpenter,childcare,family_child_care,38.97180025,-76.52428651,,,,,,,,,,,,0.0,Childcare,Family Child Care,24003702500,True
+Fredericka Dowell,childcare,family_child_care,38.95953386,-76.4912065,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003706404,True
+Marcia DeJesus,childcare,family_child_care,38.96652015,-76.51915936,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003702500,True
+Kneseth Israel NS,childcare,loc,38.96480634,-76.51273856,,,,,,,,,,,,0.0,Childcare,Loc,24003706403,True
+Belle Grove Elementary,childcare,public_prekindergarten,39.22962267,-76.61968893,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24003750102,True
+Emma Franklin,childcare,family_child_care,38.97130215,-76.52684124,,,,,,,,,,,,0.0,Childcare,Family Child Care,24003702500,True
+Brooklyn Park Elementary,childcare,public_prekindergarten,39.221573,-76.6172,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24003750204,True
+Park Elementary,childcare,public_prekindergarten,39.22419,-76.61671,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24003750204,True
+Georgetown East Elementary,childcare,public_prekindergarten,38.95390308,-76.49103909,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24003706303,True
+Tyler Heights Elementary,childcare,public_prekindergarten,38.955616,-76.50084,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24003706404,True
+Jovan Brown,childcare,family_child_care,38.97173264,-76.52453702,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003702500,True
+Janique Trenee Spence-Smith,childcare,family_child_care,38.96908394,-76.52534504,,,,,,,,,,,,3.0,Childcare,Family Child Care,24003702500,True
+Tammy Boyd,childcare,family_child_care,39.20791369,-76.63005332,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003750201,True
+Primrose of Annapolis,childcare,child_care_center,38.96597975,-76.51092573,,,,,,,,,,,,0.0,Childcare,Child Care Center,24003706403,True
+Leslie Pinkney,childcare,family_child_care,38.97622358,-76.53166226,,,,,,,,,,,,1.0,Childcare,Family Child Care,24003702500,True
+Kutina Street,childcare,family_child_care,39.23314636,-76.61823018,,,,,,,,,,,,3.0,Childcare,Family Child Care,24003750102,True
+Sharon Johnson-Stewart,childcare,family_child_care,39.33811,-76.599556,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510090100,True
+Robyn Bailey,childcare,family_child_care,39.33140012,-76.65475361,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510151200,True
+Denise McNeal,childcare,family_child_care,39.25267234,-76.61886742,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510250207,True
+Union Baptist Harvey Johnson,childcare,child_care_center,39.30137478,-76.62765524,,,,,,,,,,,,5.0,Childcare,Child Care Center,24510170200,True
+Yulanda Jonas,childcare,family_child_care,39.33864215,-76.58978734,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090200,True
+Kiddie Korral Learning Center,childcare,child_care_center,39.32227405,-76.65551574,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510150500,True
+Doris Adams,childcare,family_child_care,39.33410488,-76.59920547,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510090100,True
+Susan Thomas,childcare,family_child_care,39.3114696,-76.60938428,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090800,True
+Gloria Cox,childcare,family_child_care,39.33358911,-76.65796628,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510151200,True
+Joslyn Dorsey,childcare,family_child_care,39.32960513,-76.65918732,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510151200,True
+Miriam Garner,childcare,family_child_care,39.31235042,-76.66802096,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510150702,True
+Dorothy I. Height Elementary,childcare,public_prekindergarten,39.311024,-76.632835,,,,,,,,,,,,4.0,Childcare,Public Prekindergarten,24510130200,True
+Jonetta Woods,childcare,family_child_care,39.32768346,-76.66102078,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510151200,True
+India Brown,childcare,large_family_child_care,39.33003823,-76.67230378,,,,,,,,,,,,1.0,Childcare,Large Family Child Care,24510151100,True
+Toshiko Riggins,childcare,family_child_care,39.3338969,-76.69614998,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510280102,True
+St. Vincent de Paul Early Head Start,childcare,child_care_center,39.33916618,-76.66420907,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510151300,True
+Y Head Start Baltimore City @ E. Fayette Street,childcare,child_care_center,39.29184204,-76.60247665,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510280500,True
+Creative Kids,childcare,child_care_center,39.24963422,-76.62366858,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510250203,True
+Catina Atkinson,childcare,family_child_care,39.32945285,-76.66752894,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510151100,True
+LIGHT Rock Child Care Center at the New Shiloh Village,childcare,child_care_center,39.31304636,-76.64844841,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510150400,True
+Waverly Early Head Start Center of Goodwill,childcare,child_care_center,39.3254607,-76.60614884,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510090400,True
+ABC Child Development Center II,childcare,child_care_center,39.34964674,-76.67810322,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510271801,True
+Janet Butler,childcare,family_child_care,39.30144124,-76.63809042,,,,,,,,,,,,3.0,Childcare,Family Child Care,24510160100,True
+Torresha Cooper,childcare,family_child_care,39.30604295,-76.64345385,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150100,True
+Latonya Mcgraw,childcare,family_child_care,39.30745906,-76.64339075,,,,,,,,,,,,3.0,Childcare,Family Child Care,24510150100,True
+Y Head Start Baltimore City @ West Preston,childcare,child_care_center,39.29949596,-76.62568097,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510170200,True
+Catholic Charities Head Start Baltimore City @ Joseph Avenue,childcare,child_care_center,39.24986174,-76.62501737,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510250207,True
+Catholic Charities Head Start Baltimore City @ Harlem Avenue,childcare,child_care_center,39.29661179,-76.64291408,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510160300,True
+Elaine Goodman Garrard,childcare,family_child_care,39.31456786,-76.66264236,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150702,True
+"Fine Point Stay N Play, LLC",childcare,child_care_center,39.29642706,-76.59741028,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510280500,True
+Monica Gregory,childcare,family_child_care,39.31240939,-76.66648975,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150702,True
+ABC Child Development Center,childcare,child_care_center,39.34969953,-76.67829179,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510271801,True
+Waverly School-Age Child Care Center,childcare,school-age_only,39.33065191,-76.60368052,,,,,,,,,,,,1.0,Childcare,School-Age Only,24510090300,True
+Kendra Stewart,childcare,family_child_care,39.302694,-76.6390199,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510160200,True
+Tia Trayham,childcare,family_child_care,39.24679761,-76.62682616,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510250204,True
+Touched By Angels Early Childhood Educational Program,childcare,child_care_center,39.33097667,-76.66017657,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510151200,True
+Little Flowers Early Childhood & Development,childcare,child_care_center,39.30596084,-76.63833436,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510150100,True
+La Petite Child Care Center,childcare,child_care_center,39.35392085,-76.66358733,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510271700,True
+Martina Johnson,childcare,family_child_care,39.34253621,-76.67513762,,,,,,,,,,,,4.0,Childcare,Family Child Care,24510271802,True
+Tooney Town Early Learning Center,childcare,child_care_center,39.31435182,-76.60584886,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510090800,True
+Nakia Dorman,childcare,family_child_care,39.29743153,-76.57308099,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510070100,True
+Nickia Narine,childcare,family_child_care,39.33712,-76.676506,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510151100,True
+Mingnon Holmes,childcare,family_child_care,39.33350081,-76.60590906,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090300,True
+Danielle Tetteh,childcare,family_child_care,39.31855117,-76.66041636,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150500,True
+My Heavenly Angels,childcare,child_care_center,39.33542294,-76.59851006,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510090100,True
+St. Vincent de Paul Head Start Center  Site III,childcare,child_care_center,39.33916618,-76.66420907,,,,,,,,,,,,5.0,Childcare,Child Care Center,24510151300,True
+Ebony James,childcare,family_child_care,39.29272122,-76.59661472,,,,,,,,,,,,3.0,Childcare,Family Child Care,24510030100,True
+Andrea Smith,childcare,family_child_care,39.31520112,-76.64453584,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510130400,True
+Emily Price Jones Head Start / YMCA,childcare,child_care_center,39.31403563,-76.65061612,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510150400,True
+Theresa Pryor,childcare,family_child_care,39.33092123,-76.60779806,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090300,True
+"Family Rainbow Learning Center, Inc.",childcare,child_care_center,39.33543851,-76.70406843,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510280102,True
+Adrianne Crawford,childcare,family_child_care,39.32927979,-76.59150994,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090200,True
+The New Rogers Ave Day Nursery,childcare,child_care_center,39.34220909,-76.6875479,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510280102,True
+Kiddie Castle Child Development Center,childcare,child_care_center,39.33709449,-76.66659952,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510151300,True
+Emma Daniel,childcare,family_child_care,39.34100156,-76.66952491,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510271600,True
+La'Dawn Jones,childcare,family_child_care,39.32533175,-76.59025422,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510090600,True
+Little Bears Den Learning Ctr II,childcare,child_care_center,39.30914695,-76.63607081,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510140300,True
+Sherman Early Childhood Center,childcare,child_care_center,39.32858241,-76.60355424,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510090300,True
+Gayle Tobin,childcare,family_child_care,39.31982823,-76.65432731,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150500,True
+Cheryl Thomas,childcare,family_child_care,39.30930777,-76.63305971,,,,,,,,,,,,3.0,Childcare,Family Child Care,24510140300,True
+Mary Pittman,childcare,family_child_care,39.29945062,-76.57818548,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510070200,True
+Sybil Hill,childcare,family_child_care,39.3410135,-76.66951933,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510271600,True
+Ianthia Darden,childcare,family_child_care,39.29855549,-76.64160683,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510160200,True
+Maxine Isabelle,childcare,family_child_care,39.3222824,-76.59172527,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090600,True
+Marian Heath,childcare,family_child_care,39.33404937,-76.67867654,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510151100,True
+Simply Mervo-Lous Child Care Development Center,childcare,child_care_center,39.33558865,-76.58869796,,,,,,,,,,,,0.0,Childcare,Child Care Center,24510090200,True
+Earthly Angels CCC,childcare,child_care_center,39.34497154,-76.665915,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510271600,True
+St. Vincent de Paul Head Start,childcare,child_care_center,39.34754248,-76.67347179,,,,,,,,,,,,5.0,Childcare,Child Care Center,24510271700,True
+Patricia Williams,childcare,family_child_care,39.31563466,-76.60001748,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090800,True
+Darlene McCoy,childcare,family_child_care,39.32587263,-76.6763149,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510151100,True
+One Step Up Inc.,childcare,child_care_center,39.31013021,-76.66201182,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510150600,True
+Johns Hopkins Child Care and Early Learning Center,childcare,child_care_center,39.29201385,-76.59406233,,,,,,,,,,,,0.0,Childcare,Child Care Center,24510030100,True
+Nakia Jackson,childcare,family_child_care,39.3012916,-76.57899548,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510070200,True
+Mirdies Parrott,childcare,family_child_care,39.31568055,-76.64903325,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510130400,True
+Kimberly Felton-Pittman,childcare,family_child_care,39.34692577,-76.66342056,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510271700,True
+Catholic Charities Head Start Baltimore City at Round Road,childcare,child_care_center,39.25154635,-76.62752138,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510250207,True
+Linda Wright,childcare,family_child_care,39.33526922,-76.5932365,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090200,True
+Harry & Jeanette Weinberg Early Childhood Center,childcare,child_care_center,39.30082049,-76.58792999,,,,,,,,,,,,5.0,Childcare,Child Care Center,24510070300,True
+Roslyn DuPree,childcare,family_child_care,39.33599756,-76.5930977,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510090200,True
+"Watoto Development Center, LLC",childcare,child_care_center,39.3383698,-76.69955945,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510280102,True
+Shorena Edwards,childcare,family_child_care,39.34203964,-76.66521424,,,,,,,,,,,,3.0,Childcare,Family Child Care,24510271600,True
+"Kreative Minds Early Learning Center, LLC",childcare,child_care_center,39.33700012,-76.67776619,,,,,,,,,,,,4.0,Childcare,Child Care Center,24510151100,True
+Calvin M. Rodwell Elementary/Middle,childcare,public_prekindergarten,39.342564,-76.69959,,,,,,,,,,,,0.0,Childcare,Public Prekindergarten,24510280102,True
+Michele Linck,childcare,family_child_care,39.33550102,-76.6018994,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510090100,True
+St. Vincent de Paul Head Start - Arlington,childcare,child_care_center,39.3511644,-76.68427186,,,,,,,,,,,,5.0,Childcare,Child Care Center,24510271801,True
+St. Vincent de Paul Early Head Start - Arlington,childcare,child_care_center,39.3511644,-76.68427186,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510271801,True
+Smart Steps @ KIPP,childcare,school-age_only,39.30994083,-76.67603404,,,,,,,,,,,,1.0,Childcare,School-Age Only,24510150600,True
+Cecil Elementary,childcare,public_prekindergarten,39.312756,-76.60526,,,,,,,,,,,,0.0,Childcare,Public Prekindergarten,24510090800,True
+"Dallas F. Nicholas, Sr., Elementary",childcare,public_prekindergarten,39.313335,-76.61386,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24510120400,True
+Pimlico Elementary/Middle,childcare,public_prekindergarten,39.348312,-76.668785,,,,,,,,,,,,0.0,Childcare,Public Prekindergarten,24510271700,True
+KIPP Harmony Academy,childcare,public_prekindergarten,39.30994083,-76.67603404,,,,,,,,,,,,0.0,Childcare,Public Prekindergarten,24510150600,True
+Dana Jefferson,childcare,family_child_care,39.34099091,-76.67735543,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510280101,True
+Darlene Ghee,childcare,family_child_care,39.33751125,-76.6094544,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090100,True
+Family Rainbow Learning Center II,childcare,child_care_center,39.33432637,-76.69246118,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510280102,True
+Tracey Davis,childcare,family_child_care,39.35891516,-76.70857466,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510280101,True
+Bloom Social Emotional Learning Center,childcare,child_care_center,39.34222138,-76.68759228,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510280102,True
+Renee Eubanks,childcare,family_child_care,39.33367042,-76.67227218,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510151100,True
+Catholic Charities Head Start Baltimore City @ 10th Street,childcare,child_care_center,39.22657695,-76.59973608,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510250500,True
+Coppin Early Childhood Center,childcare,child_care_center,39.310816,-76.674222,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510150600,True
+Darchei Noam,childcare,child_care_center,39.34665715,-76.71116132,,,,,,,,,,,,4.0,Childcare,Child Care Center,24510280102,True
+Elements of Education,childcare,child_care_center,39.31329594,-76.61382061,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510120400,True
+Heavenly Angels Early Learning Center,childcare,child_care_center,39.29897705,-76.64239991,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510160200,True
+Bright Stars Learning Center,childcare,child_care_center,39.33739549,-76.60945402,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510090100,True
+Latarsha Graves,childcare,family_child_care,39.33127975,-76.65867599,,,,,,,,,,,,3.0,Childcare,Family Child Care,24510151200,True
+St. Vincent de Paul of Baltimore - Early Head Start @ Arundel,childcare,child_care_center,39.25154635,-76.62752138,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510250207,True
+Magic Minds at Henderson Hopkins Elementary School,childcare,school-age_only,39.30082049,-76.58792999,,,,,,,,,,,,1.0,Childcare,School-Age Only,24510070300,True
+Donna Thomas-Pickett,childcare,family_child_care,39.32772794,-76.6609266,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510151200,True
+Step By Step Learning Center,childcare,child_care_center,39.29534552,-76.64003673,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510160200,True
+Union Baptist Harvey Johnson Head Start at Eutaw,childcare,child_care_center,39.30644093,-76.62950284,,,,,,,,,,,,0.0,Childcare,Child Care Center,24510140200,True
+The Terry Tots LLC,childcare,child_care_center,39.29706298,-76.60303488,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510280500,True
+Fitness Fun & Games at Montebello,childcare,school-age_only,39.32729896,-76.58490303,,,,,,,,,,,,2.0,Childcare,School-Age Only,24510090200,True
+Charleesiama Mckenzie,childcare,family_child_care,39.35893815,-76.7095572,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510280101,True
+My Little Adventures Learning Center Inc,childcare,child_care_center,39.29772765,-76.58411165,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510070300,True
+Zion Deliverance Child Care Center,childcare,child_care_center,39.3422039,-76.68231557,,,,,,,,,,,,2.0,Childcare,Child Care Center,24510271802,True
+St. Vincent de Paul of Baltimore Early Head Start at Sarah's Hope,childcare,child_care_center,39.3012931,-76.64460895,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510160300,True
+Aurikshauna Ratliff,childcare,family_child_care,39.3385201,-76.59352664,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510090200,True
+Katherine Mason-Ramsay,childcare,family_child_care,39.31757983,-76.66047178,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150500,True
+Inheritance at BMPCS,childcare,child_care_center,39.3079153,-76.61228767,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510120500,True
+Amenawon Ojeifoh,childcare,family_child_care,39.31227074,-76.66967456,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150702,True
+Nadia Choudhury,childcare,family_child_care,39.31332128,-76.67111213,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510150702,True
+Jack Jones,childcare,family_child_care,39.31549421,-76.61243132,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510120400,True
+Erica Davenport,childcare,family_child_care,39.31494169,-76.60051246,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090800,True
+Carlene Shiver,childcare,family_child_care,39.32807134,-76.66648392,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510151100,True
+Jeannette Spears,childcare,family_child_care,39.35107772,-76.66983727,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510271700,True
+Tationna Banks,childcare,family_child_care,39.32831069,-76.67807785,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510151100,True
+Francine Handy,childcare,family_child_care,39.33761135,-76.69175325,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510280102,True
+Yvette Matthews,childcare,family_child_care,39.23512699,-76.60100111,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510250402,True
+Sherry Thomas,childcare,family_child_care,39.3348294,-76.65893102,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510151200,True
+Smart Steps @ FLC,childcare,child_care_center,39.31016541,-76.66948253,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510150600,True
+Veronica Billy,childcare,family_child_care,39.33861428,-76.60935032,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510090100,True
+Shaydee's Corner Child Care,childcare,child_care_center,39.3118286,-76.64469758,,,,,,,,,,,,0.0,Childcare,Child Care Center,24510150400,True
+Inspired Child Care Learning Center,childcare,child_care_center,39.23575115,-76.60074166,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510250402,True
+Yvonne Deloatch-Armstrong,childcare,family_child_care,39.30103709,-76.58379118,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510070200,True
+Chantae Seldon,childcare,family_child_care,39.3334066,-76.69565902,,,,,,,,,,,,5.0,Childcare,Family Child Care,24510280102,True
+Chiquita Bentley,childcare,family_child_care,39.24813712,-76.62629612,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510250204,True
+Kimberly Noakes,childcare,family_child_care,39.29530007,-76.64152594,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510160200,True
+Chanta Logan,childcare,family_child_care,39.31935108,-76.65907399,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150500,True
+Jakeya Sullivan,childcare,large_family_child_care,39.32885842,-76.67617326,,,,,,,,,,,,1.0,Childcare,Large Family Child Care,24510151100,True
+Shahadah Williams,childcare,family_child_care,39.33965354,-76.6061738,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510090100,True
+Aletha Carroll,childcare,family_child_care,39.30620922,-76.66553504,,,,,,,,,,,,1.0,Childcare,Family Child Care,24510150600,True
+Giggle Box Learn-N-Play LLC,childcare,child_care_center,39.30929445,-76.44825051,,,,,,,,,,,,3.0,Childcare,Child Care Center,24005450504,True
+St. Stephens Christian Academy,childcare,child_care_center,39.31464355,-76.45274535,,,,,,,,,,,,2.0,Childcare,Child Care Center,24005450501,True
+Elease Sherman,childcare,family_child_care,39.297817,-76.45277,,,,,,,,,,,,0.0,Childcare,Family Child Care,24005450503,True
+Audrey McDermott,childcare,family_child_care,39.29487405,-76.45371317,,,,,,,,,,,,1.0,Childcare,Family Child Care,24005450503,True
+Deena Gutridge,childcare,family_child_care,39.30408467,-76.46396394,,,,,,,,,,,,5.0,Childcare,Family Child Care,24005450501,True
+Gaywantri Esau,childcare,family_child_care,39.3086164,-76.45893995,,,,,,,,,,,,0.0,Childcare,Family Child Care,24005450501,True
+Children R Us  Learning Center,childcare,child_care_center,39.30984196,-76.44774512,,,,,,,,,,,,1.0,Childcare,Child Care Center,24005450504,True
+Sabrina Kent,childcare,family_child_care,39.31687802,-76.4535163,,,,,,,,,,,,2.0,Childcare,Family Child Care,24005450501,True
+MRDC  Head Start- Federalsburg Site,childcare,child_care_center,38.68711354,-75.7963668,,,,,,,,,,,,3.0,Childcare,Child Care Center,24011955600,True
+Nancy Downie,childcare,family_child_care,38.69370964,-75.77718693,,,,,,,,,,,,0.0,Childcare,Family Child Care,24011955600,True
+Michelle Wheatley,childcare,family_child_care,38.67706188,-75.7146651,,,,,,,,,,,,3.0,Childcare,Family Child Care,24011955600,True
+Federalsburg Elementary School,childcare,public_prekindergarten,38.690563,-75.78033,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24011955600,True
+Elizabeth Salmons,childcare,family_child_care,38.69141896,-75.77756183,,,,,,,,,,,,1.0,Childcare,Family Child Care,24011955600,True
+Heather Goodger,childcare,family_child_care,38.69331278,-75.75813429,,,,,,,,,,,,0.0,Childcare,Family Child Care,24011955600,True
+Manoucheca Jean,childcare,family_child_care,38.6936921,-75.77729495,,,,,,,,,,,,1.0,Childcare,Family Child Care,24011955600,True
+Tyemesha Cephas,childcare,family_child_care,38.71531803,-75.77480099,,,,,,,,,,,,1.0,Childcare,Family Child Care,24011955600,True
+Valerie Andelmo,childcare,family_child_care,38.72438884,-75.73427713,,,,,,,,,,,,2.0,Childcare,Family Child Care,24011955600,True
+Renee Locker,childcare,family_child_care,38.61023019,-76.8999967,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+La Petite,childcare,child_care_center,38.6094687,-76.92240212,,,,,,,,,,,,3.0,Childcare,Child Care Center,24017850901,True
+Childtime Childrens Center,childcare,child_care_center,38.61054944,-76.91753283,,,,,,,,,,,,3.0,Childcare,Child Care Center,24017850901,True
+Inspiring Dreams Learning Center,childcare,child_care_center,38.61146477,-76.9036368,,,,,,,,,,,,3.0,Childcare,Child Care Center,24017850901,True
+Dale Stewart-Minson,childcare,family_child_care,38.60737849,-76.9090121,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+Kelly Clark,childcare,family_child_care,38.60689359,-76.90756439,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+CCDCS/AlphaBEST@Mudd,childcare,school-age_only,38.60697276,-76.90769246,,,,,,,,,,,,1.0,Childcare,School-Age Only,24017850901,True
+Pamela Lee,childcare,family_child_care,38.60832991,-76.91380464,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+Dr. Samuel A. Mudd Elementary School,childcare,public_prekindergarten,38.60697276,-76.90769246,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24017850901,True
+Aunies Learning Center,childcare,child_care_center,38.6176779,-76.89247925,,,,,,,,,,,,1.0,Childcare,Child Care Center,24017850901,True
+Tenia Gilbert,childcare,family_child_care,38.61683452,-76.89739275,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+Miama Walter,childcare,family_child_care,38.61037466,-76.90172791,,,,,,,,,,,,2.0,Childcare,Family Child Care,24017850901,True
+Katherine Pierce,childcare,family_child_care,38.60824033,-76.91383293,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+Dyson's Daycare,childcare,child_care_center,38.61114913,-76.91693795,,,,,,,,,,,,3.0,Childcare,Child Care Center,24017850901,True
+Tina Silas,childcare,family_child_care,38.60682127,-76.90047255,,,,,,,,,,,,0.0,Childcare,Family Child Care,24017850901,True
+LaShean Brandon,childcare,family_child_care,38.61078474,-76.89843199,,,,,,,,,,,,1.0,Childcare,Family Child Care,24017850901,True
+Dorchester Early Learning Center,childcare,child_care_center,38.56891642,-76.08466316,,,,,,,,,,,,1.0,Childcare,Child Care Center,24019970500,True
+Kia-Tracey Simms,childcare,family_child_care,38.56035286,-76.07677255,,,,,,,,,,,,2.0,Childcare,Family Child Care,24019970600,True
+Renee Willey,childcare,family_child_care,38.51937217,-76.15563542,,,,,,,,,,,,3.0,Childcare,Family Child Care,24019970804,True
+Yvonne Sharp,childcare,family_child_care,38.55815517,-76.07662178,,,,,,,,,,,,3.0,Childcare,Family Child Care,24019970600,True
+Yolanda Hall,childcare,family_child_care,38.56082879,-76.08390642,,,,,,,,,,,,3.0,Childcare,Family Child Care,24019970600,True
+Anna's Day Care Center,childcare,child_care_center,38.55006488,-76.07367237,,,,,,,,,,,,4.0,Childcare,Child Care Center,24019970600,True
+St. Clair Head Start Center,childcare,child_care_center,38.56891642,-76.08466316,,,,,,,,,,,,1.0,Childcare,Child Care Center,24019970500,True
+"Love, Faith & Hope Day Care",childcare,child_care_center,38.54963266,-76.07360904,,,,,,,,,,,,3.0,Childcare,Child Care Center,24019970600,True
+Choptank Elementary School,childcare,public_prekindergarten,38.560745,-76.08953,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24019970600,True
+Maple Elementary School,childcare,public_prekindergarten,38.539265,-76.09367,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24019970600,True
+Elsie Lee,childcare,family_child_care,38.578793,-76.08894,,,,,,,,,,,,0.0,Childcare,Family Child Care,24019970500,True
+Diana Cephas,childcare,large_family_child_care,38.56923885,-76.08257452,,,,,,,,,,,,3.0,Childcare,Large Family Child Care,24019970500,True
+"Dreams of Wings Childcare Enrichment Center, LLC - Site 2",childcare,child_care_center,38.55517364,-76.0849512,,,,,,,,,,,,2.0,Childcare,Child Care Center,24019970600,True
+Sprouts Early Childhood Learning Center @ Chesapeake Grove,childcare,child_care_center,38.475362,-76.102234,,,,,,,,,,,,1.0,Childcare,Child Care Center,24019970804,True
+Dreams of Wings Childcare Enrichment Center,childcare,child_care_center,38.54814652,-76.09659017,,,,,,,,,,,,1.0,Childcare,Child Care Center,24019970600,True
+Pine Street Enrichment Program,childcare,child_care_center,38.56632953,-76.08039101,,,,,,,,,,,,0.0,Childcare,Child Care Center,24019970500,True
+Pleasant Day Child Care Center,childcare,child_care_center,38.54628415,-76.08767566,,,,,,,,,,,,2.0,Childcare,Child Care Center,24019970600,True
+Betty Sanders,childcare,family_child_care,39.42892957,-77.4525374,,,,,,,,,,,,1.0,Childcare,Family Child Care,24021750508,True
+Sheri Yarborough,childcare,family_child_care,39.42838418,-77.45297465,,,,,,,,,,,,1.0,Childcare,Family Child Care,24021750508,True
+La Petite Child Care Center,childcare,child_care_center,39.40731699,-77.44694985,,,,,,,,,,,,3.0,Childcare,Child Care Center,24021750505,True
+KinderCare-301156,childcare,child_care_center,39.42310469,-77.44826675,,,,,,,,,,,,3.0,Childcare,Child Care Center,24021750504,True
+Brandy Esquibel,childcare,family_child_care,39.42736691,-77.46588809,,,,,,,,,,,,3.0,Childcare,Family Child Care,24021750507,True
+Laurie Arnold,childcare,family_child_care,39.40950641,-77.47059654,,,,,,,,,,,,3.0,Childcare,Family Child Care,24021750506,True
+Janine Hames,childcare,family_child_care,39.41296953,-77.45398926,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750506,True
+Yomara Delgado,childcare,family_child_care,39.42801436,-77.44297633,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750504,True
+Michele Fruge'-Brown,childcare,family_child_care,39.40539281,-77.46320553,,,,,,,,,,,,5.0,Childcare,Family Child Care,24021750506,True
+Kimberly Waddy,childcare,family_child_care,39.42770403,-77.45316254,,,,,,,,,,,,1.0,Childcare,Family Child Care,24021750508,True
+Kerstin Savage,childcare,family_child_care,39.40923137,-77.47012234,,,,,,,,,,,,1.0,Childcare,Family Child Care,24021750506,True
+Waverley Elementary,childcare,public_prekindergarten,39.425198,-77.45982,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24021750507,True
+Hillcrest Elementary,childcare,public_prekindergarten,39.410114,-77.45104,,,,,,,,,,,,4.0,Childcare,Public Prekindergarten,24021750505,True
+Andrea Harris,childcare,family_child_care,39.40950094,-77.44101482,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750505,True
+Joanne Bartgis,childcare,family_child_care,39.42692901,-77.43782151,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750504,True
+Nancy Arney,childcare,family_child_care,39.42585846,-77.44203625,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750504,True
+Diana Torres,childcare,family_child_care,39.408188,-77.44465254,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750505,True
+Tamaika Calimano,childcare,family_child_care,39.40772746,-77.4440812,,,,,,,,,,,,4.0,Childcare,Family Child Care,24021750505,True
+Frederick Adventist School,childcare,loc,39.40247307,-77.44423708,,,,,,,,,,,,0.0,Childcare,Loc,24021750506,True
+Iveth Patricia Runk,childcare,family_child_care,39.4276489,-77.46943021,,,,,,,,,,,,1.0,Childcare,Family Child Care,24021750507,True
+Heather Churchey,childcare,family_child_care,39.41351579,-77.46258838,,,,,,,,,,,,3.0,Childcare,Family Child Care,24021750506,True
+Jaquelinne Alvarenga Medina,childcare,family_child_care,39.42553454,-77.45177343,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750508,True
+Odette Stewart,childcare,family_child_care,39.42828472,-77.43586045,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750504,True
+Waverley YMCA Before and After School Enrichment,childcare,school-age_only,39.42740312,-77.46058227,,,,,,,,,,,,1.0,Childcare,School-Age Only,24021750507,True
+Patricia Bauer,childcare,family_child_care,39.43074189,-77.46513501,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750507,True
+Affifa Shah,childcare,family_child_care,39.42739214,-77.45494458,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750508,True
+Eliza Urizar,childcare,family_child_care,39.40956806,-77.44889333,,,,,,,,,,,,1.0,Childcare,Family Child Care,24021750505,True
+Keina Kipp-Goodwin,childcare,family_child_care,39.42829972,-77.46896056,,,,,,,,,,,,0.0,Childcare,Family Child Care,24021750507,True
+Willa Pointer,childcare,family_child_care,39.4324536,-76.30976955,,,,,,,,,,,,1.0,Childcare,Family Child Care,24025301302,True
+Trinity Lutheran Christian School and Early Learning Center,childcare,child_care_center,39.43930938,-76.3412222,,,,,,,,,,,,3.0,Childcare,Child Care Center,24025301301,True
+KinderCare-301351,childcare,child_care_center,39.43135652,-76.33106171,,,,,,,,,,,,5.0,Childcare,Child Care Center,24025301302,True
+YMCA at Riverside Elementary School,childcare,school-age_only,39.39984244,-76.33889519,,,,,,,,,,,,2.0,Childcare,School-Age Only,24025301402,True
+Good Shepherd Children's Center,childcare,child_care_center,39.41300418,-76.35458968,,,,,,,,,,,,3.0,Childcare,Child Care Center,24025301401,True
+Donnita Adams Wheeler,childcare,family_child_care,39.42124768,-76.30854168,,,,,,,,,,,,3.0,Childcare,Family Child Care,24025301601,True
+Cierra Benjamin,childcare,family_child_care,39.39619666,-76.3409671,,,,,,,,,,,,3.0,Childcare,Family Child Care,24025301402,True
+Caliday Before and After Care of Joppatowne Elementary,childcare,school-age_only,39.42193753,-76.36217545,,,,,,,,,,,,3.0,Childcare,School-Age Only,24025301401,True
+Danielle Pritchett,childcare,family_child_care,39.41773167,-76.30416594,,,,,,,,,,,,2.0,Childcare,Family Child Care,24025301601,True
+Sherry Darden,childcare,family_child_care,39.44532223,-76.30482778,,,,,,,,,,,,5.0,Childcare,Family Child Care,24025301301,True
+Lakisha Webb,childcare,family_child_care,39.42896416,-76.31092789,,,,,,,,,,,,3.0,Childcare,Family Child Care,24025301302,True
+Teresha Sutton,childcare,family_child_care,39.42350845,-76.32658119,,,,,,,,,,,,5.0,Childcare,Family Child Care,24025301302,True
+Patricia Burnett,childcare,family_child_care,39.41602208,-76.30678286,,,,,,,,,,,,1.0,Childcare,Family Child Care,24025301601,True
+Catholic Charities Early Head Start,childcare,child_care_center,39.43350352,-76.31069104,,,,,,,,,,,,5.0,Childcare,Child Care Center,24025301302,True
+Raqyya Stewart,childcare,family_child_care,39.4268343,-76.32819748,,,,,,,,,,,,5.0,Childcare,Family Child Care,24025301302,True
+Magnolia Elementary - 12-0131,childcare,public_prekindergarten,39.411816,-76.333305,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24025301402,True
+Sonya Small,childcare,family_child_care,39.42184644,-76.32292067,,,,,,,,,,,,1.0,Childcare,Family Child Care,24025301601,True
+Marybel Myers,childcare,family_child_care,39.42357197,-76.36067055,,,,,,,,,,,,0.0,Childcare,Family Child Care,24025301401,True
+MRDC - Head Start Edgewood,childcare,child_care_center,39.43135744,-76.33105528,,,,,,,,,,,,3.0,Childcare,Child Care Center,24025301302,True
+Debra Brewer,childcare,family_child_care,39.43676077,-76.37466282,,,,,,,,,,,,1.0,Childcare,Family Child Care,24025301301,True
+Riverside Elementary,childcare,public_prekindergarten,39.39984244,-76.33889519,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24025301402,True
+Joppatowne Elementary,childcare,public_prekindergarten,39.421978,-76.3622,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24025301401,True
+Edgewood Elementary,childcare,public_prekindergarten,39.421856,-76.30294,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24025301601,True
+Christina Miller,childcare,family_child_care,39.39677482,-76.34003911,,,,,,,,,,,,0.0,Childcare,Family Child Care,24025301402,True
+Heather Slaysman,childcare,family_child_care,39.44473536,-76.30544411,,,,,,,,,,,,1.0,Childcare,Family Child Care,24025301301,True
+Jasmine Walker,childcare,family_child_care,39.43346632,-76.31113838,,,,,,,,,,,,1.0,Childcare,Family Child Care,24025301302,True
+Little Kids Place Child Care and Learning Center,childcare,child_care_center,39.43491934,-76.30658259,,,,,,,,,,,,1.0,Childcare,Child Care Center,24025301302,True
+Dawn Miller,childcare,family_child_care,39.42067045,-76.36430005,,,,,,,,,,,,0.0,Childcare,Family Child Care,24025301401,True
+Janet Holbrook,childcare,family_child_care,39.43448004,-76.3410219,,,,,,,,,,,,0.0,Childcare,Family Child Care,24025301301,True
+Rolanda Franklin,childcare,family_child_care,39.41953939,-76.35828884,,,,,,,,,,,,0.0,Childcare,Family Child Care,24025301401,True
+Rebecca Silver,childcare,family_child_care,39.42999673,-76.32430142,,,,,,,,,,,,2.0,Childcare,Family Child Care,24025301302,True
+Barbara Hamilton,childcare,family_child_care,39.42015092,-76.3037157,,,,,,,,,,,,4.0,Childcare,Family Child Care,24025301601,True
+Marisa Garrison,childcare,family_child_care,39.42646447,-76.32928249,,,,,,,,,,,,0.0,Childcare,Family Child Care,24025301302,True
+Maria-Luz Bolo,childcare,family_child_care,38.9987163,-77.00825807,,,,,,,,,,,,5.0,Childcare,Family Child Care,24031702301,True
+Horizon Child Care,childcare,school-age_only,38.99576548,-76.99627367,,,,,,,,,,,,1.0,Childcare,School-Age Only,24031702000,True
+Saint Martin's School After Care Program,childcare,child_care_center,39.13969009,-77.19611678,,,,,,,,,,,,1.0,Childcare,Child Care Center,24031700731,True
+Irina Zhogina,childcare,family_child_care,39.14846748,-77.18541452,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031700726,True
+Shital More,childcare,family_child_care,39.1283154,-77.19843372,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031700731,True
+Maria Bordyugova,childcare,family_child_care,39.129684,-77.19627881,,,,,,,,,,,,0.0,Childcare,Family Child Care,24031700731,True
+Hope Grows Child Development Center,childcare,child_care_center,39.15762683,-77.20366466,,,,,,,,,,,,5.0,Childcare,Child Care Center,24031700713,True
+Global Children's Center Inc @ Gaithersburg ES,childcare,school-age_only,39.14586454,-77.19095865,,,,,,,,,,,,1.0,Childcare,School-Age Only,24031700725,True
+Sandy Ridge Academy,childcare,child_care_center,39.13771642,-77.1941045,,,,,,,,,,,,3.0,Childcare,Child Care Center,24031700731,True
+Gladys Arredondo,childcare,family_child_care,39.15672533,-77.19756674,,,,,,,,,,,,3.0,Childcare,Family Child Care,24031700713,True
+Rolling Terrace Elementary,childcare,public_prekindergarten,38.99582406,-76.99720078,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24031702000,True
+Delsis Majano,childcare,family_child_care,38.99581711,-77.00069489,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031701900,True
+Alma Bonilla,childcare,family_child_care,39.13284176,-77.20024096,,,,,,,,,,,,4.0,Childcare,Family Child Care,24031700731,True
+Rosa Rashid,childcare,family_child_care,38.99790098,-76.99536055,,,,,,,,,,,,3.0,Childcare,Family Child Care,24031702000,True
+Takoma Park Cooperative Nursery School,childcare,child_care_center,38.9914002,-77.00212131,,,,,,,,,,,,0.0,Childcare,Child Care Center,24031701702,True
+Jacqueline Legend,childcare,family_child_care,39.13738425,-77.18256836,,,,,,,,,,,,0.0,Childcare,Family Child Care,24031700727,True
+New Hampshire Estates Elementary,childcare,public_prekindergarten,38.99804,-76.99156,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24031702000,True
+Ayalnesh Yilma,childcare,family_child_care,39.15262452,-77.18920638,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031700726,True
+Nabeela Hussain,childcare,family_child_care,38.99850934,-76.98984782,,,,,,,,,,,,0.0,Childcare,Family Child Care,24031702000,True
+Nimmali Abhayasundara,childcare,family_child_care,39.13269465,-77.19794833,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031700731,True
+Great Kids Development Center,childcare,child_care_center,38.99298039,-76.99293149,,,,,,,,,,,,1.0,Childcare,Child Care Center,24031702000,True
+The Nurturey,childcare,child_care_center,39.14052251,-77.20243661,,,,,,,,,,,,4.0,Childcare,Child Care Center,24031700724,True
+Natalia Antipova,childcare,large_family_child_care,39.1403753,-77.20798856,,,,,,,,,,,,0.0,Childcare,Large Family Child Care,24031700724,True
+South Lake Elementary,childcare,public_prekindergarten,39.15321,-77.19624,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24031700713,True
+Harriet R. Tubman Elementary,childcare,public_prekindergarten,39.139295,-77.180452,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24031700726,True
+Tasnim Chowdhury,childcare,family_child_care,38.99348531,-76.99196225,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031702000,True
+Global Children's Center at Harriet Tubman,childcare,school-age_only,39.139295,-77.180452,,,,,,,,,,,,1.0,Childcare,School-Age Only,24031700726,True
+Thtina Mulu,childcare,family_child_care,38.9977134,-76.9916294,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031702000,True
+Nusrat Shah,childcare,family_child_care,39.139295,-77.180452,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031700726,True
+Elsa Perea,childcare,family_child_care,39.15317941,-77.19323035,,,,,,,,,,,,1.0,Childcare,Family Child Care,24031700713,True
+Lawanda Dallas,childcare,family_child_care,38.99662816,-76.98593297,,,,,,,,,,,,0.0,Childcare,Family Child Care,24033805700,True
+Shadyside Day Care Center,childcare,child_care_center,38.85284514,-76.92982577,,,,,,,,,,,,1.0,Childcare,Child Care Center,24033802406,True
+Helen Costa,childcare,family_child_care,38.96125065,-76.90974331,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033806602,True
+Redeem Christian Academy,childcare,school-age_only,38.82933449,-76.96783958,,,,,,,,,,,,1.0,Childcare,School-Age Only,24033801808,True
+Linda Neal,childcare,family_child_care,38.82989568,-76.94492155,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033801801,True
+Langley Park Community Center,childcare,school-age_only,38.99208791,-76.97967228,,,,,,,,,,,,1.0,Childcare,School-Age Only,24033805700,True
+Andrea Stafford,childcare,family_child_care,38.83459801,-76.96675884,,,,,,,,,,,,0.0,Childcare,Family Child Care,24033801808,True
+Alpha Best @ Overlook Elementary,childcare,school-age_only,38.84727648,-76.95274089,,,,,,,,,,,,1.0,Childcare,School-Age Only,24033801809,True
+AlphaBest @ Hillcrest Heights Elementary,childcare,school-age_only,38.83107135,-76.9602853,,,,,,,,,,,,1.0,Childcare,School-Age Only,24033801808,True
+Holley Maxwell,childcare,large_family_child_care,38.85765143,-76.88825407,,,,,,,,,,,,1.0,Childcare,Large Family Child Care,24033802301,True
+Refreshing Spring Learning Center,childcare,loc,38.96083106,-76.91194966,,,,,,,,,,,,1.0,Childcare,Loc,24033806602,True
+Evelyn Rojas,childcare,family_child_care,39.01097975,-76.95033982,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033807301,True
+District Heights Elementary,childcare,public_prekindergarten,38.858513,-76.89888,,,,,,,,,,,,4.0,Childcare,Public Prekindergarten,24033802404,True
+Michelle Cunningham,childcare,family_child_care,38.83865723,-76.95456804,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033801809,True
+Lil People U Day Care Center,childcare,child_care_center,38.86136029,-76.90398118,,,,,,,,,,,,1.0,Childcare,Child Care Center,24033802407,True
+Kreayola Kids,childcare,child_care_center,38.86897939,-76.89079976,,,,,,,,,,,,3.0,Childcare,Child Care Center,24033802404,True
+Heaven's Tender Touch,childcare,child_care_center,38.8535128,-76.89698425,,,,,,,,,,,,1.0,Childcare,Child Care Center,24033802301,True
+Maria Boya,childcare,family_child_care,38.98713625,-76.97552622,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033805700,True
+Steaphanie Pitman,childcare,family_child_care,38.84307047,-76.95493919,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033801809,True
+Kreayola Kids B/Aftercare,childcare,child_care_center,38.85633501,-76.92248675,,,,,,,,,,,,3.0,Childcare,Child Care Center,24033802406,True
+Sheryl Cook-White,childcare,family_child_care,38.85764192,-76.88915168,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033802301,True
+Tiny Wonders Child Care Center,childcare,child_care_center,38.99779328,-76.98388416,,,,,,,,,,,,1.0,Childcare,Child Care Center,24033805700,True
+Chhabi Gomes,childcare,family_child_care,39.04501745,-76.94719651,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033807410,True
+Melinda Simms,childcare,family_child_care,38.84326926,-76.96239222,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033801809,True
+Angela Smith,childcare,family_child_care,38.84485826,-76.96050105,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033801809,True
+Blar-ney Child Development,childcare,child_care_center,38.85640225,-76.9032041,,,,,,,,,,,,2.0,Childcare,Child Care Center,24033802407,True
+Deanna Howell,childcare,family_child_care,38.86513757,-76.88618722,,,,,,,,,,,,3.0,Childcare,Family Child Care,24033802404,True
+Gangoutie Kalloo,childcare,family_child_care,38.99905073,-76.98715253,,,,,,,,,,,,0.0,Childcare,Family Child Care,24031702000,True
+"KLC Couture Career Development Center, Inc.",childcare,school-age_only,38.83860943,-76.94606471,,,,,,,,,,,,0.0,Childcare,School-Age Only,24033801802,True
+Twanda Campfield,childcare,family_child_care,38.84430334,-76.96527254,,,,,,,,,,,,0.0,Childcare,Family Child Care,24033801809,True
+Geraldine Johnson,childcare,family_child_care,39.00852925,-76.96058723,,,,,,,,,,,,0.0,Childcare,Family Child Care,24033807305,True
+Wanda Christian,childcare,family_child_care,38.84362184,-76.95810409,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033801809,True
+Kidist Yae,childcare,family_child_care,38.99338191,-76.98908331,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033805700,True
+Hillcrest Heights Elementary,childcare,public_prekindergarten,38.8311,-76.960236,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24033801808,True
+Francis Scott Key Elementary,childcare,public_prekindergarten,38.86062,-76.901825,,,,,,,,,,,,4.0,Childcare,Public Prekindergarten,24033802407,True
+Overlook Elementary - 16-0633,childcare,public_prekindergarten,38.846493,-76.95364,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24033801809,True
+Adelphi Elementary,childcare,public_prekindergarten,39.00587,-76.96327,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24033807305,True
+Langley Park/McCormick Elementary,childcare,public_prekindergarten,38.9925,-76.982254,,,,,,,,,,,,4.0,Childcare,Public Prekindergarten,24033805700,True
+Cherokee Lane Elementary,childcare,public_prekindergarten,39.00979956,-76.96423201,,,,,,,,,,,,4.0,Childcare,Public Prekindergarten,24033807305,True
+Growing Minds Day Care LLC,childcare,child_care_center,38.85817304,-76.90681625,,,,,,,,,,,,1.0,Childcare,Child Care Center,24033802407,True
+Morning Star Christian Center,childcare,child_care_center,38.85683551,-76.90361727,,,,,,,,,,,,1.0,Childcare,Child Care Center,24033802407,True
+AlphaBest@Francis Scott Key,childcare,school-age_only,38.85990808,-76.90224096,,,,,,,,,,,,1.0,Childcare,School-Age Only,24033802407,True
+KCE CHAMPIONS LLC @ Cherokee Lane,childcare,school-age_only,39.00979956,-76.96423201,,,,,,,,,,,,1.0,Childcare,School-Age Only,24033807305,True
+Michell Jackson,childcare,family_child_care,38.85655382,-76.88493176,,,,,,,,,,,,1.0,Childcare,Family Child Care,24033802301,True
+Innovation Learning at Imagine Lincoln,childcare,school-age_only,38.83088265,-76.94934219,,,,,,,,,,,,3.0,Childcare,School-Age Only,24033801801,True
+Samquetta Dyson,childcare,family_child_care,38.8313819,-76.9508169,,,,,,,,,,,,4.0,Childcare,Family Child Care,24033801801,True
+First Steps Early Learning Center,childcare,child_care_center,38.85275536,-76.91205512,,,,,,,,,,,,2.0,Childcare,Child Care Center,24033802406,True
+YMCA Pangborn AS,childcare,school-age_only,39.63884477,-77.69895686,,,,,,,,,,,,2.0,Childcare,School-Age Only,24043000601,True
+Hagerstown Day Nursery Inc,childcare,child_care_center,39.64085659,-77.71777615,,,,,,,,,,,,1.0,Childcare,Child Care Center,24043000500,True
+YMCA Bester AS,childcare,school-age_only,39.63357487,-77.71848367,,,,,,,,,,,,2.0,Childcare,School-Age Only,24043000700,True
+Kathleen Free,childcare,family_child_care,39.63332169,-77.72830322,,,,,,,,,,,,3.0,Childcare,Family Child Care,24043000800,True
+Pangborn Elementary,childcare,public_prekindergarten,39.63884477,-77.69895686,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24043000601,True
+Bester Elementary,childcare,public_prekindergarten,39.633488,-77.71846,,,,,,,,,,,,5.0,Childcare,Public Prekindergarten,24043000700,True
+Karolyn Martin,childcare,large_family_child_care,39.63998796,-77.71593085,,,,,,,,,,,,1.0,Childcare,Large Family Child Care,24043000601,True
+Sargent Shriver Head Start,childcare,child_care_center,39.62744826,-77.72784327,,,,,,,,,,,,5.0,Childcare,Child Care Center,24043000800,True
+Kimberly Price,childcare,family_child_care,39.64745871,-77.69683428,,,,,,,,,,,,0.0,Childcare,Family Child Care,24043000500,True
+Elgin Station Head Start,childcare,child_care_center,39.64590748,-77.73372901,,,,,,,,,,,,5.0,Childcare,Child Care Center,24043000900,True
+Christen Logsdon,childcare,family_child_care,39.6401118,-77.73740813,,,,,,,,,,,,0.0,Childcare,Family Child Care,24043000900,True
+Hagerstown Children's School,childcare,child_care_center,39.64062317,-77.7157954,,,,,,,,,,,,4.0,Childcare,Child Care Center,24043000601,True
+Joanne Mauriello,childcare,family_child_care,39.62909732,-77.72660453,,,,,,,,,,,,0.0,Childcare,Family Child Care,24043000800,True
+Payton Degrange,childcare,family_child_care,39.64423039,-77.70021295,,,,,,,,,,,,1.0,Childcare,Family Child Care,24043000500,True
+Susan Nwachukwu,childcare,family_child_care,39.63810281,-77.69803962,,,,,,,,,,,,1.0,Childcare,Family Child Care,24043000601,True
+Melissa Kline,childcare,family_child_care,39.62450979,-77.72591702,,,,,,,,,,,,1.0,Childcare,Family Child Care,24043000700,True
+Shery Cepeda,childcare,family_child_care,39.64870923,-77.7032987,,,,,,,,,,,,3.0,Childcare,Family Child Care,24043000500,True
