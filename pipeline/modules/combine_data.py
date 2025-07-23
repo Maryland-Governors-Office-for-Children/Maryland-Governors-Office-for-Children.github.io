@@ -127,7 +127,7 @@ def run(force_refresh_grantees: bool = False):
     all_points["tag_label"] = all_points["tag"].str.replace("_", " ").str.title()
 
     # Spatially join points with tracts to get GEOID20 and filter points within any tract
-    md_tracts_union = grantees.unary_union
+    md_tracts_union = grantees_gdf.unary_union
     points_in_md = all_points[all_points.within(md_tracts_union)]
     
     points_with_tracts = gpd.sjoin(points_in_md, grantees[["GEOID20", "geometry"]], how="left", predicate="within")
