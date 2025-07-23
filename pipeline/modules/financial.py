@@ -4,6 +4,10 @@ import requests
 import pandas as pd
 import geopandas as gpd
 from tqdm import tqdm
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # --- Constants ---
 # API endpoints for data fetching
@@ -33,19 +37,20 @@ def fetch_fdic_data():
         geopandas.GeoDataFrame: A GeoDataFrame containing FDIC branch locations
                                 and associated data, or None if an error occurs.
     """
-    # Payload for the API request, filtering for 2024 data in Maryland (MD)
-    payload = {
+    # Parameters for the API request, including the API key
+    params = {
         "limit": 10000,
         "offset": 0,
         "filters": 'YEAR:"2024" AND STALPBR:"MD"',
         "sort_by": "BRNUM",
         "sort_order": "ASC",
+        "api_key": os.getenv("FDIC_API_KEY")
     }
 
     try:
-        # Send POST request to the FDIC API
-        response = requests.post(FDIC_API_URL, json=payload, timeout=60)
-        response.raise_for_status()  # Raise an exception for bad status codes (4xx or 5xx)
+        # Use a GET request and pass the payload as query parameters
+        response = requests.get(FDIC_API_URL, params=params, timeout=60)
+        response.raise_for_status()
 
         # Parse the JSON response
         data = response.json()
@@ -66,11 +71,10 @@ def fetch_fdic_data():
         df = pd.DataFrame(records)
 
         # Convert the pandas DataFrame to a GeoDataFrame
-        # Geometry is created from the longitude and latitude columns
         gdf = gpd.GeoDataFrame(
             df,
             geometry=gpd.points_from_xy(df.SIMS_LONGITUDE, df.SIMS_LATITUDE),
-            crs="EPSG:4326",  # WGS84 coordinate reference system
+            crs="EPSG:4326",
         )
         return gdf
 

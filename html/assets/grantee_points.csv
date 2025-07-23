@@ -536,6 +536,52 @@ Loch Raven VA Medical Center,medical,hospital,39.3357501,-76.5965207,,,,,,,,,,,,
 Sinai Hospital of Baltimore,medical,hospital,39.3529964,-76.6610822,,,,,,,,,,,,,Medical,Hospital,24510271700,True
 Baltimore City Health Department Eastern Health District Clinic,medical,clinic,39.292501,-76.6009043,,,,,,,,,,,,,Medical,Clinic,24510280500,True
 MedStar Harbor Hospital,medical,hospital,39.2517979,-76.6146192,,,,,,,,,,,,,Medical,Hospital,24510250203,True
+The Harbor Bank of Maryland,financial,bank,39.3475390176044,-76.6739059689799,,,,,,,,,,,,,Financial,Bank,24510271802,True
+Harford Bank,financial,bank,39.4079509980082,-76.3496559841324,,,,,,,,,,,,,Financial,Bank,24025301401,True
+Middletown Valley Bank,financial,bank,39.6369039824404,-77.6956599660663,,,,,,,,,,,,,Financial,Bank,24043000601,True
+Orrstown Bank,financial,bank,39.6380199909387,-77.6964480326029,,,,,,,,,,,,,Financial,Bank,24043000601,True
+Burke & Herbert Bank & Trust Company,financial,bank,38.697015991759,-75.7865080124636,,,,,,,,,,,,,Financial,Bank,24011955600,True
+Sandy Spring Bank,financial,bank,39.4183720086787,-77.44083996743,,,,,,,,,,,,,Financial,Bank,24021750504,True
+First United Bank & Trust,financial,bank,39.6313010154438,-77.7622489900152,,,,,,,,,,,,,Financial,Bank,24043000900,True
+First United Bank & Trust,financial,bank,39.4178610059516,-77.4373660038399,,,,,,,,,,,,,Financial,Bank,24021750504,True
+"Shore United Bank, National Association",financial,bank,38.62518098607,-76.909598967484,,,,,,,,,,,,,Financial,Bank,24017850901,True
+Manufacturers and Traders Trust Company,financial,bank,39.6302379216042,-78.7490818841203,,,,,,,,,,,,,Financial,Bank,24001000700,True
+Truist Bank,financial,bank,39.1492410000177,-77.2073599590023,,,,,,,,,,,,,Financial,Bank,24031700713,True
+Manufacturers and Traders Trust Company,financial,bank,39.216404980615,-76.6154489836727,,,,,,,,,,,,,Financial,Bank,24003750204,True
+Manufacturers and Traders Trust Company,financial,bank,39.2856949890432,-76.5938799998694,,,,,,,,,,,,,Financial,Bank,24510030100,True
+Manufacturers and Traders Trust Company,financial,bank,39.3186359942512,-76.6022759846422,,,,,,,,,,,,,Financial,Bank,24510090800,True
+Manufacturers and Traders Trust Company,financial,bank,39.6335899874724,-77.7025629662455,,,,,,,,,,,,,Financial,Bank,24043000601,True
+Manufacturers and Traders Trust Company,financial,bank,39.6245159905518,-77.7697900206641,,,,,,,,,,,,,Financial,Bank,24043000900,True
+Manufacturers and Traders Trust Company,financial,bank,39.6245159905518,-77.7697900206641,,,,,,,,,,,,,Financial,Bank,24043000900,True
+Manufacturers and Traders Trust Company,financial,bank,39.3113890007657,-76.467309992978,,,,,,,,,,,,,Financial,Bank,24005450501,True
+Manufacturers and Traders Trust Company,financial,bank,39.4327779856663,-76.3244090212157,,,,,,,,,,,,,Financial,Bank,24025301302,True
+Truist Bank,financial,bank,39.4268070112107,-77.4314330413153,,,,,,,,,,,,,Financial,Bank,24021750504,True
+Truist Bank,financial,bank,39.4185890161519,-77.4574399913929,,,,,,,,,,,,,Financial,Bank,24021750506,True
+Manufacturers and Traders Trust Company,financial,bank,39.4182340006429,-77.4548199760983,,,,,,,,,,,,,Financial,Bank,24021750506,True
+Manufacturers and Traders Trust Company,financial,bank,39.3574410550065,-76.7042403620349,,,,,,,,,,,,,Financial,Bank,24510280101,True
+"Capital One, National Association",financial,bank,39.1518330197557,-77.2107169950431,,,,,,,,,,,,,Financial,Bank,24031700713,True
+Truist Bank,financial,bank,39.4336600133375,-76.3201350049675,,,,,,,,,,,,,Financial,Bank,24025301302,True
+"Capital One, National Association",financial,bank,39.3565549478076,-76.7030421328811,,,,,,,,,,,,,Financial,Bank,24510280101,True
+"Capital One, National Association",financial,bank,39.3172210032666,-76.6546760390767,,,,,,,,,,,,,Financial,Bank,24510150500,True
+"PNC Bank, National Association",financial,bank,39.1506989901656,-77.2068540273266,,,,,,,,,,,,,Financial,Bank,24031700713,True
+"PNC Bank, National Association",financial,bank,39.0484549426699,-76.9483604919856,,,,,,,,,,,,,Financial,Bank,24033807410,True
+"PNC Bank, National Association",financial,bank,39.4191179980613,-77.4521990387944,,,,,,,,,,,,,Financial,Bank,24021750508,True
+Truist Bank,financial,bank,39.3449588197067,-76.7005420066323,,,,,,,,,,,,,Financial,Bank,24510280102,True
+"Bank of America, National Association",financial,bank,38.9904159209646,-76.9878629767279,,,,,,,,,,,,,Financial,Bank,24033805601,True
+"Bank of America, National Association",financial,bank,38.960684639849,-76.919440914374,,,,,,,,,,,,,Financial,Bank,24033806602,True
+"Bank of America, National Association",financial,bank,39.416789002445,-77.4448170128487,,,,,,,,,,,,,Financial,Bank,24021750505,True
+"Bank of America, National Association",financial,bank,39.3172210032666,-76.6546760390767,,,,,,,,,,,,,Financial,Bank,24510150500,True
+"Bank of America, National Association",financial,bank,38.839155844804,-76.948040973837,,,,,,,,,,,,,Financial,Bank,24033801802,True
+"PNC Bank, National Association",financial,bank,39.3468193244223,-76.6888936899438,,,,,,,,,,,,,Financial,Bank,24510271801,True
+Truist Bank,financial,bank,39.3106590208182,-76.6603599752581,,,,,,,,,,,,,Financial,Bank,24510150600,True
+"Wells Fargo Bank, National Association",financial,bank,38.8547476096334,-76.9060586192208,,,,,,,,,,,,,Financial,Bank,24033802407,True
+"Wells Fargo Bank, National Association",financial,bank,39.3091900084676,-76.6711260269727,,,,,,,,,,,,,Financial,Bank,24510150600,True
+"Wells Fargo Bank, National Association",financial,bank,38.9484129887765,-76.4883970173487,,,,,,,,,,,,,Financial,Bank,24003706303,True
+"JPMorgan Chase Bank, National Association",financial,bank,39.2500728314956,-76.6228815102258,,,,,,,,,,,,,Financial,Bank,24510250207,True
+"JPMorgan Chase Bank, National Association",financial,bank,39.3190450556191,-76.6552444179525,,,,,,,,,,,,,Financial,Bank,24510150500,True
+"JPMorgan Chase Bank, National Association",financial,bank,38.948761005396,-76.489005962614,,,,,,,,,,,,,Financial,Bank,24003706303,True
+"Wells Fargo Bank, National Association",financial,bank,39.3127019839886,-76.658292997935,,,,,,,,,,,,,Financial,Bank,24510150400,True
+"Wells Fargo Bank, National Association",financial,bank,38.9907720680306,-76.9814498149703,,,,,,,,,,,,,Financial,Bank,24033805602,True
 FIVE STAR OF MARYLAND,financial,credit_union,39.214445,-76.570677,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24510250500,True
 ABERDEEN PROVING GROUND,financial,credit_union,39.432056,-76.334846,True,False,True,True,True,True,True,True,False,True,False,,Financial,Credit Union,24025301302,True
 DEMOCRACY,financial,credit_union,38.854256,-76.909012,False,True,False,False,True,True,False,True,False,True,True,,Financial,Credit Union,24033802407,True
