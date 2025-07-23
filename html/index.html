@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ENOUGH Grantee Business Map</title>
+    <title>ENOUGH Grantee Resource Map</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -104,14 +104,14 @@
       <button id="main-toggle-btn" class="absolute top-2 right-2 w-7 h-7 flex items-center justify-center rounded-full bg-gray-200 hover:bg-gray-300 text-gray-700 focus:outline-none" title="Minimize">
         <span id="main-toggle-icon" class="text-lg leading-none">&#8211;</span>
       </button>
-      <h2 class="text-xl font-semibold mb-2 main-title">ENOUGH Grantee Business Map</h2>
-      <p class="text-sm mb-4">This map displays ENOUGH Act grantees and essential business locations (last updated July 23, 2025). Use the dropdown below to select and zoom to a grantee. Use the checkboxes to toggle business types. The legend shows the grantee ENOUGH Act track.</p>
+      <h2 class="text-xl font-semibold mb-2 main-title">ENOUGH Grantee Resource Map</h2>
+      <p class="text-sm mb-4">This map displays ENOUGH Act grantees and essential resource locations (last updated July 23, 2025). Use the dropdown below to select and zoom to a grantee. Use the checkboxes to toggle resource types. The legend shows the grantee ENOUGH Act track.</p>
       <hr class="mb-4 main-hr" style="border-color:#D6D6D6;"/>
       <label for="grantee-dropdown" class="block text-xs font-medium mb-1 main-label">Select Grantee Organization:</label>
       <select id="grantee-dropdown" class="w-full text-xs p-2 border border-gray-300 rounded-md mb-2"></select>
       <div class="mb-2">
         <div class="flex items-center justify-between mb-1">
-          <span class="text-xs font-medium main-filter-label">Filter By Business Type</span>
+          <span class="text-xs font-medium main-filter-label">Filter By Resource Type</span>
           <a href="#" id="clear-filters-link" class="text-xs underline ml-2 main-label" style="display:none;">Clear filters</a>
         </div>
         <div id="business-type-filters" class="flex flex-wrap gap-2 mb-1"></div>
@@ -392,7 +392,6 @@
         window.addEventListener('resize', () => {
             map.invalidateSize();
         });
-        console.log("GOC Grantee Map with Businesses Initialized");
     </script>
 
 </body>
