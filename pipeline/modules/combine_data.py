@@ -114,12 +114,28 @@ def run(force_refresh_grantees: bool = False):
     # Keep the 'quality' field as requested
     childcare_gdf = childcare_gdf[["name", "type", "tag", "quality", "geometry"]]
 
+    # 4a. Process and integrate Maryland Food Bank data
+    print("Processing Maryland Food Bank data...")
+    mfb_gdf = gpd.read_file(INPUT_DIR / "maryland_food_bank.geojson")
+    mfb_gdf["tag"] = mfb_gdf["type"]
+    mfb_gdf["type"] = "food_pantry"
+    mfb_gdf = mfb_gdf[["name", "type", "tag", "geometry"]]
+
+    # 4b. Process and integrate Capital Area Food Bank data
+    print("Processing Capital Area Food Bank data...")
+    cafb_gdf = gpd.read_file(INPUT_DIR / "capital_area_food_bank.geojson")
+    cafb_gdf["tag"] = cafb_gdf["type"]
+    cafb_gdf["type"] = "food_pantry"
+    cafb_gdf = cafb_gdf[["name", "type", "tag", "geometry"]]
+
     # 5. Combine all point datasets
     print("Combining all datasets...")
     all_points = pd.concat([
         points_gdf,
         financial_gdf,
-        childcare_gdf
+        childcare_gdf,
+        mfb_gdf,
+        cafb_gdf
     ], ignore_index=True)
 
     # 6. Final processing and spatial join

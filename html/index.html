@@ -182,7 +182,8 @@
           'Pharmacy': 'fa-solid fa-prescription-bottle-medical',
           'Barber Beauty': 'fa-solid fa-scissors',
           'Financial': 'fa-solid fa-piggy-bank',
-          'Medical': 'fa-solid fa-stethoscope'
+          'Medical': 'fa-solid fa-stethoscope',
+          'Food Pantry': 'fa-solid fa-apple-whole'
         };
         const serviceLayers = {
             'Grocery': new L.markerClusterGroup(),
@@ -193,7 +194,8 @@
             'Pharmacy': new L.markerClusterGroup(),
             'Barber Beauty': new L.markerClusterGroup(),
             'Financial': new L.markerClusterGroup(),
-            'Medical': new L.markerClusterGroup()
+            'Medical': new L.markerClusterGroup(),
+            'Food Pantry': new L.markerClusterGroup()
         };
         const typeToLabel = {
           grocery: "Grocery",
@@ -204,7 +206,8 @@
           pharmacy: "Pharmacy",
           barber_beauty: "Barber Beauty",
           financial: "Financial",
-          medical: "Medical"
+          medical: "Medical",
+          food_pantry: "Food Pantry"
         };
         // For each type, load GeoJSON and add features to the corresponding marker cluster group
         Object.entries(typeToLabel).forEach(([type, label]) => {

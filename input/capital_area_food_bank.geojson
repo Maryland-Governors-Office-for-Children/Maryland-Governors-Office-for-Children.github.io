@@ -1,0 +1,4835 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.085186,
+          38.75378
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "United Community Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.912275,
+          38.852007
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Second Baptist Church Southwest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.998735,
+          38.901128
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Calvary Episcopal Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.984362,
+          38.866928
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ambassador Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031094,
+          39.045912
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Silver Spring Christian Reformed Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000027,
+          38.739571
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Breath of Life SDA Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.142993,
+          38.851276
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Woodrow Wilson Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.214153,
+          39.002361
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ISKCON of Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.123784,
+          38.855145
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Arlington Bridge Builders"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.342533,
+          38.968535
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Cornerstones, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.112342,
+          38.8258461
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Francis C. Hammond Middle School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.385404,
+          38.972115
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Faith Social Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265953,
+          38.640931
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Christ4Crisis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.478654,
+          38.781579
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Freedom Community Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.119245,
+          38.889023
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mount Olivet UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.118071,
+          38.723419
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Royal Missionary Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.443052,
+          38.883824
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "WFCM Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.082206,
+          38.751661
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ICNA Relief USA Programs Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.214129,
+          38.698084
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Lorton Community Action Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.093768,
+          38.736193
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Emmanuel Worship Center Seventh Day Adventist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.908336,
+          39.026108
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "LindaBen Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.856341,
+          38.967554
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Community Health Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.237674,
+          38.871247
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Food For Others"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.135492,
+          38.853907
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Grace Ministries - Culmore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.284592,
+          38.669589
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ebenezer Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.148578,
+          38.870482
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Willston Multicultural Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.280702,
+          38.78409
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Burke United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.117711,
+          38.838707
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Church of the Resurrection"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.213068,
+          38.826746
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Annandale UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.096843,
+          38.735653
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Revival Baptist Ministries INT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.138493,
+          38.857609
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Columbia Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.095414,
+          38.765224
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Woodlawn United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.472138,
+          38.7411
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Georgetown South Community Council"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47195,
+          38.751623
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Bull Run Unitarian Universalists"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.478443,
+          38.764192
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Thomas United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.442924,
+          38.899721
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Chantilly Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.316266,
+          38.822494
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Salvation Army (Fairfax)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.393027,
+          39.007928
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Sterling United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.379334,
+          39.006436
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ADAMS CENTER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3799217,
+          39.0176187
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Christ the Redeemer Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.329021,
+          38.563107
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ACTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.239231,
+          38.756274
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Sydenstricker UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.283562,
+          38.774396
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Calvary Christian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277637,
+          38.780207
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Lutheran Church of the Abiding Presence"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.339169,
+          38.968471
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Buddhist Tzu Chi Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2659737,
+          38.6321812
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Holiness Tabernacle Church of God"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.057982,
+          38.837048
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Agape Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.051974,
+          38.831961
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mother of Light Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.183469,
+          38.804249
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Springfield Christian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20886,
+          38.831841
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Centers for Opportunity"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.173338,
+          38.87418
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "James Lee Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.141907,
+          38.857834
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Boat People SOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.064802,
+          38.837432
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Grace Episcopal Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041671,
+          38.811259
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ladrey Apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.257176,
+          38.663506
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Paul United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.234289,
+          38.782626
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Messiah UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.305384,
+          38.656514
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Debre Medehanit Eyesus EOT Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.334984,
+          38.666311
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Church of Christ of Dale City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.360023,
+          38.648507
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Dale City Christian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.185906,
+          38.868448
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "La Iglesia Episcopal de Santa Maria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.139053,
+          38.856953
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Anthony of Padua Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.110653,
+          38.860182
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Barcroft Elementary School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.29761,
+          38.805745
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Greater Little Zion Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.080054,
+          38.775779
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Groveton Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2040144,
+          38.8364797
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fairmont Gardens Apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.416968,
+          38.942751
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Floris United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.598066,
+          38.790517
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Haymarket Regional Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.32894,
+          38.568722
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Bread & Fishes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.136297,
+          38.853282
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Culmore UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.139053,
+          38.856953
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Anthony of Padua Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.439884,
+          38.825598
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Centreville UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055863,
+          38.797776
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ALIVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.244231,
+          38.836894
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Matthews Ken Jackson Food Closet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.071447,
+          38.862704
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mount Olive Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.987278,
+          38.898165
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Purity Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52208,
+          38.794455
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Coverstone Apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.259957,
+          38.651994
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Woodbridge Workers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.144471,
+          38.782088
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Koinonia Foundation, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09541,
+          38.866491
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Salvation Army Arlington Corps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.083181,
+          38.854162
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Our Lady Queen of Peace Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.327278,
+          38.797128
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Peters in the Woods"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.116946,
+          38.804514
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Alexandria Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889513,
+          38.764499
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Antioch Baptist Church of Clinton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1016,
+          38.734038
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Rising Hope Methodist Mission Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.192476,
+          38.715851
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Redeemed Christian Church of God - Victory Temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.079765,
+          39.031527
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Baptist Church Ken-Gar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.353417,
+          38.966756
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Anne's Episcopal Church ( Food Pantry)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.485106,
+          38.764821
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Manassas Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.461242,
+          38.757271
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "CFH Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36566,
+          38.941736
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Cathy Hudgins Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.339159,
+          38.832625
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fairfax Church Resource Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20886,
+          38.831841
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. John's Community Service Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.176719,
+          39.10035
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Rockville Senior Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.167149,
+          38.804709
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Maranatha Springfield Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.160103,
+          38.872841
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Inova Cares Clinics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.133843,
+          38.859242
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fort Belvoir ACS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.130435,
+          38.827202
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "William Ramsay Recreation Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.112528,
+          38.876971
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "True Ground Housing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.112303,
+          38.856411
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Arlington Mill Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.092837,
+          38.837525
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Park Shirlington Apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.057982,
+          38.837048
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Chick Armstrong Recreation Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055256,
+          38.808386
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Jefferson-Houston Elementary School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.052763,
+          38.80885
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Gourmet Angel Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043159,
+          39.036441
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Zion Baptist Church North Campus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03184,
+          38.994946
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ECD - Edgewood Commons"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99975,
+          38.828046
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Southern Hills Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.994071,
+          39.000211
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Clifton Park Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.989554,
+          38.857089
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Washington View Apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.979136,
+          38.897819
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Rosedale Recreation Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.963671,
+          39.064266
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Vietnamese American Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.962584,
+          38.934837
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Alafia Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.956562,
+          38.821966
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Our Saviour's Lutheran Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.930596,
+          38.831538
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Southern Friendship Missionary Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.914941,
+          38.907701
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Craig Memorial Community Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.894012,
+          38.923751
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Kentland Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89249,
+          38.861083
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Woodland Springs Apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.877944,
+          38.9310655
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Calvary Assembly of Holy Cross"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.871103,
+          38.701958
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Prince Georges Social Services - Gwynn Park High School"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.866418,
+          38.930459
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Glenarden Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81979,
+          38.886737
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "International High School at Largo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.856369,
+          38.880922
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "New Hope and Life Church of God, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.840698,
+          38.963835
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Matthias Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.327231,
+          38.649646
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Centro de Apoyo Familiar (CAF)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.881084,
+          38.88842
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Impact One Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.903005,
+          38.886448
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mission of Love Charities, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91388,
+          38.885204
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Baptist Church of Capitol Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91955,
+          38.904791
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Meridian Hill Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.878505,
+          39.001016
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "City of Greenbelt Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.909188,
+          38.891522
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Faith Temple No. 2 Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03575,
+          38.933487
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Loaves & Fishes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.809171,
+          38.984438
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Reid Temple AME Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.838853,
+          38.906858
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Metropolitan Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023292,
+          38.900323
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Greater New Hope Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985255,
+          38.957084
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Good Samaritan Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.922326,
+          39.012637
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "College Park Community Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.123176,
+          39.020953
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Bethesda Help"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003633,
+          39.105502
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Muslim Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.958171,
+          39.077768
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Allen Chapel AME Church Outreach Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.881874,
+          38.772313
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Operation Earnie's Plate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8551142,
+          38.9078223
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "City of Praise Family Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98084,
+          38.979161
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Turner AME Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.114102,
+          39.082864
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "InterFaith Works"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.123174,
+          39.076604
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Living Faith Lutheran Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.144119,
+          39.092965
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mount Calvary Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92641,
+          38.933217
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Everlasting Joy Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985211,
+          38.720585
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fountain of Restoration Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.982445,
+          38.999469
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Michael and All Angels"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.868556,
+          39.079134
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Royalhouse Chapel International"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.864,
+          38.961544
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Destiny Driven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985323,
+          38.85155
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Brighter Day Ministries Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90621,
+          38.959287
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Sowing Empowerment & Economic Development, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.997341,
+          39.008767
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mt. Jezreel Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023441,
+          38.995495
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Baptist Church of Silver Spring Food Closet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.020494,
+          39.065663
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Kings and Priests International Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.065338,
+          39.111026
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Harvest Gleaners"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.069123,
+          39.121023
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mid-County Hub at Harvest Intercontinental Church Olney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.819658,
+          38.993522
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "CAC Bethel Fellowship Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.917438,
+          38.945548
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ports Town Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896282,
+          38.883589
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Margaret of Scotland Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.844042,
+          38.906369
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Christ Embassy Maryland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.866753,
+          38.833459
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Great Commission Change of Life Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84362,
+          38.918071
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Joseph Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.982306,
+          38.798054
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Paul UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027524,
+          38.990743
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Shepherd's Table - Progress Place Building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034286,
+          39.001102
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Silver Spring UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021762,
+          39.031621
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Luther Rice Neighborhood Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.045593,
+          39.09465
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Oak Chapel UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.969641,
+          38.854658
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Faith Tabernacle of Prayer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.749704,
+          38.825275
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Marlboro Churches Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.096917,
+          39.065446
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Jude Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.721689,
+          38.915708
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Prince Emmanuel All Nations SDA Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.938982,
+          38.902562
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Good Success Christian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10285,
+          38.990481
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Nourishing Bethesda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.972049,
+          38.920194
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "CAC Wosem- 24th Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.923576,
+          38.865313
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Victory Drug Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.185642,
+          39.127303
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Gaithersburg Soup Kitchen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.962146,
+          39.067271
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Guru Nanak Foundation of America (GNFA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.932813,
+          38.873459
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Community Outreach and Development Center CDC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889613,
+          38.85237
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mt. Calvary Catholic Church, Ladies of Charity Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.200978,
+          39.094574
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Universities at Shady Grove"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996623,
+          38.783713
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Oxon Hill Boys & Girls Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.737056,
+          38.817401
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Sanctuary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.242184,
+          39.181819
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "HC - Germantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035393,
+          39.014656
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "HC - Silver Spring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.969034,
+          39.054901
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Rainbow Community Development Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.847697,
+          39.101843
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Laurel Advocacy & Referral Services, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.851523,
+          39.107192
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Philip's Episcopal Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.847446,
+          39.077563
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Our Savior Lutheran Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.910888,
+          38.965082
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Latin American Youth Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.817852,
+          38.744009
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Alexander Memorial Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.002365,
+          39.093598
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Alliance Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.225371,
+          39.140241
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Seneca Creek Community Church (Gaithersburg CARES)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.992631,
+          38.92263
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Metropolis Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84118,
+          38.983144
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mollemm Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.986247,
+          38.80118
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Oxon Hill UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.912714,
+          38.884964
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Greater Beulah Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.194678,
+          39.14317
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Montgomery County Muslim Foundation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.205746,
+          39.173905
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Women Who Care Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013948,
+          38.774351
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fort Foote Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.871023,
+          38.980802
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Trinity Assembly of God"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.954048,
+          38.982795
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Mark The Evangelist Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.986151,
+          38.966055
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Metropolitan SDA Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.922398,
+          38.753868
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mount Ennon Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.012847,
+          38.670398
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "River Jordan, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.880889,
+          38.859016
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Baptist Church of District Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.913053,
+          38.813024
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Central Baptist Church of Camp Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.956562,
+          38.821966
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Interfaith Community Action Council - Oxon Hill Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.933127,
+          38.803948
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Stephen's Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85154,
+          38.900924
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Prince George's County DSS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.963621,
+          38.939541
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Baptist Church of Mount Rainier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.940868,
+          38.955136
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Crossover Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.052318,
+          39.034925
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mid County United Ministries (MUM)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9187044,
+          39.0431293
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Emmanuel UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.049338,
+          39.056147
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Montgomery County Family Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.049338,
+          39.056147
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Montgomery County Family Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.048295,
+          39.030335
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Hughes United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.981661,
+          39.009508
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Camillus Catholic Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896282,
+          38.883589
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Maryland Umbrella Group"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.951788,
+          38.964761
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First UMC of Hyattsville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.921374,
+          39.053476
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Beltsville Adventist Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011196,
+          38.966051
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Brookland Senior Day Care Center, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036844,
+          38.946873
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Nineteenth Street Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.747043,
+          38.975039
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Grace Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.993386,
+          38.965614
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Tender Love & Care"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889678,
+          39.053453
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Holy Mountain International Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.876366,
+          39.001881
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Restoration Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.920549,
+          38.901297
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Church of the Incarnation, St. Vincent De Paul Society"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.445715,
+          38.819537
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Mount Olive Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.403707,
+          38.908063
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Community of Faith United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.248423,
+          38.864437
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "DMV Food Justice Initiative"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996123,
+          38.826085
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Temple of Praise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.966994,
+          38.872736
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Francis Xavier Church Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.975072,
+          38.943145
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Northeastern Presbyterian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.933548,
+          38.898507
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Lederer Gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.014655,
+          38.991836
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Tommy's Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036054,
+          38.931923
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Family Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.977771,
+          38.852613
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Friends Of Douglass Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889143,
+          38.910259
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First Baptist Church of Highland Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.975848,
+          38.850817
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Frederick Douglass Community Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.856194,
+          39.08055
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Faith Village of Greater Laurel, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0072513,
+          38.9500216
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Community Family Life Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9928258,
+          38.8628964
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Children of Mine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04455,
+          38.902192
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ayuda, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730823,
+          38.884128
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fountain Community Enrichment Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032625,
+          38.906522
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "National City Christian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.942265,
+          38.894119
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ward Memorial AME Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.931679,
+          38.890627
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ward 7 Food Center of Peace Lutheran Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05741,
+          39.065706
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Chrisma Charities"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029979,
+          38.917627
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Walker Memorial Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026384,
+          38.931589
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "We Are Family"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.932578,
+          38.91069
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "RCCG New Wine Assembly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.970285,
+          38.856869
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Allen Chapel AME Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97395,
+          38.930425
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Damien Ministries Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.971535,
+          38.931963
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "MSB Outreach House"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.993863,
+          38.84402
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Greater Fellowship Missionary Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99815,
+          38.919841
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Crowder Owens Calvary Food Bank (The Bishop Alfred A. Owens, Jr. Family Life CC)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.990559,
+          38.883237
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Holy Temple Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.977734,
+          38.920738
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Plenty to Eat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.004492,
+          38.841521
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Assumption Outreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008664,
+          38.834018
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Covenant Baptist Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.044691,
+          38.898128
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Foggy Bottom Food Pantry (United Church)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.098539,
+          39.043865
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "So What Else, Inc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.982311,
+          38.857459
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Our Lady of Perpetual Help Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.924608,
+          38.884324
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Urban Outreach Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.927376,
+          38.889392
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Atonement Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.942383,
+          38.870678
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "New Macedonia Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.959558,
+          38.869623
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "North Capitol Collaborative, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.062941,
+          38.944013
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "NW Community Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.974234,
+          38.843604
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Covenant House Greater Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.031651,
+          38.920681
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "YWCA National Capital Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.971535,
+          38.931963
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "MSB Outreach House"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.992956,
+          38.948557
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Faith UCC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.865292,
+          38.964595
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ebenezer We Care We Share Community"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.228384,
+          38.868337
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Luther Jackson Middle School Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005927,
+          38.977738
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Small Things Matter, Inc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000802,
+          38.755814
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Fort Washington Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03748,
+          38.961085
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Francis On The Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016784,
+          38.878911
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Christ United Methodist 5000 Food Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.917014,
+          38.758736
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Greater Refuge Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011032,
+          38.898699
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Central Union Mission"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.020656,
+          38.956241
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "City Blossoms"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035924,
+          38.955924
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Sixth Church Food Closet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011194,
+          38.929401
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "VA Medical Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.891364,
+          38.824228
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "GAP Food Program"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8886,
+          38.778322
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "A Place for Hashem Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011627,
+          38.902789
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "SeVerna on K"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.033093,
+          38.907485
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "James Apartments Resident Council"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.012367,
+          38.874478
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "James Creek Resident Council"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.918952,
+          38.869087
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Builders, Inc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.872361,
+          38.918064
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "No Limits Outreach Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026384,
+          38.931589
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Salvation Army - Sherman Ave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.986381,
+          38.843591
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Congress Heights Family Success Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97685,
+          38.84337
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "THEARC Farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.989829,
+          38.86593
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Family & Medical Counseling Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996727,
+          38.8359985
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ECD - Overlook at Oxon Run"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.992829,
+          38.958526
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Shiloh Church Of God 7 Day"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07031,
+          38.953748
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Paul's Lutheran Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021597,
+          38.910337
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Bread For The City NW Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98079,
+          38.866137
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Bread for the City SE Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023605,
+          38.939568
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First SDA Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.146749,
+          38.861451
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Dar Al-Hijrah Islamic Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97546,
+          38.894234
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Saint Benedict The Moor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.922662,
+          38.959032
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "River of Life Redeemed Christian Church of God"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1918,
+          39.118524
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Manna Food Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.936435,
+          38.938041
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Grace of God Ministry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.933466,
+          38.861268
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Galilee Community Development Corporation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.152119,
+          39.106314
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Nourish Now"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.885602,
+          38.948887
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ebenezer COG Community Outreach Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.828754,
+          38.766125
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Cornerstone Peaceful Bible Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.994071,
+          39.000211
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Clifton Park Baptist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.840935,
+          38.965245
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "This Generation Ministries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.821068,
+          38.985921
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Jamil-UL Jalil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.262819,
+          38.809821
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "St. Stephen's UMC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03575,
+          38.933487
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Thrive DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.912091,
+          38.886327
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Clothing of Power Eternal Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.888974,
+          39.059614
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Lifehouse Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.986193,
+          38.98515
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Educare Support Services"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.068698,
+          39.13535
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Iglesia Evangelica Cristo Promesa Fiel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.806475,
+          38.931601
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Apostolic Church Glorious Vision"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.859244,
+          38.929917
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Ark of Grace Mission, Inc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97754,
+          38.920487
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Celestial Church of Christ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.803527,
+          38.947364
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Divine Grace Mission"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036882,
+          38.914348
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Food For All"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.850083,
+          38.894896
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Shabach Emergency Empowerment Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.853159,
+          38.989202
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Zion Church Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.877449,
+          39.000501
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "City of Greenbelt Food Pantry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.850615,
+          39.098458
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "FISH of Laurel, Inc."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24838,
+          39.185216
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "MC - Germantown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.159592,
+          39.09701
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "MC - Rockville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021737,
+          38.984503
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "MC - Takoma Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1747169,
+          39.1453512
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "First African Methodist Episcopal Church of Gaithersburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.999431,
+          39.062225
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Washington Spanish SDA Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.027413,
+          38.963133
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Brotherhood of the Cross and Star"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.939872,
+          39.050093
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "East Montgomery County Hub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.938913,
+          39.049883
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Kingdom Cares Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.011814,
+          38.991737
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Adventist Community Services of Greater Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.911818,
+          38.862282
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "ECWA USA Evangelical Church Winning All"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.015876,
+          39.164274
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Living Legends Awards for Service to Humanity"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.268464,
+          39.178956
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "The Upcounty Hub Inc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.208474,
+          39.127151
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Gaithersburg HELP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.894426,
+          38.87723
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Gethsemane United Methodist Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.797671,
+          38.904916
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Hope Presbyterian Church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.890436,
+          38.868468
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Walker Mill Community Development Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82491,
+          38.98894
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Capital Christian Fellowship"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.971857,
+          38.856566
+        ]
+      },
+      "properties": {
+        "type": "Capital Area Food Bank Partner Agency",
+        "name": "Emmanuel Baptist Church"
+      }
+    }
+  ]
+}

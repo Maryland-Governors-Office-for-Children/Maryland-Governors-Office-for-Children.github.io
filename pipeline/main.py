@@ -6,12 +6,15 @@ from modules import (
     osm,
     financial,
     maryland_excel,
+    maryland_food_bank,
+    capital_area_food_bank,
     combine_data
 )
 
-REFRESH_OSM = True
+REFRESH_OSM = False
 REFRESH_FINANCIAL = False
 REFRESH_CHILDCARE = False
+REFRESH_FOODBANK = False
 
 def main():
     print("Starting ENOUGH Resource Map pipeline...")
@@ -26,6 +29,11 @@ def main():
     # 3. Download MSDE Maryland Excels child care data, if REFRESH_CHILDCARE
     if REFRESH_CHILDCARE:
         maryland_excel.run()
+
+    # 4. Download Maryland Food Bank and Capital Area Food Bank partner sites
+    if REFRESH_FOODBANK:
+        maryland_food_bank.run()
+        capital_area_food_bank.run()
 
     # 4. Download Grantee locations and combine data
     combine_data.run()
