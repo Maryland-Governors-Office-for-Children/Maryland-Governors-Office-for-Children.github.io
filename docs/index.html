@@ -74,6 +74,48 @@
             border: 1px solid #ccc;
             vertical-align: middle;
         }
+        #seal-container {
+            position: absolute;
+            top: 2rem;
+            right: 2rem;
+            z-index: 900; /* Below main-control-box (z-1000) */
+            display: flex;
+            align-items: center;
+            height: 70px;
+        }
+        #seal-img {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: transparent;
+            cursor: pointer;
+            opacity: 1;
+            transition: box-shadow 0.2s;
+            box-shadow: none;
+        }
+        #seal-img:hover {
+            box-shadow: 0 4px 24px #050a47;
+        }
+        #seal-tooltip {
+            display: none;
+            position: absolute;
+            right: 90px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #050a47;
+            color: #fff;
+            padding: 0.7em 1.2em;
+            border-radius: 0.7em;
+            font-size: 1rem;
+            white-space: pre-line;
+            z-index: 100;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.13);
+            min-width: 320px;
+            text-align: left;
+        }
+        #seal-container:hover #seal-tooltip {
+            display: block;
+        }
         /* Responsive: Move layer control to bottom right and make full-width on small screens */
         @media (max-width: 640px) {
             #layer-control-box {
@@ -93,6 +135,30 @@
                 left: unset !important;
                 max-width: none;
                 width: calc(100vw - 2rem);
+            }
+            #seal-container {
+                top: 1rem;
+                right: 1rem;
+                height: 54px;
+                z-index: 900;
+            }
+            #seal-img {
+                width: 54px;
+                height: 54px;
+            }
+            #seal-tooltip {
+                font-size: 0.95rem;
+                right: calc(100% + 10px);
+                left: auto;
+                top: 0;
+                transform: none;
+                min-width: 180px;
+                max-width: 90vw;
+                white-space: normal;
+                box-sizing: border-box;
+                overflow-wrap: break-word;
+                word-break: break-word;
+                text-align: left;
             }
         }
     </style>
@@ -122,6 +188,10 @@
         <h4 class="text-md font-semibold mb-1 main-legend-title">Legend</h4>
         <div id="legend-content"></div>
       </div>
+    </div>
+    <div id="seal-container">
+      <img id="seal-img" src="assets/seal-blue.png" alt="Maryland State Innovation Team Seal" />
+      <div id="seal-tooltip">Created by the Maryland State Innovation Team in the Office of Governor Wes Moore.</div>
     </div>
     <div id="map"></div>
 
