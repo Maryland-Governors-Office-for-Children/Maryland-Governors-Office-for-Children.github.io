@@ -16,7 +16,7 @@ def run(force_refresh_grantees: bool = False):
     # Define constants for URLs and file paths
     GRANTEE_URL = "https://services.arcgis.com/njFNhDsUCentVYJW/arcgis/rest/services/Grantees_20250623/FeatureServer/0/query?where=1%3D1&outFields=*&f=geojson"
     INPUT_DIR = Path("input")
-    OUTPUT_DIR = Path("html/assets")
+    OUTPUT_DIR = Path("docs/resource_map/assets")
     GRANTEE_CACHE_PATH = INPUT_DIR / "grantees_raw.geojson"
 
     # Create directories if they don't exist

@@ -662,7 +662,6 @@ The Corner Grocery,grocery,convenience,38.0337944,-78.4989337
 Hamza & Madina,grocery,supermarket,38.8669696,-77.1507998
 Stock Provisions,grocery,butcher,38.0316165,-78.4900403
 Albemarle Baking,grocery,bakery,38.0306037,-78.4872765
-Reid Market,grocery,supermarket,38.0348502,-78.4861146
 Tienda El Tio,grocery,greengrocer,38.0325043,-78.4854416
 Cafe Pointe,grocery,bakery,39.2851165,-76.757241
 Flavor Cupcakery,grocery,pastry,39.4708169,-76.6385308
@@ -1054,7 +1053,7 @@ International Food Market,grocery,supermarket,39.3625185,-76.7119353
 Piedmont Power,grocery,farm,38.2287092,-78.1164469
 Amphora Bakery - Herndon,grocery,bakery,38.9574427,-77.3735875
 Costco,grocery,wholesale,39.0351219,-77.0550519
-Unnamed convenience,grocery,convenience,37.945611,-75.5398928
+T's Corner,grocery,convenience,37.945611,-75.5398928
 Snacks,grocery,convenience,39.034226,-76.907378
 Courthouse Place Gourmet,grocery,convenience,38.889103,-77.085502
 JA Optronics,grocery,wholesale,38.7831594,-76.8819033
@@ -1222,7 +1221,7 @@ Food Lion,grocery,supermarket,38.4338055,-78.9016362
 Sheetz,grocery,convenience,38.4295748,-78.8562383
 Unnamed convenience,grocery,convenience,38.4230356,-78.8388019
 Unnamed convenience,grocery,convenience,38.4294109,-78.8549293
-Mountain Fresh Farmers Market,grocery,marketplace,39.4087032,-79.4095846
+Mountain Fresh Farmers Market,grocery,marketplace,39.4087388,-79.4095919
 Basilica Mart,grocery,convenience,39.2951648,-76.6177912
 MOM's Organic Market,grocery,supermarket,39.3676997,-76.4533046
 Unnamed convenience,grocery,convenience,39.0004952,-77.3438787
@@ -1465,7 +1464,6 @@ ALDI,grocery,supermarket,39.5257952,-76.3522676
 The Swiss Bakery + Pastry Shop,grocery,bakery,38.8096903,-77.2225518
 Lebanese Butcher of Virginia,grocery,butcher,38.8802909,-77.172578
 Sparta Fast Market,grocery,convenience,37.9910848,-77.2307644
-Harris Teeter,grocery,supermarket,38.8588507,-77.1026492
 Corner Bakery,grocery,bakery,39.2870588,-76.6084975
 Saint Paul Mini Mart,grocery,convenience,39.2992381,-76.6140223
 Lucky Star Tobacco & Grocery,grocery,convenience,39.294569,-76.665187
@@ -1788,9 +1786,9 @@ Sheetz,grocery,convenience,38.0807288,-78.9904946
 Unnamed convenience,grocery,convenience,38.0433079,-79.0089141
 Sheetz,grocery,convenience,38.0383274,-79.0262186
 Charles Street Market,grocery,supermarket,39.3289357,-76.6172978
-Unnamed convenience,grocery,convenience,38.4278715,-78.8742699
+Royal Mart,grocery,convenience,38.4278715,-78.8742699
 Unnamed convenience,grocery,convenience,38.4272944,-78.8740709
-Unnamed convenience,grocery,convenience,38.4271431,-78.875278
+7-Eleven,grocery,convenience,38.4271431,-78.875278
 Royal Mart,grocery,convenience,38.4437179,-78.8551775
 Unnamed convenience,grocery,convenience,38.4316102,-78.8423404
 Unnamed convenience,grocery,convenience,38.4060457,-78.9091998
@@ -2522,7 +2520,7 @@ Unnamed convenience,grocery,convenience,39.0059202,-78.3390214
 Chip City,grocery,pastry,38.8875277,-77.0912331
 MarketPlace,grocery,convenience,38.8018112,-77.1603073
 Acme,grocery,supermarket,39.6543782,-75.0918654
-ALDI,grocery,supermarket,39.4305204,-75.0418912
+Aldi,grocery,supermarket,39.4305204,-75.0418912
 Acme,grocery,supermarket,39.4796954,-74.9986688
 ALDI,grocery,supermarket,38.9185371,-75.438252
 ALDI,grocery,supermarket,38.5624708,-76.0646147
@@ -2848,6 +2846,14 @@ Greene Farmers Market at Greene Commons,grocery,marketplace,38.2967717,-78.44209
 Harris Teeter,grocery,supermarket,39.2978142,-76.897282
 7-Eleven,grocery,grocery,39.106976,-77.550029
 Rutter's,grocery,convenience,39.4903841,-76.1900136
+Capo Deli,grocery,deli,38.9207089,-77.2346162
+Wawa,grocery,convenience,38.0124738,-78.5016108
+Mrs. Fields,grocery,pastry,39.6785898,-75.6520509
+John Brown General And Butchery,grocery,butcher,39.4960443,-76.7081768
+BP Shop,grocery,convenience,39.4360442,-76.3061605
+Tru Blu 2,grocery,convenience,37.9329399,-75.5471509
+Tour les Jours Cafe,grocery,bakery,38.9500111,-77.3376066
+Bone's Grocery,grocery,convenience,38.6176456,-76.6136386
 Wawa,grocery,convenience,39.4623196,-75.2077074
 ShopRite,grocery,supermarket,39.7192675,-75.1095338
 Wawa,grocery,convenience,39.7190971,-75.1129318
@@ -3254,7 +3260,7 @@ Express Mart,grocery,convenience,39.2423535,-76.8403093
 BJ's Wholesale Club,grocery,wholesale,39.1814871,-76.8181048
 Unnamed convenience,grocery,convenience,39.1965685,-76.8202998
 Circle K,grocery,convenience,39.1995215,-76.8147128
-Safeway,grocery,supermarket,39.2799624,-76.8554726
+Safeway,grocery,supermarket,39.2799726,-76.8554806
 Tiger Mart,grocery,convenience,39.2792864,-76.8632129
 Tiger Mart,grocery,convenience,39.2084335,-76.7778552
 Safeway,grocery,supermarket,39.223337,-76.8893719
@@ -4134,9 +4140,9 @@ Gore Grocery,grocery,convenience,39.2640129,-78.3308295
 Tiger Mart,grocery,convenience,39.1262505,-76.5889542
 Martin's,grocery,supermarket,38.9106881,-78.1887507
 7-Eleven,grocery,convenience,38.8960653,-77.1298868
-Raja Bazaar,grocery,supermarket,38.8966572,-77.1318245
-Bangla Bazar,grocery,supermarket,38.89666,-77.1322385
-Asia Halal Supermarket,grocery,supermarket,38.8966663,-77.132998
+Top Butcher Market,grocery,butcher,38.8966672,-77.1318779
+Bangla Bazar,grocery,supermarket,38.8966703,-77.132233
+Asia Halal Supermarket,grocery,supermarket,38.8966757,-77.1329918
 Food Lion,grocery,supermarket,38.0312101,-78.4570216
 BP,grocery,convenience,38.9335361,-77.1773434
 Newark Farmers Market,grocery,supermarket,39.7057842,-75.6882041
@@ -4213,6 +4219,7 @@ Unnamed convenience,grocery,convenience,38.7381664,-77.1927209
 Sunoco,grocery,convenience,38.7405632,-77.2119665
 7-Eleven,grocery,convenience,38.7789089,-77.2325666
 ShopRite,grocery,supermarket,39.5253254,-76.1812851
+Galvinell Meat Co.,grocery,butcher,39.5543394,-76.1018341
 Shell,grocery,convenience,38.8334464,-77.4120775
 7-Eleven,grocery,convenience,39.4229571,-76.6184545
 7-Eleven,grocery,convenience,38.130714,-78.4360219
@@ -4350,7 +4357,6 @@ Unnamed convenience,grocery,convenience,39.3247233,-76.6578209
 University Grocery,grocery,convenience,39.3089722,-76.6611704
 Unnamed convenience,grocery,convenience,39.3221081,-76.6632628
 Food City Express,grocery,convenience,39.2953061,-76.6647437
-Save-A-Lot,grocery,supermarket,39.3387723,-76.6667803
 Rosemont Brothers Grocery and Deli,grocery,convenience,39.3050258,-76.6671525
 Unnamed convenience,grocery,convenience,39.3085637,-76.6712445
 Unnamed convenience,grocery,convenience,39.2806278,-76.6730635
@@ -4496,7 +4502,7 @@ Kings Convenience Store,grocery,convenience,38.6403548,-77.3478637
 Royal Farms,grocery,convenience,39.4144422,-76.4630051
 Food Lion,grocery,supermarket,38.0721628,-78.4803457
 7-Eleven,grocery,convenience,38.7023133,-77.2096703
-Walmart Supercenter,grocery,supermarket,39.4222077,-79.3911432
+Walmart Supercenter,grocery,supermarket,39.422206,-79.3911363
 Wegmans,grocery,supermarket,38.7425478,-77.1610879
 Wegmans,grocery,supermarket,38.0087688,-78.5004248
 7-Eleven,grocery,convenience,38.3569983,-78.9242514
@@ -4510,7 +4516,7 @@ Sheetz,grocery,convenience,39.4019617,-77.9122655
 Shell Select,grocery,convenience,39.4816739,-76.250725
 Bodo's Bagels,grocery,bakery,38.0351416,-78.4849569
 Goco Food Mart,grocery,convenience,38.038236,-78.4815254
-Unnamed convenience,grocery,convenience,38.0356935,-78.4855189
+The Market,grocery,convenience,38.0356935,-78.4855189
 Mona Lisa Pasta,grocery,pasta,38.0385385,-78.489807
 7-Eleven,grocery,convenience,38.468098,-77.4015702
 Sheetz,grocery,convenience,39.6778135,-78.7367191
@@ -4540,7 +4546,7 @@ Uncle Willie’s,grocery,convenience,39.0716568,-75.5526761
 Apple Mountain Exxon,grocery,convenience,38.9127724,-78.0997277
 7-Eleven,grocery,convenience,38.9136359,-78.1009916
 Valero,grocery,convenience,37.9881649,-75.8472215
-Unnamed convenience,grocery,convenience,37.9462015,-75.54065
+Corner Mart,grocery,convenience,37.9462015,-75.54065
 Sunoco,grocery,convenience,39.0422887,-77.4744842
 7-Eleven,grocery,convenience,39.2294456,-77.2515465
 Tiger Mart,grocery,convenience,39.5215361,-76.3474061
@@ -4619,7 +4625,7 @@ Unnamed convenience,grocery,convenience,39.1251285,-76.589409
 Better Thymes Natural Foods,grocery,supermarket,38.9101342,-78.1886753
 Royal Farms,grocery,convenience,38.6144274,-75.2036018
 Bodies Market,grocery,convenience,38.5885957,-75.2917654
-Sheetz,grocery,convenience,39.410463,-79.4047391
+Sheetz,grocery,convenience,39.4104615,-79.4047369
 Unnamed convenience,grocery,convenience,39.4035456,-79.3995729
 Homegrown Farm Market,grocery,marketplace,38.2479036,-76.4210818
 Dollar Plus,grocery,convenience,38.8436995,-77.0648833
@@ -4751,7 +4757,7 @@ Harris Teeter,grocery,supermarket,38.3023053,-76.5235033
 Food Lion,grocery,supermarket,39.1059037,-76.863164
 7-Eleven,grocery,convenience,38.6992729,-77.5842691
 7-Eleven,grocery,convenience,39.4572871,-77.9704981
-ALDI,grocery,supermarket,38.9638401,-78.1867563
+Aldi,grocery,supermarket,38.9638401,-78.1867563
 Red Truck Rural Bakery,grocery,bakery,38.8651153,-77.8575504
 The Whole Ox,grocery,butcher,38.8651313,-77.8566756
 Sheetz,grocery,convenience,39.4423182,-77.9862211
@@ -4882,7 +4888,7 @@ Wawa,grocery,convenience,39.6033557,-75.8408433
 Acme,grocery,supermarket,39.4485146,-75.697665
 FasMart,grocery,convenience,38.3220877,-77.7084119
 Food Lion,grocery,supermarket,39.4516392,-75.7232758
-Unnamed farm,grocery,farm,39.6651785,-75.5923749
+Penn Farm Stand,grocery,farm,39.6651672,-75.5922834
 Brandywine General Store,grocery,convenience,38.6244194,-79.2438748
 bfs,grocery,convenience,39.6388836,-78.8297613
 Unnamed convenience,grocery,convenience,38.1315841,-77.5091189
@@ -4936,7 +4942,7 @@ Royal Farms,grocery,convenience,39.4258765,-76.2990696
 Jones Family Farm Market,grocery,farm,39.4444761,-76.3101348
 High's,grocery,convenience,39.6138637,-76.5165918
 7-Eleven,grocery,convenience,38.3777517,-75.1663761
-Bone's Grocery and Deli,grocery,convenience,38.6176059,-76.6136303
+Bone's Deli,grocery,deli,38.6176059,-76.6136303
 Ellicott City Farmer's Market,grocery,marketplace,39.273283,-76.8405581
 ShopRite,grocery,supermarket,39.5395143,-76.3532786
 Breezy Point Marina Bait and Tackle Shop,grocery,convenience,38.6159263,-76.5133846
@@ -4958,7 +4964,7 @@ Food Lion,grocery,supermarket,39.2649864,-75.8611169
 Locust Point Market,grocery,deli,39.635003,-77.7226613
 Fastop,grocery,convenience,38.2707051,-76.6081699
 Acme,grocery,supermarket,39.668025,-75.7757028
-Food Mart,grocery,convenience,39.4621932,-76.2799083
+Unnamed convenience,grocery,convenience,39.4621932,-76.2799083
 Royal Farms,grocery,convenience,39.2185687,-76.0798444
 Sheetz,grocery,convenience,39.5979804,-78.2416836
 7-Eleven,grocery,convenience,38.8717435,-78.5256549
@@ -5055,7 +5061,7 @@ Royal Farms,grocery,convenience,39.5606123,-76.3729179
 ShopRite,grocery,supermarket,39.6262483,-75.7463897
 APlus,grocery,convenience,38.9653031,-77.4460305
 Wawa,grocery,convenience,39.1581605,-75.5589329
-Lidl,grocery,supermarket,39.4977799,-76.172107
+Lidl,grocery,supermarket,39.4977687,-76.1720567
 Fort Meade Commissary,grocery,supermarket,39.1053058,-76.7359553
 Sheetz,grocery,convenience,39.3580566,-78.0386395
 Sheetz,grocery,convenience,39.3992,-77.4063109
@@ -5352,7 +5358,8 @@ Publix,grocery,supermarket,38.4258375,-77.4337116
 BP Shop,grocery,convenience,38.7439542,-77.5118776
 Safeway,grocery,supermarket,38.5422718,-76.9820429
 Dash In,grocery,convenience,38.5390719,-76.9850272
-Unnamed convenience,grocery,convenience,39.4584898,-79.2303476
+Unnamed convenience,grocery,convenience,39.4585266,-79.2303948
+Par Mar Stores,grocery,convenience,39.4026065,-79.3917272
 Unnamed convenience,grocery,convenience,39.500649,-79.2372214
 North side deli,grocery,deli,39.6169217,-75.8389606
 Valero,grocery,convenience,39.6134115,-75.8378935
@@ -5439,7 +5446,7 @@ Unnamed convenience,grocery,convenience,38.4478411,-77.4012385
 Royal Farms,grocery,convenience,39.7216441,-76.5438939
 Joy Convenience,grocery,convenience,39.4193406,-77.4100427
 Royal Farms,grocery,convenience,38.0009157,-75.5406872
-Unnamed convenience,grocery,convenience,38.0008068,-75.5421714
+Dixieland,grocery,convenience,38.0008068,-75.5421714
 Unnamed convenience,grocery,convenience,39.0390342,-76.0722506
 Royal Farms,grocery,convenience,39.4330342,-76.3374138
 Food Mart,grocery,convenience,39.5915904,-75.8241994
@@ -5697,7 +5704,7 @@ Krecek Kakes,grocery,bakery,38.1355131,-78.1872058
 7-Eleven,grocery,convenience,39.1279224,-76.5398904
 Kent Island Crab Co.,grocery,seafood,39.1264762,-76.5383725
 Dash In,grocery,convenience,39.1241012,-76.5220877
-Royal Farms,grocery,convenience,39.1288527,-76.5455302
+Royal Farms,grocery,convenience,39.1288684,-76.5455266
 Acme,grocery,supermarket,39.2253306,-76.0687158
 Sheetz,grocery,convenience,38.9374345,-78.1983727
 Wawa,grocery,convenience,39.4462068,-75.0428375
@@ -5791,6 +5798,7 @@ Dash In,grocery,convenience,39.4541942,-75.724525
 Tiger Mart,grocery,convenience,38.3667349,-75.541469
 7-Eleven,grocery,convenience,38.675291,-76.8771243
 Dash In,grocery,convenience,39.1332949,-76.5837667
+Unnamed convenience,grocery,convenience,39.4017614,-79.3929924
 Cinco De Mayo,grocery,bakery,39.1706177,-76.621329
 Citgo,grocery,convenience,39.1102081,-76.5747875
 Food Lion,grocery,supermarket,39.3617308,-78.0340871
@@ -5898,6 +5906,7 @@ Royal Farms,grocery,convenience,38.6711442,-75.3842633
 Unnamed convenience,grocery,convenience,39.1727524,-78.0219647
 7-Eleven,grocery,convenience,39.2949872,-76.5242291
 Wegmans,grocery,supermarket,39.0627995,-77.1239053
+Corner Mart,grocery,convenience,37.89355,-75.5482538
 Wawa,grocery,convenience,39.0052688,-76.9702329
 Unnamed convenience,grocery,convenience,39.3335988,-76.494916
 Royal Farms,grocery,convenience,39.6037428,-75.7674684
@@ -5909,10 +5918,13 @@ Unnamed convenience,grocery,convenience,39.4359386,-77.9581733
 Sunny's One Stop,grocery,convenience,39.4710195,-77.9543504
 Unnamed convenience,grocery,convenience,39.4903942,-77.9577848
 Aldi,grocery,supermarket,38.5716812,-75.2884655
-Unnamed supermarket,grocery,supermarket,39.3999109,-79.3921762
+Shop 'n Save,grocery,supermarket,39.3999219,-79.3923388
 Weis,grocery,supermarket,39.3919073,-77.3120406
-Unnamed convenience,grocery,convenience,39.4170893,-79.4008579
+Luke's Convenience Store,grocery,convenience,39.4170893,-79.4008579
 Unnamed marketplace,grocery,marketplace,39.0700898,-78.9673028
+Rutter's,grocery,convenience,39.4385568,-77.3775855
+Royal Farms,grocery,convenience,38.9424642,-76.8710689
+Zimmerman's,grocery,farm,38.3524961,-76.6797456
 Krumpe's Do-Nuts,grocery,bakery,39.6263713,-77.7295876
 Hollins Market,grocery,marketplace,39.2875106,-76.6359312
 7-Eleven,grocery,convenience,39.5486005,-76.3503673
@@ -6668,7 +6680,7 @@ Parkland Cleaners,laundry,dry_cleaning,38.9650412,-77.0763239
 Super Fresh Laundromat,laundry,laundry,38.9342074,-76.9509635
 Athens Cleaners,laundry,dry_cleaning,39.4412418,-76.6261658
 Unnamed dry_cleaning,laundry,dry_cleaning,39.0233501,-76.9778452
-Chevy Chase Valet & Cleaners,laundry,dry_cleaning,38.9796704,-77.0916681
+Chevy Chase Valet & Cleaners,laundry,dry_cleaning,38.9796456,-77.0916718
 Unnamed dry_cleaning,laundry,dry_cleaning,39.3559917,-76.4622262
 Easy Wash and Fold,laundry,laundry,39.0834836,-76.9456145
 Unnamed laundry,laundry,laundry,39.5514778,-75.7184499
@@ -6688,6 +6700,7 @@ Zips Dry Cleaning,laundry,dry_cleaning,38.8380145,-77.437317
 Royal Valet Cleaners,laundry,dry_cleaning,38.809849,-77.2227045
 Village Square Cleaners,laundry,dry_cleaning,38.9449193,-77.3461802
 Mountainside Gas and Grocery Laundromat,laundry,laundry,38.2975904,-78.443615
+Oak Hall Laundromat,laundry,laundry,37.9439805,-75.5391879
 Polovoy Cleaners,laundry,dry_cleaning,39.3777985,-76.7197098
 City Cleaners,laundry,dry_cleaning,38.9157194,-77.011558
 Hen Lung Laundry,laundry,laundry,38.8999887,-76.9879837
@@ -6821,6 +6834,7 @@ Crystal Cleaners,laundry,dry_cleaning,38.8531538,-77.0549891
 Aurora Hills Cleaners,laundry,dry_cleaning,38.8530549,-77.0592118
 Unnamed dry_cleaning,laundry,dry_cleaning,38.882124,-77.1013983
 Hydraulic Wash,laundry,laundry,38.0654411,-78.4959184
+Johnny's Laundromat,laundry,laundry,39.5698203,-76.0687777
 Double Tree Center Cleaners,laundry,dry_cleaning,39.7219245,-75.1128808
 Unnamed laundry,laundry,laundry,39.7203886,-75.1122175
 Kenwood Polyclean,laundry,laundry,38.9636126,-77.1027136
@@ -6840,6 +6854,7 @@ Unnamed dry_cleaning,laundry,dry_cleaning,38.3587213,-77.5229063
 KG Cleaners,laundry,dry_cleaning,38.3272516,-77.4377679
 Unnamed dry_cleaning,laundry,dry_cleaning,38.4740592,-77.4695518
 Cosner Cleaners,laundry,dry_cleaning,38.224435,-77.506782
+The Laundry Tub,laundry,laundry,39.4028306,-79.3913918
 Furniture Assembly Experts,home_repair,doityourself,38.9624447,-76.8577382
 Lowe's,home_repair,doityourself,38.7720877,-77.0837091
 Lowe's,home_repair,doityourself,38.7706262,-76.8892738
@@ -7145,6 +7160,7 @@ Sherwin-Williams,home_repair,paint,38.3694871,-77.5273037
 Sherman Williams,home_repair,paint,38.8817889,-76.9952057
 Sherwin-Williams,home_repair,paint,39.0445519,-77.1093754
 Harbor Freight Tools,home_repair,hardware,39.4532365,-75.7231699
+Harbor Freight Tools,home_repair,hardware,39.6003233,-75.823863
 Lowe's,home_repair,doityourself,38.2402381,-77.5086825
 The Home Depot,home_repair,doityourself,39.1544886,-78.1701165
 Lowe's,home_repair,doityourself,38.2995796,-77.507087
@@ -7764,7 +7780,6 @@ Unnamed car_repair,auto_repair,car_repair,38.4686192,-77.4000382
 T&J Auto Body,auto_repair,car_repair,38.8851668,-77.0981014
 AutoZone,auto_repair,car_parts,39.3998819,-76.9335086
 Marshall Tire and Auto,auto_repair,car_repair,38.0261961,-78.5156994
-Carlson's Discount Tire Center,auto_repair,tyres,37.9774143,-75.5312637
 Peterson's Oil & Lube Center,auto_repair,car_repair,39.447941,-77.9801844
 Motion Auto Parts,auto_repair,car_parts,39.4450726,-77.9692612
 Cupp's Automotive,auto_repair,car_repair,39.4451762,-77.9692394
@@ -8498,6 +8513,7 @@ NTB- National tire & Battery,auto_repair,car_repair,39.1073737,-77.550333
 Unnamed car_repair,auto_repair,car_repair,39.1666594,-76.7826332
 Unnamed car_repair,auto_repair,car_repair,39.2779477,-76.5493038
 AutoZone Auto Parts,auto_repair,car_parts,39.1061112,-77.5487275
+Moe's Service Center,auto_repair,car_repair,37.9716336,-75.5313823
 Firestone,auto_repair,car_repair,39.7184106,-75.1133038
 Midas,auto_repair,car_repair,39.7144981,-75.1116391
 Unnamed car_repair,auto_repair,car_repair,39.7153241,-75.1119585
@@ -9064,7 +9080,7 @@ Charlie & Ray’s Auto Service,auto_repair,car_repair,39.3047505,-76.4842961
 Unnamed tyres,auto_repair,tyres,39.3145753,-76.4626849
 L&J Auto,auto_repair,tyres,39.312744,-76.4482202
 Advance Window Tinting,auto_repair,car_repair,39.3123601,-76.4479296
-Unnamed car_repair,auto_repair,car_repair,39.3426578,-76.3958042
+Unnamed car_repair,auto_repair,car_repair,39.3426455,-76.3958102
 Mr. Tire,auto_repair,car_parts,39.31131,-76.447734
 Singh's Auto Body & Collision,auto_repair,car_repair,39.3542788,-76.4589502
 Empire Used Tires,auto_repair,tyres,39.3105708,-76.4461214
@@ -9178,7 +9194,7 @@ FleetPride,auto_repair,car_parts,39.6272937,-77.788213
 AutoZone,auto_repair,car_parts,39.4344354,-76.3246041
 410TintPro,auto_repair,car_repair,39.4358747,-76.3083874
 Jiffy Lube,auto_repair,car_repair,39.4351884,-76.3180495
-Precision Tune Auto Care,auto_repair,car_repair,39.4355184,-76.3180817
+Precision Tune Auto Care,auto_repair,car_repair,39.4355299,-76.3180851
 Rim Exchange,auto_repair,car_parts,39.4342862,-76.3144832
 The Masters Auto Shop,auto_repair,car_repair,39.4363661,-76.3115545
 Pick Your Part,auto_repair,car_parts,39.4356449,-76.3239196
@@ -9358,7 +9374,7 @@ Midas,auto_repair,car_repair,39.1218529,-76.5865869
 Auto Works Collision Center,auto_repair,car_repair,38.5613969,-75.2732763
 Manlove Auto Parts,auto_repair,car_parts,38.6914719,-75.3844955
 O'Reilley Auto Parts,auto_repair,car_parts,38.7603265,-77.4653786
-Ace Quick Lube,auto_repair,car_repair,39.4114332,-79.4047678
+Ace Quick Lube,auto_repair,car_repair,39.4114186,-79.4047698
 Advance Auto Parts,auto_repair,car_parts,38.895715,-77.1382786
 "Coty's Auto Body, Inc",auto_repair,car_repair,39.4466847,-77.9774599
 Stone Springs Auto Center,auto_repair,car_repair,38.9335303,-77.531311
@@ -9381,6 +9397,7 @@ Mr. Tire Auto Service Center,auto_repair,tyres,38.6590219,-75.5967998
 Advance Auto Parts,auto_repair,car_parts,39.6613394,-75.7266609
 Mavis Discount Tire,auto_repair,tyres,39.6633287,-75.7232827
 AAA,auto_repair,car_repair,38.6652811,-76.8757102
+Steve's Auo Body,auto_repair,car_repair,39.6125229,-78.2302489
 Jiffy Lube,auto_repair,car_repair,38.795718,-77.5178789
 NTB,auto_repair,car_repair,39.159623,-76.6190832
 Sussex Automotive,auto_repair,car_repair,38.5545956,-75.2467707
@@ -9795,7 +9812,7 @@ Unnamed car_repair,auto_repair,car_repair,38.7456876,-75.6007812
 Mc Dowell's Garage & Auto Body,auto_repair,car_repair,38.7511477,-75.5980095
 Unnamed car_repair,auto_repair,car_repair,38.7511796,-75.5983241
 Unnamed car_repair,auto_repair,car_repair,38.1657208,-79.0889819
-D&L Window Tinting,auto_repair,car_repair,39.3808343,-76.4258804
+D&L Window Tinting,auto_repair,car_repair,39.3808346,-76.4258825
 J. E. M. Auto Repair,auto_repair,car_repair,38.0688382,-78.4837006
 Jiffy Lube,auto_repair,car_repair,38.0699913,-78.4836313
 Platinum Motorsport EastCoast,auto_repair,car_parts,38.5563269,-76.5974255
@@ -9959,7 +9976,7 @@ C & C Car Repair & Towing,auto_repair,car_repair,38.4642174,-77.9981264
 J & D New and Used Tires,auto_repair,tyres,38.4647509,-77.9981147
 Avery's Automotive and Glass,auto_repair,car_repair,38.6912893,-76.6385356
 A&Z Auto,auto_repair,car_repair,39.1282074,-76.5419848
-AutoZone,auto_repair,car_parts,39.1272968,-76.5415231
+AutoZone,auto_repair,car_parts,39.1273149,-76.5415215
 European Auto Care,auto_repair,car_repair,39.128799,-76.5496471
 Superior Transmission Services,auto_repair,car_repair,38.2647569,-77.4979595
 Unnamed car_repair,auto_repair,car_repair,38.2646482,-77.497962
@@ -10013,6 +10030,7 @@ AutoZone,auto_repair,car_parts,38.0745781,-75.5570204
 Federated Car Care,auto_repair,car_repair,38.4075595,-78.6241216
 Big L Tire Pros,auto_repair,tyres,38.4071947,-78.6223328
 La Plata Tire Center,auto_repair,tyres,38.5319025,-76.9825462
+Helbigs Repair Shop,auto_repair,car_repair,39.4112074,-79.416858
 Rapid Repair,auto_repair,car_repair,39.3974021,-79.4310477
 Carworks Automotive,auto_repair,car_repair,38.5121032,-77.8570775
 CARS Automotive,auto_repair,car_repair,38.4765586,-77.9906504
@@ -10026,6 +10044,7 @@ Sudden Impact Collision Center,auto_repair,car_repair,39.1821956,-76.6153909
 Just Tires,auto_repair,tyres,39.1911535,-76.6142157
 AutoZone,auto_repair,car_parts,39.2254985,-76.6129958
 Safelite AutoGlass,auto_repair,car_repair,39.1778858,-76.61773
+Mighty Auto Parts,auto_repair,car_parts,39.4003947,-79.385404
 City Imports Ltd.,auto_repair,car_repair,39.177916,-76.6248558
 Tint Inc.,auto_repair,car_repair,39.1531992,-76.6308785
 Paul's Tire,auto_repair,tyres,39.1530133,-76.6309594
@@ -10063,6 +10082,9 @@ Mavis Discount Tire,auto_repair,car_repair,39.4869216,-75.0512759
 Roman's Body Shop,auto_repair,car_repair,39.436888,-77.956761
 AutoZone,auto_repair,car_parts,38.6558314,-77.305348
 Unnamed car_repair,auto_repair,car_repair,39.0361364,-78.9836773
+Cole's Import Specialists,auto_repair,car_repair,38.0363082,-78.4848619
+Walmart Auto Care Center,auto_repair,car_repair,39.4216163,-79.3914908
+"Lee Delauter & Sons, Inc Auto Care Center",auto_repair,car_repair,39.5647827,-77.5280768
 Jiffy Lube,auto_repair,car_repair,38.8384061,-77.4252901
 B & B Tires,auto_repair,tyres,39.5187106,-76.1836071
 Caliber Collision,auto_repair,car_repair,39.428667,-76.3628291
@@ -10630,6 +10652,7 @@ Walgreens,pharmacy,pharmacy,39.4240309,-76.3711502
 Whitesell Pharmacy,pharmacy,pharmacy,39.4174391,-77.410397
 CVS Pharmacy,pharmacy,pharmacy,39.4924318,-76.3950179
 Walgreens,pharmacy,pharmacy,39.5473977,-76.3129315
+Atlantic Community Pharmacy,pharmacy,pharmacy,37.9446486,-75.5403336
 CVS Pharmacy,pharmacy,pharmacy,38.246645,-77.5139923
 Rite Aid,pharmacy,pharmacy,39.4606527,-75.2084527
 Rite Aid,pharmacy,pharmacy,39.7192695,-75.1149378
@@ -10769,7 +10792,7 @@ Walgreens,pharmacy,pharmacy,39.0086089,-77.5054626
 Walgreens,pharmacy,pharmacy,38.9387533,-77.5476249
 Rotz Pharmacy,pharmacy,pharmacy,39.1908823,-78.1842917
 Reeds Pharamcy,pharmacy,pharmacy,39.2970767,-78.4304011
-Preston's Pharmacy,pharmacy,pharmacy,38.8966365,-77.1311526
+Preston's Pharmacy,pharmacy,pharmacy,38.896646,-77.1311472
 CVS Pharmacy,pharmacy,pharmacy,38.020261,-77.992088
 Walgreens,pharmacy,pharmacy,38.0195321,-77.9934896
 CVS Pharmacy,pharmacy,pharmacy,38.2601947,-78.1178368
@@ -10913,6 +10936,7 @@ CVS Pharmacy,pharmacy,pharmacy,38.4648337,-78.0004795
 CVS Pharmacy,pharmacy,pharmacy,38.3492409,-77.7465663
 PharmaCare of Frostburg,pharmacy,pharmacy,39.6428954,-78.9091954
 Comfort Medical Supply,pharmacy,pharmacy,38.3010827,-77.5137963
+Walmart Pharmacy,pharmacy,pharmacy,39.4223423,-79.3917677
 Pharmacy/Laboratory,pharmacy,pharmacy,38.8090439,-76.8952767
 Jadore Beauty Spa,barber_beauty,beauty,38.9029584,-77.0436721
 Scott's Barber Shop,barber_beauty,hairdresser,38.3048835,-77.4601024
@@ -10952,6 +10976,7 @@ T&N Nails,barber_beauty,beauty,38.8649784,-76.9510204
 Like That 2,barber_beauty,hairdresser,38.8464205,-76.9805081
 Luna,barber_beauty,hairdresser,38.9094302,-77.0455795
 Violet,barber_beauty,hairdresser,38.9096045,-77.0643405
+Salon Georgetown,barber_beauty,hairdresser,38.9089164,-77.0639811
 David's Hair Studio,barber_beauty,hairdresser,38.9011521,-77.0443459
 Bespoke Aesthetics & Wellness,barber_beauty,beauty,38.9089262,-77.0644264
 Salon L'eau,barber_beauty,hairdresser,38.9087258,-77.0645348
@@ -10963,6 +10988,7 @@ Grooming Lounge,barber_beauty,hairdresser,38.9038865,-77.0410229
 The Art Of Shaving,barber_beauty,hairdresser,38.9035317,-77.0402719
 Toka Salon & Day Spa,barber_beauty,hairdresser,38.906148,-77.063877
 O Salon,barber_beauty,hairdresser,38.9048167,-77.0626301
+Polished of Georgetown,barber_beauty,beauty,38.9089847,-77.0640133
 Fringe Hair Studio,barber_beauty,hairdresser,38.9090097,-77.0640294
 Cutt-N-Up,barber_beauty,hairdresser,39.0050284,-77.4271741
 Albert C Hillman & Son,barber_beauty,hairdresser,38.9003817,-76.9911623
@@ -12220,7 +12246,7 @@ Hair Cuttery,barber_beauty,hairdresser,38.6325354,-77.2736509
 Total Image,barber_beauty,beauty,39.6031661,-78.2399192
 A Head Above Hair Studio,barber_beauty,hairdresser,39.6047523,-78.2389737
 T.P. Nails,barber_beauty,beauty,38.4286699,-78.8547828
-Dawson's Barber Shop,barber_beauty,hairdresser,39.6265314,-78.2278227
+Colonial Barber Shop,barber_beauty,hairdresser,39.6265314,-78.2278227
 Rita Renee's Spa,barber_beauty,beauty,39.6280105,-78.2272151
 Sport Clips,barber_beauty,hairdresser,39.44566,-77.3967481
 Weber's Barber Shop,barber_beauty,hairdresser,39.6148965,-78.2327535
@@ -13740,7 +13766,7 @@ Unnamed hairdresser,barber_beauty,hairdresser,38.9036043,-77.0324209
 Hair and Makeup by Carla Reis,barber_beauty,hairdresser,38.7627928,-77.1412657
 Le's Nails & Spa,barber_beauty,beauty,38.9416755,-76.734606
 Salontra Select Suites,barber_beauty,hairdresser,38.9415344,-76.7362951
-ViviNail Spa,barber_beauty,beauty,39.057779,-77.1192952
+Vivi Nail Spa,barber_beauty,beauty,39.057779,-77.1192952
 Casabella Salon,barber_beauty,beauty,38.9085772,-77.064109
 Charming Nails DC,barber_beauty,beauty,38.9084526,-77.0640402
 Take Care,barber_beauty,beauty,38.9076061,-77.0636062
@@ -14105,7 +14131,7 @@ King Spa,barber_beauty,beauty,38.9163407,-77.4889238
 SkinSpirit,barber_beauty,beauty,39.1215926,-77.2356522
 Kentlands Salon & The Nail Bar,barber_beauty,beauty,39.1240859,-77.238761
 Hair Cuttery,barber_beauty,hairdresser,39.1244229,-77.2391062
-Tara Nails,barber_beauty,beauty,39.1273858,-77.2392623
+Tara Nails,barber_beauty,beauty,39.1273202,-77.2392452
 Salon Chahine,barber_beauty,beauty,39.1272447,-77.2391691
 Nail Saloon,barber_beauty,beauty,38.85652,-77.0495824
 HT Salon,barber_beauty,beauty,39.1214521,-77.2376672
@@ -14294,6 +14320,12 @@ Nail Expo,barber_beauty,beauty,39.4266638,-75.0365708
 Sally Beauty,barber_beauty,hairdresser_supply,39.4266606,-75.0366873
 Supreme Cutz,barber_beauty,hairdresser,39.5105533,-76.1673993
 Cevaluk,barber_beauty,hairdresser,38.0732312,-78.9025891
+Browbar,barber_beauty,beauty,39.6774539,-75.6514639
+Soul Love Salon,barber_beauty,hairdresser,39.3047047,-76.6156542
+VIP Nails,barber_beauty,beauty,39.6742529,-75.7035363
+Polished Nails & Spa,barber_beauty,beauty,37.9440599,-75.5391608
+Nexus Nails,barber_beauty,beauty,39.1565036,-76.7254559
+Beauty Bee,barber_beauty,beauty,39.1590356,-76.7249295
 Tres Hombres Hair Stylists,barber_beauty,hairdresser,39.3796171,-76.7288434
 Revo Nails & Spa,barber_beauty,beauty,38.933908,-77.033155
 Diva Nails,barber_beauty,hairdresser,38.8487577,-77.3030983
@@ -14418,9 +14450,10 @@ Unnamed hairdresser,barber_beauty,hairdresser,39.2888817,-76.5264131
 Divine Service,barber_beauty,beauty,39.2782776,-76.7332501
 Universal Barber Shop,barber_beauty,hairdresser,38.9977248,-76.9311111
 New Image Hair Designs,barber_beauty,hairdresser,38.8945322,-77.1440625
-Saira's Beauty Salon,barber_beauty,beauty,38.8966795,-77.1312975
-Salon Joseph,barber_beauty,beauty,38.896679,-77.1314474
-Lee Barber Shop,barber_beauty,hairdresser,38.8966659,-77.1331397
+Saira's Beauty Salon,barber_beauty,beauty,38.8966892,-77.1312939
+Salon Joseph,barber_beauty,beauty,38.8966892,-77.1314466
+Teresa Nails & Spa,barber_beauty,beauty,38.8966708,-77.1319973
+Lee Barber Shop,barber_beauty,hairdresser,38.896675,-77.1331375
 Here's Clyde's,barber_beauty,hairdresser,39.6229736,-77.4105767
 Kim's Family Barber,barber_beauty,hairdresser,38.9355537,-77.1770986
 A's Salon & Suites,barber_beauty,beauty,39.4340858,-76.3055295
@@ -14777,6 +14810,11 @@ Great Clips,barber_beauty,hairdresser,38.2283281,-77.5044274
 Finesse Salon Studios,barber_beauty,hairdresser,38.2183179,-77.5032213
 Redz Color Studio,barber_beauty,hairdresser,38.2340736,-77.4992419
 Glow on the Go by Joce,barber_beauty,beauty,39.5901283,-78.9508934
+Unnamed hairdresser,barber_beauty,hairdresser,39.418368,-79.4016872
+Shear Fantasy Family Hair Salon,barber_beauty,hairdresser,39.4021058,-79.3917508
+SmartStyle,barber_beauty,hairdresser,39.42272,-79.3912641
+Hair N' Phernalia,barber_beauty,hairdresser,39.4079894,-79.4096749
+Simon's Family Hair Center,barber_beauty,hairdresser,39.4080233,-79.4067194
 Luminous Nails,barber_beauty,beauty,39.4955333,-76.3268664
 Split Endz Hair Salon,barber_beauty,hairdresser,39.4955206,-76.3270383
 Salon 9two0,barber_beauty,hairdresser,39.4935962,-76.3243115
@@ -15200,7 +15238,6 @@ Same Day Dentures,medical,medical_supply,38.9291913,-77.0230001
 Teitler Family Dental Care,medical,dentist,39.3487718,-77.0673737
 "Hanna Hanania, DDS",medical,dentist,38.6463938,-77.339775
 Spine & Sports Rehabilitation Center,medical,physiotherapist,39.4312442,-76.6311405
-Medstar Medical Group,medical,doctors,39.5210082,-76.1855811
 Aberdeen Dental Care,medical,dentist,39.5207476,-76.1856997
 Unnamed dentist,medical,dentist,38.2693406,-76.4597023
 Crownsville Dental,medical,dentist,39.0320101,-76.6031088
@@ -15951,6 +15988,8 @@ Pivot Physical Therapy,medical,physiotherapist,39.2884985,-77.2025894
 Churchville Family Dentistry,medical,dentist,39.5460088,-76.3188585
 Fast Track Urgent Care,medical,clinic,39.0281407,-77.0766374
 Western Maryland Hospital Center,medical,hospital,39.665617,-77.717549
+Upper Chesapeake Surgical Associates at Perryville,medical,doctors,39.5725956,-76.0672025
+Align Physical Therapy,medical,physiotherapist,39.5726366,-76.0671121
 Pivot Physical Therapy,medical,physiotherapist,39.6056682,-75.9497439
 NovaCare Rehabilitation,medical,physiotherapist,39.6040259,-75.8315114
 Holloway,medical,optometrist,39.6042695,-75.8315766
@@ -15965,7 +16004,6 @@ MAI,medical,doctors,39.6009838,-75.8064334
 Aspen Dental,medical,dentist,39.6004895,-75.8042584
 Wyman Orthodontics,medical,dentist,39.6021047,-75.8292954
 Bay Counseling Center,medical,psychotherapist,39.4989486,-76.3231544
-Blackiston Chiropractic,medical,alternative,39.57768,-76.0505605
 Unnamed clinic,medical,clinic,39.6100916,-75.9446851
 Tri-State Health,medical,doctors,39.6094773,-75.9427733
 Oakland Nursing and Rehabilitation Center,medical,rehabilitation,39.4068588,-79.4012846
@@ -16191,6 +16229,7 @@ First Impression Dental,medical,dentist,39.0073628,-77.4864736
 Wilmer Eye Institute,medical,doctors,39.2966777,-76.5933832
 The Eye Center,medical,optometrist,38.8332465,-77.120398
 Inova-GoHealth Urgent Care,medical,clinic,38.8295858,-77.1093854
+Bloomberg Children’s Center,medical,hospital,39.2959323,-76.5912675
 Plumbers Local 5 Health & Wellness Center,medical,clinic,38.9062842,-76.8287961
 Teem Orthodontics,medical,dentist,38.7934594,-77.6269023
 Gainesville Dental Care,medical,dentist,38.7934244,-77.6270254
@@ -16738,7 +16777,7 @@ Washington Periodontics: Dr. Christine Karapetian,medical,dentist,38.8102535,-77
 American Radiology Services,medical,doctors,38.5615046,-76.5977026
 Crozet Dentist,medical,dentist,38.0519049,-78.6808276
 UVA Family Medicine and Specialty Care,medical,physiotherapist,38.0519344,-78.6816232
-North Bay Family Dental,medical,dentist,39.6416474,-75.9605056
+North Bay Family Dental,medical,dentist,39.6416536,-75.960523
 "Michael K. Spodak, M.D., P.A.",medical,doctors,39.4008949,-76.6044273
 Leading By Example,medical,psychotherapist,39.3737679,-76.4565848
 Aspire Wellness,medical,psychotherapist,39.3730833,-76.4572038
@@ -16785,7 +16824,7 @@ Momentous Sports Medicine,medical,physiotherapist,38.9064449,-77.0245991
 Mainspring Recovery,medical,psychotherapist,38.5734797,-77.3171552
 Patient First,medical,clinic,38.8299013,-77.1896623
 MJH Internal Medicine,medical,doctor,37.936785,-78.3357803
-Unnamed alternative,medical,alternative,38.0349481,-78.4862563
+Balanced Chiropractic,medical,alternative,38.0349481,-78.4862563
 MyEyeDr.,medical,doctors,38.901377,-77.0217364
 Sentara,medical,clinic,38.5846565,-77.3332449
 South Riding Cosmetic & Family Dentistry,medical,dentist,38.9143571,-77.513547
@@ -17310,6 +17349,16 @@ Galleria Dental Smiles of Herndon,medical,dentist,38.9658451,-77.3984145
 Galleria Dental Of Alexandria,medical,dentist,38.8087257,-77.0866369
 AllClear Dentistry of Columbia,medical,dentist,39.1691779,-76.865055
 Bay Area Dental,medical,dentist,39.5100731,-76.164112
+Warrenton Dentistry,medical,dentist,38.7232947,-77.7909061
+Drs. Shelton & Gibbons,medical,dentist,39.3857884,-76.6069369
+Progress Dental,medical,dentist,39.674228,-75.7035896
+Atlantic Community Health Center,medical,clinic,37.9653405,-75.5302693
+NOVA Pulmonary Critical Care and Sleep Associates- Vienna,medical,clinic,38.9028986,-77.2614747
+EverSmile Dentistry of Sterling,medical,dentist,39.0250407,-77.3942369
+Woodbridge Dental Care,medical,dentist,38.6775134,-77.346045
+Dunbar Smile Center of Stafford,medical,dentist,38.4782843,-77.4212729
+La Luxe Dental of Washington DC,medical,dentist,38.9029664,-77.0061921
+"Englander Dental, Dr. Joshua Englander D.D.S.",medical,dentist,39.5411441,-76.3581206
 UMD Health Center,medical,clinic,38.9872092,-76.9446292
 MedStar Franklin Square Medical Center,medical,hospital,39.3518753,-76.4779873
 Inspira Medical Center Vineland,medical,hospital,39.4453082,-75.0587019

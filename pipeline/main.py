@@ -11,7 +11,7 @@ from modules import (
     combine_data
 )
 
-REFRESH_OSM = False
+REFRESH_OSM = True
 REFRESH_FINANCIAL = False
 REFRESH_CHILDCARE = False
 REFRESH_FOODBANK = False

@@ -68,6 +68,7 @@ St Mary's Food Market,grocery,convenience,39.2344166,-76.5967802,,,,,,,,,,,,,Gro
 Luckies Deli Mart,grocery,convenience,39.2282116,-76.5888549,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
 BP Shop,grocery,convenience,39.2281252,-76.5883869,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
 M & C Food Market,grocery,convenience,39.22864,-76.5901983,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+BP Shop,grocery,convenience,39.4360442,-76.3061605,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
 99 Ranch Market,grocery,supermarket,39.1500812,-77.206167,,,,,,,,,,,,,Grocery,Supermarket,24031700713,True
 Shoppers Food & Pharmacy,grocery,supermarket,39.0166444,-76.9287385,,,,,,,,,,,,,Grocery,Supermarket,24033807301,True
 Sam's Club,grocery,wholesale,39.6319857,-77.7655224,,,,,,,,,,,,,Grocery,Wholesale,24043000900,True
@@ -138,7 +139,6 @@ Topline Outlet & Variety,grocery,convenience,39.3099107,-76.6511653,,,,,,,,,,,,,
 Unnamed convenience,grocery,convenience,39.3247233,-76.6578209,,,,,,,,,,,,,Grocery,Convenience,24510150500,True
 University Grocery,grocery,convenience,39.3089722,-76.6611704,,,,,,,,,,,,,Grocery,Convenience,24510150600,True
 Unnamed convenience,grocery,convenience,39.3221081,-76.6632628,,,,,,,,,,,,,Grocery,Convenience,24510150500,True
-Save-A-Lot,grocery,supermarket,39.3387723,-76.6667803,,,,,,,,,,,,,Grocery,Supermarket,24510151300,True
 Unnamed convenience,grocery,convenience,39.3085637,-76.6712445,,,,,,,,,,,,,Grocery,Convenience,24510150600,True
 ALDI,grocery,supermarket,39.3353516,-76.6760341,,,,,,,,,,,,,Grocery,Supermarket,24510151100,True
 Save-A-Lot,grocery,supermarket,39.3101384,-76.6755833,,,,,,,,,,,,,Grocery,Supermarket,24510150600,True
@@ -272,7 +272,7 @@ C&H Tire & Car Care Center,auto_repair,car_repair,39.4303195,-76.3520835,,,,,,,,
 AutoZone,auto_repair,car_parts,39.4344354,-76.3246041,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
 410TintPro,auto_repair,car_repair,39.4358747,-76.3083874,,,,,,,,,,,,,Auto Repair,Car Repair,24025301302,True
 Jiffy Lube,auto_repair,car_repair,39.4351884,-76.3180495,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
-Precision Tune Auto Care,auto_repair,car_repair,39.4355184,-76.3180817,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
+Precision Tune Auto Care,auto_repair,car_repair,39.4355299,-76.3180851,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
 Rim Exchange,auto_repair,car_parts,39.4342862,-76.3144832,,,,,,,,,,,,,Auto Repair,Car Parts,24025301302,True
 The Masters Auto Shop,auto_repair,car_repair,39.4363661,-76.3115545,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
 Pick Your Part,auto_repair,car_parts,39.4356449,-76.3239196,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
@@ -584,15 +584,12 @@ Truist Bank,financial,bank,39.3106590208182,-76.6603599752581,,,,,,,,,,,,,Financ
 "Wells Fargo Bank, National Association",financial,bank,38.9907720680306,-76.9814498149703,,,,,,,,,,,,,Financial,Bank,24033805602,True
 FIVE STAR OF MARYLAND,financial,credit_union,39.214445,-76.570677,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24510250500,True
 ABERDEEN PROVING GROUND,financial,credit_union,39.432056,-76.334846,True,False,True,True,True,True,True,True,False,True,False,,Financial,Credit Union,24025301302,True
-DEMOCRACY,financial,credit_union,38.854256,-76.909012,False,True,False,False,True,True,False,True,False,True,True,,Financial,Credit Union,24033802407,True
 "STATE EMPLOYEES CU OF MARYLAND, INC",financial,credit_union,39.301355,-76.622011,False,False,False,False,True,True,False,False,False,True,False,,Financial,Credit Union,24510170200,True
 MUNICIPAL EMPL.CREDIT UNION OF BALT,financial,credit_union,39.343198,-76.707015,False,True,True,False,True,True,False,True,False,True,False,,Financial,Credit Union,24510280102,True
-SECURITYPLUS,financial,credit_union,39.345591,-76.700408,False,True,False,True,True,True,False,True,False,True,True,,Financial,Credit Union,24510280102,True
-SECURITYPLUS,financial,credit_union,39.3490263,-76.7002633,False,True,False,True,True,True,False,True,False,True,True,,Financial,Credit Union,24510280102,True
 NYMEO,financial,credit_union,39.417744,-77.445358,False,False,True,True,True,True,False,True,False,True,False,,Financial,Credit Union,24021750504,True
+"STATE EMPLOYEES CU OF MARYLAND, INC",financial,credit_union,39.619989,-77.771149,False,False,False,False,True,True,False,False,False,True,False,,Financial,Credit Union,24043000900,True
 CHESSIE,financial,credit_union,39.632011,-78.765404,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24001000800,True
 CHESSIE,financial,credit_union,39.628567,-78.766538,False,False,False,False,False,False,False,True,False,True,False,,Financial,Credit Union,24001000800,True
-"STATE EMPLOYEES CU OF MARYLAND, INC",financial,credit_union,39.619989,-77.771149,False,False,False,False,True,True,False,False,False,True,False,,Financial,Credit Union,24043000900,True
 Jade Niemiec,childcare,family_child_care,39.63559039,-78.75187692,,,,,,,,,,,,1.0,Childcare,Family Child Care,24001000700,True
 HRDC Cumberland St. Head Start,childcare,child_care_center,39.629407,-78.76594,,,,,,,,,,,,3.0,Childcare,Child Care Center,24001000800,True
 Taryn Gordon,childcare,large_family_child_care,39.63613581,-78.75881122,,,,,,,,,,,,3.0,Childcare,Large Family Child Care,24001000700,True
@@ -1185,13 +1182,13 @@ OCA Soul Haven,food_pantry,Network Partners: Meal Programs,39.6390440000001,-77.
 "Wells House, Inc.",food_pantry,Network Partners: Meal Programs,39.637775,-77.7191549999999,,,,,,,,,,,,,Food Pantry,Network Partners: Meal Programs,24043000700,True
 RDO Harford Community Action Agency,food_pantry,Network Partners: RDOs,39.431387,-76.3291369999999,,,,,,,,,,,,,Food Pantry,Network Partners: Rdos,24025301302,True
 RDO Southern Maryland Food Bank,food_pantry,Network Partners: RDOs,38.6127900000001,-76.906198,,,,,,,,,,,,,Food Pantry,Network Partners: Rdos,24017850901,True
+Kingdom Cares Center,food_pantry,Capital Area Food Bank Partner Agency,39.049883,-76.938913,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033807410,True
+East Montgomery County Hub,food_pantry,Capital Area Food Bank Partner Agency,39.050093,-76.939872,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033807410,True
+ECWA USA Evangelical Church Winning All,food_pantry,Capital Area Food Bank Partner Agency,38.862282,-76.911818,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802407,True
 Woodland Springs Apartments,food_pantry,Capital Area Food Bank Partner Agency,38.861083,-76.89249,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802404,True
+Walker Mill Community Development Center,food_pantry,Capital Area Food Bank Partner Agency,38.868468,-76.890436,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802404,True
 Turner AME Church,food_pantry,Capital Area Food Bank Partner Agency,38.979161,-76.98084,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033805500,True
 St. Michael and All Angels,food_pantry,Capital Area Food Bank Partner Agency,38.999469,-76.982445,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033805700,True
 "Mt. Calvary Catholic Church, Ladies of Charity Food Pantry",food_pantry,Capital Area Food Bank Partner Agency,38.85237,-76.889613,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802301,True
 Latin American Youth Center,food_pantry,Capital Area Food Bank Partner Agency,38.965082,-76.910888,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033806602,True
 First Baptist Church of District Heights,food_pantry,Capital Area Food Bank Partner Agency,38.859016,-76.880889,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802301,True
-East Montgomery County Hub,food_pantry,Capital Area Food Bank Partner Agency,39.050093,-76.939872,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033807410,True
-Kingdom Cares Center,food_pantry,Capital Area Food Bank Partner Agency,39.049883,-76.938913,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033807410,True
-ECWA USA Evangelical Church Winning All,food_pantry,Capital Area Food Bank Partner Agency,38.862282,-76.911818,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802407,True
-Walker Mill Community Development Center,food_pantry,Capital Area Food Bank Partner Agency,38.868468,-76.890436,,,,,,,,,,,,,Food Pantry,Capital Area Food Bank Partner Agency,24033802404,True

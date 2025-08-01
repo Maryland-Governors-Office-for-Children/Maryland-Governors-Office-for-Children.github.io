@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ENOUGH Grantee Resource Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Public+Sans:400,500,700&display=swap" rel="stylesheet">
+    <style>
+        /* Ensure body and html take full height and map container too */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family: 'Public Sans', Arial, sans-serif;
+            color: #000000;
+            overflow: hidden; /* Prevent scrollbars from appearing due to controls */
+        }
+        #map {
+            height: 100%;
+            width: 100%;
+            z-index: 0; /* Ensure map is behind controls */
+        }
+        /* Custom Leaflet control styling to match Tailwind's aesthetic */
+        .leaflet-control-container .leaflet-control {
+            border-radius: 0.375rem; /* rounded-md */
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); /* shadow-md */
+            border: 1px solid #e5e7eb; /* border-gray-200 */
+        }
+        #main-control-box {
+            background-color: rgba(255,255,255,0.85) !important;
+        }
+        .main-title {
+            color: #050A47;
+            font-family: 'Merriweather', serif;
+        }
+        .main-legend-title {
+            color: #565656;
+            font-family: 'Merriweather', serif;
+        }
+        .main-hr {
+            border-color: #565656;
+        }
+        .main-label, .main-filter-label, .main-legend-label, #clear-filters-link {
+            color: #565656 !important;
+            font-family: 'Public Sans', Arial, sans-serif;
+        }
+        #clear-filters-link {
+            color: #565656 !important;
+            font-weight: 500;
+        }
+        .business-btn-inactive {
+            background-color: #D6D6D6 !important;
+            color: #3C3C3C !important;
+        }
+        .business-btn-active {
+            background-color: #3D578A !important;
+            color: #FFFFFF !important;
+        }
+        .legend-color-box {
+            width: 20px !important;
+            height: 20px !important;
+            min-width: 20px !important;
+            min-height: 20px !important;
+            display: inline-block;
+            margin-right: 5px;
+            border: 1px solid #ccc;
+            vertical-align: middle;
+        }
+        #seal-container {
+            position: absolute;
+            top: 2rem;
+            right: 2rem;
+            z-index: 900; /* Below main-control-box (z-1000) */
+            display: flex;
+            align-items: center;
+            height: 70px;
+        }
+        #seal-img {
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            background: transparent;
+            cursor: pointer;
+            opacity: 1;
+            transition: box-shadow 0.2s;
+            box-shadow: none;
+        }
+        #seal-img:hover {
+            box-shadow: 0 4px 24px #050a47;
+        }
+        #seal-tooltip {
+            display: none;
+            position: absolute;
+            right: 90px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #050a47;
+            color: #fff;
+            padding: 0.7em 1.2em;
+            border-radius: 0.7em;
+            font-size: 1rem;
+            white-space: pre-line;
+            z-index: 100;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.13);
+            min-width: 320px;
+            text-align: left;
+        }
+        #seal-container:hover #seal-tooltip {
+            display: block;
+        }
+        /* Responsive: Move layer control to bottom right and make full-width on small screens */
+        @media (max-width: 640px) {
+            #layer-control-box {
+                top: unset !important;
+                bottom: 1rem !important;
+                right: 1rem !important;
+                left: unset !important;
+                width: calc(100vw - 2rem);
+                max-width: none;
+                min-width: 0;
+                z-index: 1001;
+                box-sizing: border-box;
+            }
+            #narrative-box {
+                left: 1rem !important;
+                right: 1rem !important;
+                left: unset !important;
+                max-width: none;
+                width: calc(100vw - 2rem);
+            }
+            #seal-container {
+                top: 1rem;
+                right: 1rem;
+                height: 54px;
+                z-index: 900;
+            }
+            #seal-img {
+                width: 54px;
+                height: 54px;
+            }
+            #seal-tooltip {
+                font-size: 0.95rem;
+                right: calc(100% + 10px);
+                left: auto;
+                top: 0;
+                transform: none;
+                min-width: 180px;
+                max-width: 90vw;
+                white-space: normal;
+                box-sizing: border-box;
+                overflow-wrap: break-word;
+                word-break: break-word;
+                text-align: left;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <div id="main-control-box" class="custom-control-box absolute top-4 left-12 max-w-xs md:max-w-sm p-4 rounded-lg shadow-xl z-[1000] transition-all duration-200" style="background-color:rgba(255,255,255,0.85)">
+      <!-- Minimize/Maximize Button -->
+      <button id="main-toggle-btn" class="absolute top-2 right-2 w-7 h-7 flex items-center justify-center rounded-full bg-gray-200 hover:bg-gray-300 text-gray-700 focus:outline-none" title="Minimize">
+        <span id="main-toggle-icon" class="text-lg leading-none">&#8211;</span>
+      </button>
+      <h2 class="text-xl font-semibold mb-2 main-title">ENOUGH Grantee Resource Map</h2>
+      <p class="text-sm mb-4">This map displays ENOUGH Act grantees and essential resource locations (last updated August 1, 2025). Use the dropdown below to select and zoom to a grantee. Use the checkboxes to toggle resource types. The legend shows the grantee ENOUGH Act track.</p>
+      <hr class="mb-4 main-hr" style="border-color:#D6D6D6;"/>
+      <label for="grantee-dropdown" class="block text-xs font-medium mb-1 main-label">Select Grantee Organization:</label>
+      <select id="grantee-dropdown" class="w-full text-xs p-2 border border-gray-300 rounded-md mb-2"></select>
+      <div class="mb-2">
+        <div class="flex items-center justify-between mb-1">
+          <span class="text-xs font-medium main-filter-label">Filter By Resource Type</span>
+          <a href="#" id="clear-filters-link" class="text-xs underline ml-2 main-label" style="display:none;">Clear filters</a>
+        </div>
+        <div id="business-type-filters" class="flex flex-wrap gap-2 mb-1"></div>
+      </div>
+      <hr class="mb-4 main-hr" style="border-color:#D6D6D6;"/>
+      <div class="my-2 main-hr"></div>
+      <div>
+        <h4 class="text-md font-semibold mb-1 main-legend-title">Legend</h4>
+        <div id="legend-content"></div>
+      </div>
+    </div>
+    <div id="seal-container">
+      <img id="seal-img" src="assets/seal-blue.png" alt="Maryland State Innovation Team Seal" />
+      <div id="seal-tooltip">Created by the Maryland State Innovation Team in the Office of Governor Wes Moore.</div>
+    </div>
+    <div id="map"></div>
+
+    <script>
+      // Minimize/Maximize Main Control Box
+      const mainBox = document.getElementById('main-control-box');
+      const mainToggleBtn = document.getElementById('main-toggle-btn');
+      const mainToggleIcon = document.getElementById('main-toggle-icon');
+      let mainMinimized = false;
+      mainToggleBtn.addEventListener('click', () => {
+        mainMinimized = !mainMinimized;
+        Array.from(mainBox.children).forEach(child => {
+          if (child !== mainToggleBtn) child.style.display = mainMinimized ? 'none' : '';
+        });
+        if (mainMinimized) {
+          mainBox.style.padding = '0.5rem';
+          mainBox.style.width = '3rem';
+          mainBox.style.minWidth = 'unset';
+          mainBox.style.maxWidth = '3rem';
+          mainBox.style.height = '2.5rem';
+          mainBox.style.minHeight = '2.5rem';
+          mainToggleIcon.innerHTML = '&#43;';
+          mainToggleBtn.title = 'Maximize';
+        } else {
+          mainBox.style.padding = '';
+          mainBox.style.width = '';
+          mainBox.style.minWidth = '';
+          mainBox.style.maxWidth = '';
+          mainBox.style.height = '';
+          mainBox.style.minHeight = '';
+          mainToggleIcon.innerHTML = '&#8211;';
+          mainToggleBtn.title = 'Minimize';
+        }
+      });
+    </script>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ajax@2.1.0/dist/leaflet.ajax.min.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([39, -77.3], 8);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+            subdomains: 'abcd',
+            maxZoom: 20
+        }).addTo(map);
+
+        // --- Business Layers ---
+        const businessTypeIcons = {
+          'Grocery': 'fa-solid fa-cart-shopping',
+          'Childcare': 'fa-solid fa-child',
+          'Laundry': 'fa-solid fa-soap',
+          'Home Repair': 'fa-solid fa-house-chimney',
+          'Auto Repair': 'fa-solid fa-screwdriver-wrench',
+          'Pharmacy': 'fa-solid fa-prescription-bottle-medical',
+          'Barber Beauty': 'fa-solid fa-scissors',
+          'Financial': 'fa-solid fa-piggy-bank',
+          'Medical': 'fa-solid fa-stethoscope',
+          'Food Pantry': 'fa-solid fa-apple-whole'
+        };
+        const serviceLayers = {
+            'Grocery': new L.markerClusterGroup(),
+            'Childcare': new L.markerClusterGroup(),
+            'Laundry': new L.markerClusterGroup(),
+            'Home Repair': new L.markerClusterGroup(),
+            'Auto Repair': new L.markerClusterGroup(),
+            'Pharmacy': new L.markerClusterGroup(),
+            'Barber Beauty': new L.markerClusterGroup(),
+            'Financial': new L.markerClusterGroup(),
+            'Medical': new L.markerClusterGroup(),
+            'Food Pantry': new L.markerClusterGroup()
+        };
+        const typeToLabel = {
+          grocery: "Grocery",
+          childcare: "Childcare",
+          laundry: "Laundry",
+          home_repair: "Home Repair",
+          auto_repair: "Auto Repair",
+          pharmacy: "Pharmacy",
+          barber_beauty: "Barber Beauty",
+          financial: "Financial",
+          medical: "Medical",
+          food_pantry: "Food Pantry"
+        };
+        // For each type, load GeoJSON and add features to the corresponding marker cluster group
+        Object.entries(typeToLabel).forEach(([type, label]) => {
+          const markerClusterGroup = serviceLayers[label];
+          new L.GeoJSON.AJAX(`assets/${type}.geojson`, {
+              onEachFeature: (feature, layer) => {
+                  let popupContent = `<div>
+                    <strong>${feature.properties.name || "Unnamed"}</strong><br>
+                    <span class=\"text-xs text-gray-600\">${feature.properties.type_label || ""}${feature.properties.tag_label ? " – " + feature.properties.tag_label : ""}</span><br>
+                    ${feature.properties.grantee ? '<span class="inline-block px-2 py-1 text-xs bg-yellow-200 text-yellow-800 rounded mr-1">Within Grantee Community</span>' : ''}
+                  `;
+                  // Childcare: show quality if present
+                  if (type === "childcare" && feature.properties.quality) {
+                    popupContent += `<span class='inline-block px-2 py-1 text-xs bg-blue-100 text-blue-800 rounded mr-1'>Quality: ${feature.properties.quality}</span><br>`;
+                  }
+                  // Financial: show flags for each boolean property that is "True"
+                  if (type === "financial") {
+                    const boolFields = [
+                      { key: "isMainOffice", label: "Main Office" },
+                      { key: "isMdi", label: "Minority Depository Institution" },
+                      { key: "bilingual_Services", label: "Bilingual Services" },
+                      { key: "credit_Builder", label: "Credit Builder Program" },
+                      { key: "financial_Counseling", label: "Financial Counseling" },
+                      { key: "first_Time_Homebuyer_Program", label: "First-Time Homebuyer Program" },
+                      { key: "inSchoolBranch", label: "In-School Branch" },
+                      { key: "low_cost_wire_transfers", label: "Low-Cost Wire Transfers" },
+                      { key: "no_Cost_Tax_Preparation", label: "Free Tax Preparation" },
+                      { key: "no_Cost_Share_Drafts", label: "Free Checking Accounts" },
+                      { key: "payday_alternative_loans", label: "Payday Alternative Loans" }
+                    ];
+                    boolFields.forEach(f => {
+                      if (feature.properties[f.key] === "True") {
+                        popupContent += `<span class='inline-block px-2 py-1 text-xs bg-green-100 text-green-800 rounded mr-1 mb-1'>${f.label}</span>`;
+                      }
+                    });
+                    popupContent += '<br>';
+                  }
+                  popupContent += `</div>`;
+                  layer.bindPopup(popupContent);
+              }
+          }).on('data:loaded', function(e) {
+              markerClusterGroup.addLayer(e.target);
+          });
+        });
+        // --- Business Type Filter Buttons ---
+        const businessTypeFilters = document.getElementById('business-type-filters');
+        const clearFiltersLink = document.getElementById('clear-filters-link');
+        let selectedTypes = new Set();
+        function updateBusinessTypeFilters() {
+          businessTypeFilters.innerHTML = '';
+          Object.keys(serviceLayers).forEach(layerName => {
+            const btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'flex items-center px-3 py-1 rounded-sm text-xs font-medium mr-1 mb-1 border ' +
+              (selectedTypes.has(layerName) ? 'business-btn-active' : 'business-btn-inactive');
+            btn.innerHTML = `${layerName} <i class='${businessTypeIcons[layerName]} ml-2'></i>`;
+            btn.onclick = () => {
+              if (selectedTypes.has(layerName)) {
+                selectedTypes.delete(layerName);
+                map.removeLayer(serviceLayers[layerName]);
+              } else {
+                selectedTypes.add(layerName);
+                map.addLayer(serviceLayers[layerName]);
+              }
+              updateBusinessTypeFilters();
+              updateClearFiltersLink();
+            };
+            businessTypeFilters.appendChild(btn);
+          });
+        }
+        function updateClearFiltersLink() {
+          // Use style.display instead of classList for cross-browser reliability
+          const show = selectedTypes.size > 0;
+          clearFiltersLink.style.display = show ? '' : 'none';
+        }
+        clearFiltersLink.onclick = (e) => {
+          e.preventDefault();
+          selectedTypes.forEach(type => map.removeLayer(serviceLayers[type]));
+          selectedTypes.clear();
+          updateBusinessTypeFilters();
+          updateClearFiltersLink();
+        };
+        updateBusinessTypeFilters();
+        updateClearFiltersLink();
+
+        // --- Grantees Layer, Legend, and Dropdown ---
+        let granteesFeatures = [];
+        let orgNameToFeatures = {};
+        let allOrgNames = new Set();
+        let allTrackTypes = new Set();
+        // Color mapping for GOC_TRACK_TYPE
+        const trackTypeColors = {
+          "Track 1: Partnership Development": "#EB7028",
+          "Track 2: Plan Development": "#2888B8",
+          "Track 3: Implementation": "#48A375"
+        };
+        function getUniqueSorted(arr) {
+          return Array.from(new Set(arr)).sort((a, b) => a.localeCompare(b));
+        }
+        function getFeatureBounds(features) {
+          let bounds = null;
+          features.forEach(f => {
+            const layer = L.geoJSON(f);
+            if (!bounds) {
+              bounds = layer.getBounds();
+            } else {
+              bounds.extend(layer.getBounds());
+            }
+          });
+          return bounds;
+        }
+        fetch('assets/grantees.geojson')
+          .then(res => res.json())
+          .then(data => {
+            granteesFeatures = data.features;
+            granteesFeatures.forEach(f => {
+              if (f.properties && f.properties.GOC_TRACK_TYPE) {
+                allTrackTypes.add(f.properties.GOC_TRACK_TYPE);
+              }
+            });
+            // Build legend
+            const legendContent = document.getElementById('legend-content');
+            legendContent.innerHTML = '';
+            getUniqueSorted(Array.from(allTrackTypes)).forEach(type => {
+              const color = trackTypeColors[type] || '#888888';
+              const div = document.createElement('div');
+              div.className = 'flex items-center mb-1';
+              div.innerHTML = `<span class="legend-color-box" style="background-color: ${color} !important;"></span><span class="text-xs main-legend-label">${type}</span>`;
+              legendContent.appendChild(div);
+            });
+            // Collect all unique organization names (split by ; )
+            granteesFeatures.forEach(f => {
+              if (f.properties && f.properties.ORGANIZATION_NAME) {
+                f.properties.ORGANIZATION_NAME.split('; ').forEach(name => {
+                  allOrgNames.add(name);
+                  if (!orgNameToFeatures[name]) orgNameToFeatures[name] = [];
+                  if (f.properties.ORGANIZATION_NAME.includes(name)) {
+                    orgNameToFeatures[name].push(f);
+                  }
+                });
+              }
+            });
+            // Populate dropdown
+            const dropdown = document.getElementById('grantee-dropdown');
+            dropdown.innerHTML = '<option value="">Select</option>';
+            getUniqueSorted(Array.from(allOrgNames)).forEach(name => {
+              const opt = document.createElement('option');
+              opt.value = name;
+              opt.textContent = name;
+              dropdown.appendChild(opt);
+            });
+            // Add all grantee features to map
+            const granteesLayer = L.geoJSON(granteesFeatures, {
+              style: f => {
+                const type = f.properties.GOC_TRACK_TYPE;
+                const color = trackTypeColors[type] || '#888888';
+                return {
+                  color: color,
+                  weight: 2,
+                  opacity: 0.7,
+                  fillOpacity: 0.2
+                };
+              },
+              onEachFeature: (feature, layer) => {
+                layer.bindPopup(
+                  `<div>
+                    <strong>Organization:</strong> ${feature.properties.ORGANIZATION_NAME}<br>
+                    <strong>Track Type:</strong> ${feature.properties.GOC_TRACK_TYPE}<br>
+                  </div>`
+                );
+              }
+            }).addTo(map);
+            // Dropdown event
+            dropdown.addEventListener('change', function() {
+              const selected = this.value;
+              if (selected && orgNameToFeatures[selected]) {
+                const bounds = getFeatureBounds(orgNameToFeatures[selected]);
+                if (bounds && bounds.isValid()) {
+                  map.fitBounds(bounds, { maxZoom: 15 });
+                }
+              }
+            });
+          });
+        // --- Adjust map view on window resize ---
+        window.addEventListener('resize', () => {
+            map.invalidateSize();
+        });
+    </script>
+
+</body>
+</html>
