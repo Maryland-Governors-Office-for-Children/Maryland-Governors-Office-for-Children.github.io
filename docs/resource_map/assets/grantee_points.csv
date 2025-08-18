@@ -21,6 +21,7 @@ Hilltop Shopping Center,grocery,convenience,39.347542,-76.689012,,,,,,,,,,,,,Gro
 Perez International Foods,grocery,grocery,39.4349479,-76.3190481,,,,,,,,,,,,,Grocery,Grocery,24025301301,True
 Grocery Outlet,grocery,supermarket,39.4342767,-76.3157726,,,,,,,,,,,,,Grocery,Supermarket,24025301302,True
 Tienda Naturista Playa Ventura,grocery,convenience,39.3114461,-76.4675935,,,,,,,,,,,,,Grocery,Convenience,24005450501,True
+Kool Breeze Caribbean Market,grocery,greengrocer,39.4344853,-76.3067416,,,,,,,,,,,,,Grocery,Greengrocer,24025301302,True
 You & I International Market,grocery,convenience,39.435676,-76.3071281,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
 Drew's Crab Shack,grocery,seafood,39.4426383,-76.3157685,,,,,,,,,,,,,Grocery,Seafood,24025301301,True
 Save-A-Lot,grocery,supermarket,38.8344218,-76.9587753,,,,,,,,,,,,,Grocery,Supermarket,24033801808,True
@@ -432,7 +433,6 @@ NAPtural Hair Artistry,barber_beauty,hairdresser,39.3219479,-76.6136683,,,,,,,,,
 Avon’s Studio,barber_beauty,hairdresser,39.3098477,-76.6180702,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510120500,True
 Salon Ruth,barber_beauty,hairdresser,39.3100479,-76.6476793,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510150400,True
 Transformations Kutz and Salon,barber_beauty,hairdresser,39.4456116,-76.3092454,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
-The Male Room,barber_beauty,hairdresser,39.4455015,-76.309111,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
 Professional Nails,barber_beauty,beauty,39.4203366,-77.4508212,,,,,,,,,,,,,Barber Beauty,Beauty,24021750508,True
 Beauty Max,barber_beauty,beauty,39.4194921,-77.4489242,,,,,,,,,,,,,Barber Beauty,Beauty,24021750504,True
 Hair Design,barber_beauty,hairdresser,38.9909173,-76.9878929,,,,,,,,,,,,,Barber Beauty,Hairdresser,24033805601,True
