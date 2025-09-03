@@ -162,7 +162,7 @@ def run():
         if result:
             resources_by_type[resource_type] = result['elements']
         else:
-            resources_by_type[resource_type] = []
+            raise Exception(f"Failed to fetch type: {resource_type}")
         sleep(10)
 
 
