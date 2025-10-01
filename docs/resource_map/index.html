@@ -171,7 +171,7 @@
         <span id="main-toggle-icon" class="text-lg leading-none">&#8211;</span>
       </button>
       <h2 class="text-xl font-semibold mb-2 main-title">ENOUGH Grantee Resource Map</h2>
-      <p class="text-sm mb-4">This map displays ENOUGH Act grantees and essential resource locations (last updated September 3, 2025). Use the dropdown below to select and zoom to a grantee. Use the checkboxes to toggle resource types. The legend shows the grantee ENOUGH Act track.</p>
+      <p class="text-sm mb-4">This map displays ENOUGH Act grantees and essential resource locations (last updated October 1, 2025). Use the dropdown below to select and zoom to a grantee. Use the checkboxes to toggle resource types. The legend shows the grantee ENOUGH Act type.</p>
       <hr class="mb-4 main-hr" style="border-color:#D6D6D6;"/>
       <label for="grantee-dropdown" class="block text-xs font-medium mb-1 main-label">Select Grantee Organization:</label>
       <select id="grantee-dropdown" class="w-full text-xs p-2 border border-gray-300 rounded-md mb-2"></select>
@@ -370,9 +370,9 @@
         let allTrackTypes = new Set();
         // Color mapping for GOC_TRACK_TYPE
         const trackTypeColors = {
-          "Track 1: Partnership Development": "#EB7028",
-          "Track 2: Plan Development": "#2888B8",
-          "Track 3: Implementation": "#48A375"
+          "Partnership Development": "#EB7028",
+          "Plan Development": "#2888B8",
+          "Implementation": "#48A375"
         };
         function getUniqueSorted(arr) {
           return Array.from(new Set(arr)).sort((a, b) => a.localeCompare(b));
@@ -445,7 +445,7 @@
                 layer.bindPopup(
                   `<div>
                     <strong>Organization:</strong> ${feature.properties.ORGANIZATION_NAME}<br>
-                    <strong>Track Type:</strong> ${feature.properties.GOC_TRACK_TYPE}<br>
+                    <strong>Type:</strong> ${feature.properties.GOC_TRACK_TYPE}<br>
                   </div>`
                 );
               }

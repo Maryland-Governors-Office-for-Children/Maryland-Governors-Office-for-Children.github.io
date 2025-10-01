@@ -2,11 +2,11 @@ name,type,tag,lat,lng,isMainOffice,isMdi,bilingual_Services,credit_Builder,finan
 7-Eleven,grocery,convenience,39.308232,-76.4450024,,,,,,,,,,,,,Grocery,Convenience,24005450504,True
 Exxon,grocery,convenience,39.3124443,-76.449067,,,,,,,,,,,,,Grocery,Convenience,24005450504,True
 Safeway,grocery,supermarket,38.9700252,-76.5228827,,,,,,,,,,,,,Grocery,Supermarket,24003702500,True
-Spicklers Market,grocery,convenience,39.6429047,-77.7187358,,,,,,,,,,,,,Grocery,Convenience,24043000500,True
+Hub City Convenience Store,grocery,convenience,39.6429242,-77.7187333,,,,,,,,,,,,,Grocery,Convenience,24043000500,True
 Angkor Supermarket,grocery,supermarket,38.9928633,-76.9922145,,,,,,,,,,,,,Grocery,Supermarket,24031702000,True
 7-Eleven,grocery,convenience,38.992679,-76.9926197,,,,,,,,,,,,,Grocery,Convenience,24031702000,True
 La Casa del Pueblo,grocery,convenience,39.314967,-76.4527555,,,,,,,,,,,,,Grocery,Convenience,24005450501,True
-Soda Pop Shop,grocery,convenience,39.2255094,-76.5886245,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
+Unnamed convenience,grocery,convenience,39.308758,-76.6704356,,,,,,,,,,,,,Grocery,Convenience,24510150600,True
 Tierda Mexicana Velasquez,grocery,convenience,38.566751,-76.0781078,,,,,,,,,,,,,Grocery,Convenience,24019970500,True
 Black Water,grocery,bakery,38.5689678,-76.0775733,,,,,,,,,,,,,Grocery,Bakery,24019970500,True
 E. G. Webster and Sons,grocery,supermarket,38.5626597,-76.0808667,,,,,,,,,,,,,Grocery,Supermarket,24019970600,True
@@ -41,7 +41,6 @@ Weis,grocery,supermarket,39.6338099,-77.7005247,,,,,,,,,,,,,Grocery,Supermarket,
 Atlantic Supermarket,grocery,supermarket,38.9887792,-76.9859511,,,,,,,,,,,,,Grocery,Supermarket,24033805601,True
 Casa Blanca,grocery,bakery,38.9909654,-76.9878289,,,,,,,,,,,,,Grocery,Bakery,24033805601,True
 Mercadito Ramos II,grocery,convenience,38.9912487,-76.9881063,,,,,,,,,,,,,Grocery,Convenience,24033805601,True
-Unnamed seafood,grocery,seafood,38.3235406,-76.2297925,,,,,,,,,,,,,Grocery,Seafood,24019970804,True
 Big E's Convenience Store,grocery,convenience,39.3301051,-76.6093013,,,,,,,,,,,,,Grocery,Convenience,24510090300,True
 Unnamed convenience,grocery,convenience,38.6951399,-75.7674403,,,,,,,,,,,,,Grocery,Convenience,24011955600,True
 Sweet Hearts Patisserie,grocery,pastry,38.9613563,-76.509606,,,,,,,,,,,,,Grocery,Pastry,24003706403,True
@@ -65,11 +64,13 @@ American Mart,grocery,convenience,39.2200816,-76.6144622,,,,,,,,,,,,,Grocery,Con
 Unnamed seafood,grocery,seafood,39.3537901,-76.6993508,,,,,,,,,,,,,Grocery,Seafood,24510280101,True
 Unnamed convenience,grocery,convenience,39.3100515,-76.6480368,,,,,,,,,,,,,Grocery,Convenience,24510150400,True
 St Mary's Food Market,grocery,convenience,39.2344166,-76.5967802,,,,,,,,,,,,,Grocery,Convenience,24510250402,True
-7 Star Food Market,grocery,convenience,39.2270061,-76.5888614,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
-Luckies Deli Mart,grocery,convenience,39.2282116,-76.5888549,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
-BP Shop,grocery,convenience,39.2281252,-76.5883869,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
-M & C Food Market,grocery,convenience,39.22864,-76.5901983,,,,,,,,,,,,,Grocery,Convenience,24510250500,True
 BP Shop,grocery,convenience,39.4360442,-76.3061605,,,,,,,,,,,,,Grocery,Convenience,24025301302,True
+Universal Supermarket,grocery,grocery,38.9976864,-77.0031694,,,,,,,,,,,,,Grocery,Grocery,24031701900,True
+Penny Mart,grocery,convenience,39.6407286,-77.7179138,,,,,,,,,,,,,Grocery,Convenience,24043000700,True
+S&K Mercadito Latino,grocery,marketplace,39.6426685,-77.7176478,,,,,,,,,,,,,Grocery,Marketplace,24043000500,True
+Potomac Seafood Market,grocery,seafood,39.6421517,-77.7170591,,,,,,,,,,,,,Grocery,Seafood,24043000500,True
+Crumbl Cookies,grocery,pastry,39.6254545,-77.7705251,,,,,,,,,,,,,Grocery,Pastry,24043000900,True
+Martin's Bakery,grocery,bakery,39.6322108,-77.7644726,,,,,,,,,,,,,Grocery,Bakery,24043000900,True
 99 Ranch Market,grocery,supermarket,39.1500812,-77.206167,,,,,,,,,,,,,Grocery,Supermarket,24031700713,True
 Shoppers Food & Pharmacy,grocery,supermarket,39.0166444,-76.9287385,,,,,,,,,,,,,Grocery,Supermarket,24033807301,True
 Sam's Club,grocery,wholesale,39.6319857,-77.7655224,,,,,,,,,,,,,Grocery,Wholesale,24043000900,True
@@ -201,7 +202,7 @@ Zips Dry Cleaning,laundry,dry_cleaning,38.8544441,-76.9098356,,,,,,,,,,,,,Laundr
 Unnamed laundry,laundry,laundry,39.2977591,-76.6453789,,,,,,,,,,,,,Laundry,Laundry,24510160300,True
 Unnamed dry_cleaning,laundry,dry_cleaning,39.3550758,-76.7032049,,,,,,,,,,,,,Laundry,Dry Cleaning,24510280101,True
 Lakeside Laundromat,laundry,laundry,39.1536715,-77.1985874,,,,,,,,,,,,,Laundry,Laundry,24031700713,True
-Curtis Bay Laundromat,laundry,laundry,39.2255886,-76.5886386,,,,,,,,,,,,,Laundry,Laundry,24510250500,True
+Universal Laundry,laundry,laundry,39.6427017,-77.7182086,,,,,,,,,,,,,Laundry,Laundry,24043000500,True
 Family Wash Day,laundry,laundry,39.3166836,-76.4589264,,,,,,,,,,,,,Laundry,Laundry,24005450501,True
 Unnamed laundry,laundry,laundry,39.2983205,-76.5820099,,,,,,,,,,,,,Laundry,Laundry,24510070200,True
 Unnamed laundry,laundry,laundry,38.6981286,-75.7886451,,,,,,,,,,,,,Laundry,Laundry,24011955600,True
@@ -262,6 +263,7 @@ Day’s Auto Body Repair Center,auto_repair,car_repair,39.2911505,-76.5991432,,,
 Advance Auto Parts,auto_repair,car_parts,39.2229333,-76.6130975,,,,,,,,,,,,,Auto Repair,Car Parts,24003750101,True
 Advance Auto Parts,auto_repair,car_parts,38.6206405,-76.9145724,,,,,,,,,,,,,Auto Repair,Car Parts,24017850901,True
 Hub City,auto_repair,tyres,39.6405738,-77.7130671,,,,,,,,,,,,,Auto Repair,Tyres,24043000601,True
+Rosemont Service Station,auto_repair,car_repair,39.4277443,-77.4321865,,,,,,,,,,,,,Auto Repair,Car Repair,24021750504,True
 Jiffy Lube,auto_repair,car_repair,39.6312765,-77.7625721,,,,,,,,,,,,,Auto Repair,Car Repair,24043000900,True
 Unnamed car_repair,auto_repair,car_repair,39.3365111,-76.6752419,,,,,,,,,,,,,Auto Repair,Car Repair,24510151100,True
 Oakcrest Auto Body,auto_repair,car_repair,38.8640211,-76.9140369,,,,,,,,,,,,,Auto Repair,Car Repair,24033802407,True
@@ -279,7 +281,6 @@ Rim Exchange,auto_repair,car_parts,39.4342862,-76.3144832,,,,,,,,,,,,,Auto Repai
 The Masters Auto Shop,auto_repair,car_repair,39.4363661,-76.3115545,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
 Pick Your Part,auto_repair,car_parts,39.4356449,-76.3239196,,,,,,,,,,,,,Auto Repair,Car Parts,24025301301,True
 Ourisman Collision Center,auto_repair,car_repair,39.4346198,-76.3303038,,,,,,,,,,,,,Auto Repair,Car Repair,24025301301,True
-Unnamed car_repair,auto_repair,car_repair,39.2213454,-76.5878192,,,,,,,,,,,,,Auto Repair,Car Repair,24510250500,True
 ABC Radiator & Air Conditioning,auto_repair,car_repair,39.2862026,-76.5989398,,,,,,,,,,,,,Auto Repair,Car Repair,24510030100,True
 Unnamed car_repair,auto_repair,car_repair,39.314127,-76.6066695,,,,,,,,,,,,,Auto Repair,Car Repair,24510090800,True
 Tires Unlimited & Automotive,auto_repair,car_repair,39.3232387,-76.607838,,,,,,,,,,,,,Auto Repair,Car Repair,24510090400,True
@@ -332,6 +333,7 @@ CVS Pharmacy,pharmacy,pharmacy,39.4209629,-77.465951,,,,,,,,,,,,,Pharmacy,Pharma
 Safeway,pharmacy,pharmacy,38.9700027,-76.5230197,,,,,,,,,,,,,Pharmacy,Pharmacy,24003702500,True
 Park Health Pharmacy,pharmacy,pharmacy,39.3480608,-76.6767667,,,,,,,,,,,,,Pharmacy,Pharmacy,24510271802,True
 Walgreens,pharmacy,pharmacy,39.4240309,-76.3711502,,,,,,,,,,,,,Pharmacy,Pharmacy,24025301301,True
+Express Pharmacy,pharmacy,pharmacy,39.6399595,-77.714771,,,,,,,,,,,,,Pharmacy,Pharmacy,24043000601,True
 Walgreens,pharmacy,pharmacy,39.3115544,-76.4657495,,,,,,,,,,,,,Pharmacy,Pharmacy,24005450501,True
 Walgreens,pharmacy,chemist,39.4357706,-76.3153785,,,,,,,,,,,,,Pharmacy,Chemist,24025301301,True
 Rite Aid,pharmacy,pharmacy,39.6331239,-78.7638613,,,,,,,,,,,,,Pharmacy,Pharmacy,24001000700,True
@@ -361,6 +363,7 @@ Grand Beauty & Outlet,barber_beauty,hairdresser,39.3466144,-76.688255,,,,,,,,,,,
 African Hair Braiding Group Salon,barber_beauty,hairdresser,39.3561254,-76.705596,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510280101,True
 Premier Image,barber_beauty,hairdresser,39.4357486,-76.3188313,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301301,True
 Salon Suites,barber_beauty,beauty,39.4357621,-76.3187441,,,,,,,,,,,,,Barber Beauty,Beauty,24025301301,True
+The Girls Room,barber_beauty,beauty,39.4352951,-76.3115716,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
 East Side Hair Connection,barber_beauty,hairdresser,39.4352852,-76.3116367,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
 Mona's Nails & Spa,barber_beauty,beauty,39.4352739,-76.3117111,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
 Gentlemen's Edge Barber Shop,barber_beauty,hairdresser,39.4339569,-76.3179501,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301302,True
@@ -424,6 +427,8 @@ Mr. Dan's Barber Shop,barber_beauty,hairdresser,39.1398828,-77.1970706,,,,,,,,,,
 Rubens Dominican Barbershop,barber_beauty,hairdresser,39.4282475,-76.3580178,,,,,,,,,,,,,Barber Beauty,Hairdresser,24025301401,True
 Design Beauty Supply,barber_beauty,beauty,39.2186081,-76.6151606,,,,,,,,,,,,,Barber Beauty,Beauty,24003750204,True
 Unnamed beauty,barber_beauty,beauty,39.4177417,-77.453394,,,,,,,,,,,,,Barber Beauty,Beauty,24021750505,True
+Flower Barber Shop,barber_beauty,hairdresser,38.9989794,-77.0035326,,,,,,,,,,,,,Barber Beauty,Hairdresser,24031702301,True
+Classy Nails & Spa,barber_beauty,beauty,39.6326837,-77.7635196,,,,,,,,,,,,,Barber Beauty,Beauty,24043000900,True
 Jerry’s Barber Shop,barber_beauty,hairdresser,39.3135893,-76.4605917,,,,,,,,,,,,,Barber Beauty,Hairdresser,24005450501,True
 A's Salon & Suites,barber_beauty,beauty,39.4340858,-76.3055295,,,,,,,,,,,,,Barber Beauty,Beauty,24025301302,True
 Studio 701,barber_beauty,hairdresser,39.2990731,-76.5792336,,,,,,,,,,,,,Barber Beauty,Hairdresser,24510070200,True
@@ -512,8 +517,6 @@ Unnamed dentist,medical,dentist,39.1555975,-77.1990279,,,,,,,,,,,,,Medical,Denti
 Centro Dental Las Americas,medical,dentist,38.9833582,-76.9802085,,,,,,,,,,,,,Medical,Dentist,24033805500,True
 Park West,medical,clinic,39.3367506,-76.663919,,,,,,,,,,,,,Medical,Clinic,24510151300,True
 Acosta & Associates Dental Practice,medical,dentist,39.2877357,-76.593874,,,,,,,,,,,,,Medical,Dentist,24510030100,True
-"Dr. Richard E. Fisher, MD",medical,doctors,39.2231879,-76.5884294,,,,,,,,,,,,,Medical,Doctors,24510250500,True
-Hudyma Eugene DPM,medical,doctors,39.2231524,-76.5884294,,,,,,,,,,,,,Medical,Doctors,24510250500,True
 Park Health Dentistry,medical,dentist,39.3480637,-76.6767266,,,,,,,,,,,,,Medical,Dentist,24510271802,True
 Jai Medical Center,medical,clinic,39.3384258,-76.6659302,,,,,,,,,,,,,Medical,Clinic,24510151300,True
 Unnamed clinic,medical,clinic,39.2210959,-76.6142919,,,,,,,,,,,,,Medical,Clinic,24003750204,True
@@ -724,7 +727,6 @@ Family Rainbow Learning Center II,childcare,child_care_center,39.33432637,-76.69
 Tracey Davis,childcare,family_child_care,39.35891516,-76.70857466,,,,,,,,,,,,0.0,Childcare,Family Child Care,24510280101,True
 Bloom Social Emotional Learning Center,childcare,child_care_center,39.34222138,-76.68759228,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510280102,True
 Renee Eubanks,childcare,family_child_care,39.33367042,-76.67227218,,,,,,,,,,,,2.0,Childcare,Family Child Care,24510151100,True
-Catholic Charities Head Start Baltimore City @ 10th Street,childcare,child_care_center,39.22657695,-76.59973608,,,,,,,,,,,,3.0,Childcare,Child Care Center,24510250500,True
 Coppin Early Childhood Center,childcare,child_care_center,39.310816,-76.674222,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510150600,True
 Darchei Noam,childcare,child_care_center,39.34665715,-76.71116132,,,,,,,,,,,,4.0,Childcare,Child Care Center,24510280102,True
 Elements of Education,childcare,child_care_center,39.31329594,-76.61382061,,,,,,,,,,,,1.0,Childcare,Child Care Center,24510120400,True
@@ -1122,11 +1124,8 @@ Chimes School,food_pantry,Maryland Food Bank Kids Programs,39.342564,-76.709763,
 Mars Estates Elementary School,food_pantry,Maryland Food Bank Kids Programs,39.313316,-76.4503819999999,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24005450501,True
 Arundel Elementary School,food_pantry,Maryland Food Bank Kids Programs,39.251922,-76.6277489999999,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510250207,True
 Harlem Park Elementary School,food_pantry,Maryland Food Bank Kids Programs,39.2984300000001,-76.6412,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510160200,True
-Benjamin Franklin High School at Masonville Cove,food_pantry,Maryland Food Bank Kids Programs,39.231997,-76.594498,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510250500,True
-Bay Brook Elementary School,food_pantry,Maryland Food Bank Kids Programs,39.225441,-76.598579,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510250500,True
 Cherry Hill Elementary,food_pantry,Maryland Food Bank Kids Programs,39.247958,-76.623556,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510250204,True
 Sandtown-Winchester Achievement Academy,food_pantry,Maryland Food Bank Kids Programs,39.3063000000001,-76.6404699999999,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510150100,True
-Curtis Bay Elementary,food_pantry,Maryland Food Bank Kids Programs,39.2262000000001,-76.593106,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510250500,True
 Dorothy I. Height Elementary,food_pantry,Maryland Food Bank Kids Programs,39.3114650000001,-76.6326,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510130200,True
 Dallas F. Nicholas Elementary,food_pantry,Maryland Food Bank Kids Programs,39.312821,-76.613559,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24510120400,True
 Maces Lane Middle School,food_pantry,Maryland Food Bank Kids Programs,38.557735,-76.0923769999999,,,,,,,,,,,,,Food Pantry,Maryland Food Bank Kids Programs,24019970600,True

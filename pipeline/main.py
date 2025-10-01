@@ -3,6 +3,7 @@ Entrypoint for the ENOUGH Resource Map pipeline.
 Orchestrates all major pipeline steps in order.
 """
 from modules import (
+    grantee_data,
     osm,
     financial,
     maryland_excel,
@@ -11,13 +12,18 @@ from modules import (
     combine_data
 )
 
-REFRESH_OSM = True
+REFRESH_GRANTEE_DATA = True
+REFRESH_OSM = False
 REFRESH_FINANCIAL = False
 REFRESH_CHILDCARE = False
 REFRESH_FOODBANK = False
 
 def main():
     print("Starting ENOUGH Resource Map pipeline...")
+    # 0. Refresh Grantee data
+    if REFRESH_GRANTEE_DATA:
+        grantee_data.run()
+
     # 1. Download OSM resource locations, if REFRESH_OSM
     if REFRESH_OSM:
         osm.run()
