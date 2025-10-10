@@ -33,7 +33,11 @@ need = merge(tract_geography, acs_agg, by="GEOID")
 ggplot(need) + 
   geom_sf(aes(fill=under6_inneed), color=NA) +
   theme_void() +
-  labs(fill="Children under 6 in\nhouseholds where all parent(s)\nare in the labor force")
+  labs(fill="Children under 6 in\nhouseholds where all parent(s)\nare in the labor force") +
+  theme(
+    legend.position="inside",
+    legend.position.inside = c(0.25, 0.35)
+  )
 
 demand_grantees = merge(data.table(demand), data.table(grantees), by.x="GEOID", by.y="GEOID20")
 demand_grantees_agg = demand_grantees[,.(under6_inneed=sum(under6_inneed)), by=.(
