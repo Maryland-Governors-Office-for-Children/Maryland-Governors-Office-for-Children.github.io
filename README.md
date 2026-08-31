@@ -1,5 +1,5 @@
 # ENOUGH-Resource-Map
-Data pipeline for creating and updating the ENOUGH Resource map geojson
+Data pipeline for creating and updating the ENOUGH Resource map geojson [https://maryland-governors-office-for-children.github.io/resource_map/]
 
 ## Overview
 This repository contains a data pipeline for aggregating, cleaning, and transforming resource data into GeoJSON files for the ENOUGH Resource Map. The output is used to power a web-based map visualization.
